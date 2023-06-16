@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-#EXTM3U billed-msg="AW DENTAL TV - PLAYLIST INI GRATIS 100% JIKA ANDA BELI SILAHKAN MINTA UANG KEMBALI PADA PENJUAL"
+#EXTM3U billed-msg="DENTiVi™ - PLAYLIST INI GRATIS 100% JIKA ANDA BELI SILAHKAN MINTA UANG KEMBALI PADA PENJUAL"
 
 
 
@@ -112,8 +112,13 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mentari-tv-id.png" group-title="01. NATIONAL",Mentari TV
 http://103.166.27.2:800/play/a018
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XuTzv0bqfxY/YJYrykum4tI/AAAAAAAAEl8/keGu1T6qQ2QuMv2uAZWS22w4dCsXNpUHgCLcBGAsYHQ/s720/ntv-p.png" group-title="Nasional",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indonesiana-tv-id.png" group-title="01. NATIONAL",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-indonesia-channel-id.png" group-title="01. NATIONAL",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
@@ -386,7 +391,8 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/tVALhcN.png" group-title="03. MOVIES",Flik
+https://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
 
 
@@ -520,6 +526,9 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 
 
 ###################### ENTERTAINMENT ######################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="05. ENTERTAINMENT", USEE PRIME
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-entertainment-id.png" group-title="05. ENTERTAINMENT",Citra Entertainment
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
@@ -656,10 +665,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 
 ###################### SPORTS ######################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="05. ENTERTAINMENT", USEE PRIME
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="05. ENTERTAINMENT", USEE PRIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="07. SPORTS", USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 
@@ -695,6 +701,12 @@ https://av-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3QdO08DxFc8/YVkqljfCvrI/AAAAAAAAH2E/GBy4DGPowSgeadsXnhhIK_feYedtzhUSACLcBGAsYHQ/s720/spotv2-p.png"group-title="Sports",SPOTV 2 HD
+https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://i.ibb.co/mvWqwgn/Bein-1-hometv.jpg" group-title="07. SPORTS",BEIN 1 ID
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
@@ -843,11 +855,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="08. KIDS",Cartoon Network Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5dC3rk.png" group-title="08. KIDS",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZWMzNDU2ZWIzZDc4YTNkZTAvb0pONVozbS8vL0dBT2dhV09Sam42UU9tbnNtNkdxd0VNRTZ4em0wamhFSlBpbkZnNkYxWE9OUFRoc1ZCRDRDS2JSN3dEQ2g5dGl2NGIvUk0yZnB1SjhsYW9EbTVjaC84MXQwRWdERlVKQVkyTWtvSytqS3JscHorbXRlK3BX
-https://cdn.renotv.my.id/go/playt/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-#https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="08. KIDS",Cartoon Network Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="08. KIDS",Nick Jr
@@ -856,10 +872,20 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFpfoS1.jpg" group-title="08. KIDS", Nick Junior
+https://nxanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/N/Nickelodeon-logo-3BD9A4D934-seeklogo.com.png" group-title="08. KIDS",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LfL53pB.jpg" group-title="08. KIDS", Nickelodeon HD
+https://nxanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_46.png" group-title="08. KIDS",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -876,11 +902,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="08. KIDS",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#EXTINF:-1 group-title="08. KIDS" tvg-id="disneyjunioreast.us" tvg-logo="https://i.imgur.com/7d4qj7l.png",Disney Jr.
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162511
 
 #EXTINF:0 tvg-logo="https://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="08. KIDS",Miao Mi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -898,7 +926,7 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-kidz-id.png" group-title="08. KIDS",My Kidz
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://happykids.tv/svg/hkLogoVector.svg" group-title="08. KIDS",HappyKids Junior
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.imgur.com/07GDYoG.png" group-title="08. KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/horee-id.png" group-title="08. KIDS",Horee
@@ -910,8 +938,27 @@ http://210.210.155.37/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zoo_moo_global.png" group-title="08. KIDS",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjHtE92.png" group-title="08. KIDS", Pingfong TV
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oM6RukH.png" group-title="08. KIDS", Tayo TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GiXirEm.png"  group-title="08. KIDS" ,ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubMURFz.png" group-title="08. KIDS" ,ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 group-title="08. KIDS" tvg-id="cartoontvclassics.id" tvg-logo="https://i.imgur.com/ABaDikI.png",Cartoon TV Classics
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+
+#EXTINF:-1 group-title="08. KIDS" tvg-id="cartoontvpremium.id" tvg-logo="https://i.imgur.com/05Y908E.png",Cartoon TV Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 
 
@@ -924,14 +971,16 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/al-sunnah-al-nabawiyah.png" group-title="09. RELIGION",As Sunnah Al Nabawiyah
 http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059506_logo_muslim%20tv.png"group-title="09. RELIGION",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+https://nanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #http://185.243.7.13/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683103&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png"group-title="09. RELIGION",Muslim TV
@@ -939,11 +988,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kfau9QoNSSc/YJV9TpI6IZI/AAAAAAAAEhM/-sJaztNnhtoUllr9iou504MOGhNUBhbbgCLcBGAsYHQ/s720/mnc-muslim-p.png" group-title="09. RELIGION",Muslim TV
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13"group-title="09. RELIGION",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
 https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rodja_tv.png" group-title="09. RELIGION",RODJA TV
 http://210.210.155.35/qwr9ew/s/s14/index.m3u8
@@ -958,10 +1011,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 #KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
+#EXTINF:-1 group-title="09. RELIGION" tvg-logo="https://1.bp.blogspot.com/-QOpHfe7nRWg/YJV4l49ESeI/AAAAAAAAEf8/U5111M94WAAUal0vizKGTpsFFtnYsXzhACLcBGAsYHQ/s720/mtatv-pos.png",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_105.png"group-title="09. RELIGION",Tawaf TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QHwE9PpL4E0/YJV4o_r064I/AAAAAAAAEgk/afD3msLGOys2OKhP7yTvLhmH7PQx1AlcgCLcBGAsYHQ/s720/tawaftv-pos.png" group-title="09. RELIGION",Tawaf TV HD
+https://nxanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aswaja_tv_id.png" group-title="09. RELIGION",ASWAJA TV
 http://103.166.27.2:800/play/a020
@@ -1386,3 +1447,62 @@ https://www.googleapis.com/drive/v3/files/1LwqXMF9O6JtZuMMaVHkAGH46SpH4_PpU?alt=
 https://www.googleapis.com/drive/v3/files/15RYo8efhKos-QTnoj-r0DrvtgI74mcSX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="13. VOD MANCA",The Hobbit: The Battle of the Five Armies
 https://www.googleapis.com/drive/v3/files/1sLMVcHsH5yT_QsZtWqXLdcVsVGz7fIaw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+
+
+###################### MALAYSIA ######################
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0FzfKZcOwwg/YJZyZtpLMnI/AAAAAAAAEyY/ww8Onp23PuQCA0U8VYLPOnB8fNweA1PwQCLcBGAsYHQ/s720/rtmsports-p.png" group-title="14. MALAYSIA",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="14. MALAYSIA" tvg-logo="https://1.bp.blogspot.com/-gqE80UqUOfk/YJZyaL9VUwI/AAAAAAAAEyc/XuL4bCragCw7Tv21MljHT8-Q4R312DcwQCLcBGAsYHQ/s720/tv1-p%2B.png",TV1 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 group-title="14. MALAYSIA" tvg-logo="https://1.bp.blogspot.com/-nOyvZBs2M0M/YJZybbH0_II/AAAAAAAAEyg/By_ImTa9J-IYl7HO2Gao7tBs7lX_kKxKwCLcBGAsYHQ/s720/tv2-p.png",TV2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+ 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7410ppwLv2Y/YJZybaRIr6I/AAAAAAAAEyk/shxOUXe0af85p9boxM7fpcEOCypKEBGrwCLcBGAsYHQ/s720/tv3-p.png" group-title="14. MALAYSIA",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-H235qH1QxDE/YNc6AYqo8oI/AAAAAAAAGVM/KKJf2AHomoYd-2m-BB2cNzQpnEoFM8B2gCLcBGAsYHQ/s720/tv6-malaysia-p.png" group-title="14. MALAYSIA",TV6
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-logo="https://1.bp.blogspot.com/-rks53xDizjs/YJZyTkhe8JI/AAAAAAAAExQ/ERtk2kveQdcO7kFHl7Y6Gbz7ySeZJOMJgCLcBGAsYHQ/s720/8tv-p.png" group-title="14. MALAYSIA",TV8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ccd0b402-bff3-405c-90e9-d5e7751bcb38
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:-1 tvg-id="149" tvg-logo="https://1.bp.blogspot.com/-TaBsKG-Hy8o/YJZybu0aK6I/AAAAAAAAEyo/PQq0mODa1zALTiwD7myVAGb1WQ-8haC3ACLcBGAsYHQ/s720/tv9-p.png" group-title="14. MALAYSIA",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ffd0e2a2-f9e4-4159-ac8a-c0dd385def5e
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-0ANqwbg8ZO0/YPsoDqdU09I/AAAAAAAAG8k/iXcLZ5bO8mkBlFBuPhjGm6WZe2vHYkVhACLcBGAsYHQ/s720/Dramasangat-p.png" group-title="14. MALAYSIA",DRAMA SANGAT
+https://bystream.my.id/my/dramasangat.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-logo="https://1.bp.blogspot.com/-1O5co36K2EY/YJZyY1iNgvI/AAAAAAAAEyw/o07C4f2zt5YP74bR4OxTpPCnkBJYQCpOACPcBGAYYCw/s720/okey-p.png" group-title="14. MALAYSIA",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxY_PWEaYrFu5LfLjNI6AADufAIEOl-j6_kQsILxBH171YNzFgPshB7DmnnOKatO2HIW1_gSJ430fBzmyfxpM5m8A22HD3GX-PjrWTSQo5AXGxH2EQSqv0dHyIgnhXATVtSrmvVBGVZOpfQ8EjoDtrV0Fli0P0-Hj3WrqwjiQlsjvYLmxCPGkfKknK/s720/RTBGo.png" group-title="14. MALAYSIA",RTB Go 1
+https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxY_PWEaYrFu5LfLjNI6AADufAIEOl-j6_kQsILxBH171YNzFgPshB7DmnnOKatO2HIW1_gSJ430fBzmyfxpM5m8A22HD3GX-PjrWTSQo5AXGxH2EQSqv0dHyIgnhXATVtSrmvVBGVZOpfQ8EjoDtrV0Fli0P0-Hj3WrqwjiQlsjvYLmxCPGkfKknK/s720/RTBGo.png" group-title="14. MALAYSIA",RTB Go 2
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 group-title="14. MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjcOb_uhCmYOX-98_K6KW5e2kbN0t4Nv7GfFzRX0QVBoULOGTUlWlAIKnRAbpu-7mwceKS3LcwMd9u099cdcKXhRWUUXDiVWfEsr8Il575lh6Jh1u57DFO2VarLcPHNhbLEXiRfOjgo3Sko4rIhzaEIZBj6_UwT0d9Ixr8Rizyj1zDQff4bqH0JDblD=s720" , Suria 
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#EXTINF:-1 group-title="14. MALAYSIA" tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" , Awesome TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="TVikim" group-title="14. MALAYSIA"tvg-logo="https://1.bp.blogspot.com/-HSKsXjGPzYw/YJZyXu0hPtI/AAAAAAAAEyA/hvYo0sy9zR0wAqE1-B0KUzi5HZwNwwETgCLcBGAsYHQ/s720/ikim-p.png",Tv Ikim
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
