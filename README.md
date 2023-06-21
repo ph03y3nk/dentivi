@@ -1,2 +1,2 @@
-# dentivi
+# DENTiVi™
 jhfdhsaahf hjkhdfsajhfskj
