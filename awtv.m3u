@@ -275,7 +275,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 ###################### NEWS ######################
 
-#EXTINF:-1  tvg-logo="" group-title="07. TV INTERNATIONAL",Jakarta Globe News
+#EXTINF:-1  tvg-logo="" group-title="02. NEWS",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/channelgroup5/cg506production/ch2/02.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest/?cb=20190324014258" group-title="02. NEWS",Berita Satu World
