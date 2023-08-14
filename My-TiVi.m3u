@@ -135,15 +135,15 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 ###################### MOVIES ######################
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_asia.png" group-title="03. MOVIES",HBO
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="03. MOVIES",HBO Signature
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="03. MOVIES",HBO Hits
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="03. MOVIES",HBO Family
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/200px-Cinemax_(Yellow).svg.png" group-title="03. MOVIES",CINEMAX
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
+#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-pix-in.png" group-title="03. MOVIES",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rock-action-sg.png" group-title="03. MOVIES",Rock Action
@@ -197,7 +197,7 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="04. KIDS",Nick Junior
 http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="04. KIDS",Nickleodeon
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45521&extension=m3u8&play_token=w0n8UrkyS1
+#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45521&extension=m3u8&play_token=w0n8UrkyS1
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/cartoon-network.png" group-title="04. KIDS",CARTOON NETWORK
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aniplus_kr.png" group-title="04. KIDS",Aniplus Asia
@@ -237,9 +237,9 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="05. SPORTS",EuroSports
 http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://i.ibb.co/mvWqwgn/Bein-1-hometv.jpg" group-title="05. SPORTS",BEIN 1 ID
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://i.ibb.co/C0LchHL/Bein-3-hometv.jpg" group-title="05. SPORTS",BEIN 3 ID
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
+#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="05. SPORTS",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="05. SPORTS",Sony Ten 1
@@ -442,11 +442,11 @@ http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rodja_tv.png" group-title="09. RELIGION",RODJA TV
 http://210.210.155.35/qwr9ew/s/s14/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/rodjatv.png" group-title="09. RELIGION",RODJA TV
-http://210.210.155.35/session/ff7f8ea4-6df5-11ed-8981-c81f66f89318/qwr9ew/s/s14/index10.m3u8
+#http://210.210.155.35/session/ff7f8ea4-6df5-11ed-8981-c81f66f89318/qwr9ew/s/s14/index10.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aswaja_tv_id.png" group-title="09. RELIGION",ASWAJA TV
-http://103.166.27.2:800/play/a020
+#http://103.166.27.2:800/play/a020
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/mnc-muslim.png" group-title="09. RELIGION",MUSLIM TV
-http://185.243.7.13/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683103&extension=m3u8&play_token=xdbt7BgLik
+#http://185.243.7.13/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683103&extension=m3u8&play_token=xdbt7BgLik
 
 
 
