@@ -72,6 +72,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/animal-planet.png" group-title="02. DOCUMENTARY",Animal Planet
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png" group-title="02. DOCUMENTARY",History
+http://edge.linknetott.swiftserve.com/channelgroup2/cg228production/ch131/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png" group-title="02. DOCUMENTARY",National Geographic
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="02. DOCUMENTARY",National Geographic Wild
