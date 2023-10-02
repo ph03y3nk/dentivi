@@ -238,10 +238,10 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport-asia-fr.png" group-title="05. SPORTS",EuroSports
 http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://i.ibb.co/mvWqwgn/Bein-1-hometv.jpg" group-title="05. SPORTS",BEIN 1 ID
-#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://i.ibb.co/C0LchHL/Bein-3-hometv.jpg" group-title="05. SPORTS",BEIN 3 ID
-#http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="05. SPORTS",SPOTV
+http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="05. SPORTS",SPOTV 2
+http://edge.linknetott.swiftserve.com/channelgroup2/cg235production/ch3300/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="05. SPORTS",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="05. SPORTS",Sony Ten 1
@@ -279,7 +279,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 ###################### ENTERTAINMENT ######################
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="06. ENTERTAINMENT",AXN
-http://202.150.172.59:80/AXN/tracks-v1a1/mono.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="06. ENTERTAINMENT",Dens Food Channel
 http://210.210.155.37/x6bnqe/s/s38/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/asian-food-network-sg.svg" group-title="06. ENTERTAINMENT",Asian Food Network
