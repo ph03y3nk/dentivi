@@ -123,15 +123,15 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/02.m3u
 ###################### MOVIES ######################
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_asia.png" group-title="03. MOVIES",HBO
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="03. MOVIES",HBO Signature
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197048
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="03. MOVIES",HBO Hits
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197080
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="03. MOVIES",HBO Family
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/200px-Cinemax_(Yellow).svg.png" group-title="03. MOVIES",CINEMAX
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-pix-in.png" group-title="03. MOVIES",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rock-action-sg.png" group-title="03. MOVIES",Rock Action
