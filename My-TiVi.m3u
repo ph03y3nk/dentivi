@@ -1,18 +1,19 @@
-﻿#EXTM3U
+#EXTM3U
 
 ###################### NATIONAL ######################
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title="01. NATIONAL",ANTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg" group-title="01. NATIONAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/channelgroup5/cg547production/ch360/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cmbc-indonesia-us-id.png" group-title="01. NATIONAL",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" group-title="01. NATIONAL",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" group-title="01. NATIONAL",GTV HD
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=6.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="01. NATIONAL",INDOSIAR (Digital)
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="01. NATIONAL",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="01. NATIONAL",iNEWS
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
@@ -22,17 +23,17 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/02.m3u
 http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="01. NATIONAL",KOMPAS TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/magna-channel-id.png" group-title="01. NATIONAL",Magna TV
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="01. NATIONAL",METRO TV (Digital)
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="01. NATIONAL",METRO TV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg536production/ch394/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="01. NATIONAL",MNC TV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="01. NATIONAL",MNC TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/moji-tv.png" group-title="01. NATIONAL",MOJI TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/moji-tv.png" group-title="01. NATIONAL",MOJI TV(FirstMedia)
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="01. NATIONAL",NET. (Digital)
+#EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/moji-tv.png" group-title="01. NATIONAL",MOJI TV (Vidio)
+http://tvnid.x10.mx/vidio/master-2.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="01. NATIONAL",NET. TV
 http://210.210.155.35/uq2663/h/h06/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="01. NATIONAL",RCTI
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
@@ -44,6 +45,7 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="01. NATIONAL",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#http://tvnid.x10.mx/vidio/master-1.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="01. NATIONAL",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="01. NATIONAL",Trans 7 HD
@@ -198,6 +200,11 @@ http://208.86.19.13:81/7288.stream/index.m3u8
 https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_20.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="04. KIDS",Nick Junior
 http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/02.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/220px-DreamWorks_Channel_Logo.svg.png" group-title="04. KIDS",Dreamworks
+http://edge.linknetott.swiftserve.com/channelgroup3/cg347production/ch374/02.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/250px-Cartoonito_-_Logo_2021.svg.png" group-title="04. KIDS",CARTOONITO
+http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="04. KIDS",Nickleodeon
 #http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45521&extension=m3u8&play_token=w0n8UrkyS1
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/cartoon-network.png" group-title="04. KIDS",CARTOON NETWORK
@@ -277,7 +284,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 ###################### ENTERTAINMENT ######################
-
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-us.png" group-title="06. ENTERTAINMENT",Lifetime
+http://edge.linknetott.swiftserve.com/channelgroup2/cg226production/ch155/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="06. ENTERTAINMENT",AXN
 http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="06. ENTERTAINMENT",Dens Food Channel
@@ -445,6 +453,8 @@ http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 http://210.210.155.35/qwr9ew/s/s14/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/rodjatv.png" group-title="09. RELIGION",RODJA TV
 #http://210.210.155.35/session/ff7f8ea4-6df5-11ed-8981-c81f66f89318/qwr9ew/s/s14/index10.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="09. RELIGION",Citra Muslim
+http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aswaja_tv_id.png" group-title="09. RELIGION",ASWAJA TV
 #http://103.166.27.2:800/play/a020
 #EXTINF:-1  tvg-id="" tvg-logo="https://gdplayer.tv/assets/img/logo/mnc-muslim.png" group-title="09. RELIGION",MUSLIM TV
