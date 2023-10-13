@@ -412,13 +412,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_asia.png" group-title="03. MOVIES",HBO
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="03. MOVIES",HBO Signature
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197048
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/221948
+#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197048
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="03. MOVIES",HBO Hits
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197080
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/196480
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/196480
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="03. MOVIES",HBO Family
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/200px-Cinemax_(Yellow).svg.png" group-title="03. MOVIES",CINEMAX
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/197964
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CRK601FZ/hbo.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="03. MOVIES",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
