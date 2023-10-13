@@ -1,5 +1,57 @@
 #EXTM3U
 
+<!-- ====================================================================== -->
+<!-- ====================================================================== -->
+|-----------------------------------------------------------------------------|
+|                   Copyright (c) 2023, Salim,SE. (ph03y3nk)                  |
+|                                                                             |
+|                             ___            ___                              |
+|                            /\__\          /\__\                             |
+|                           /:/ _/_        /:/ _/_                            |
+|                          /:/ /\  \      /:/ /\  \                           |
+|                         /:/ /::\  \    /:/ /::\  \                          |
+|                        /:/_/:/\:\__\  /:/_/:/\:\__\                         |
+|                        \:\/:/ /:/  /  \:\/:/ /:/  /                         |
+|                         \::/ /:/  /    \::/ /:/  /                          |
+|                          \/_/:/  /      \/_/:/  /                           |
+|                            /:/  /         /:/  /                            |
+|                            \/__/July,2023.\/__/                             |
+|                             -Salims Softhouse-                              |
+|                                                                             |
+|-----------------------------------------------------------------------------|
+<!-- ====================================================================== -->
+<!-- ====================================================================== -->
+
+
+#################### KONTEN ISLAMI ###################
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Pagi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="00. KONTEN ISLAMI",Dzikir Pagi
+https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Petang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DpGZOCMeioII5wpQscU03uduG5hvC3w52A&usqp=CAU" group-title="00. KONTEN ISLAMI",Dzikir Petang
+https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Sebelum Tidur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="00. KONTEN ISLAMI",Dzikir Sebelum Tidur
+https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-MsLymHm9bU/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Abu Bakar Ash-Shiddiq - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=-MsLymHm9bU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y0IF0K5hCe8/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Utsman Bin Affan - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=Y0IF0K5hCe8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DbsPly41iqs/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Umar Bin Khattab - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=DbsPly41iqs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Eps 1 -  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/BF9OhMI6Hm0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Khalid bin Walid Eps 1 -  Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=BF9OhMI6Hm0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Eps 2 -  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/etP2LmaRP0I/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Khalid bin Walid Eps 2 -  Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=etP2LmaRP0I
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Episode Finale-  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/0AW6D6pIUZg/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Khalid bin Walid Episode Finale-  Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=0AW6D6pIUZg
+
+
+
+
+
+
+
 ###################### NATIONAL ######################
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title="01. NATIONAL",ANTV
@@ -840,28 +892,6 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298552
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157491
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Logo_TV_Alhijrah.png" group-title="09. RELIGION",Al Hijrah TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157491
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Pagi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="_Dzikir dan Kisah",Dzikir Pagi
-https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Petang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DpGZOCMeioII5wpQscU03uduG5hvC3w52A&usqp=CAU" group-title="_Dzikir dan Kisah",Dzikir Petang
-https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dzikir Sebelum Tidur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="_Dzikir dan Kisah",Dzikir Sebelum Tidur
-https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-MsLymHm9bU/maxresdefault.jpg" group-title="_Dzikir dan Kisah",Sejarah Abu Bakar Ash-Shiddiq: Keistimewaan yang Tidak Dimiliki Sahabat Lain - Ustadz Firanda Andirja
-https://invidious.lunar.icu/latest_version?id=-MsLymHm9bU
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y0IF0K5hCe8/maxresdefault.jpg" group-title="_Dzikir dan Kisah",Kisah Utsman Bin Affan - Ustadz Firanda Andirja
-https://invidious.lunar.icu/latest_version?id=Y0IF0K5hCe8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DbsPly41iqs/maxresdefault.jpg" group-title="_Dzikir dan Kisah",Kisah Umar Bin Khattab - Ustadz Firanda Andirja
-https://invidious.lunar.icu/latest_version?id=DbsPly41iqs
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Eps 1 -  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/BF9OhMI6Hm0/maxresdefault.jpg" group-title="_Dzikir dan Kisah",Kisah Khalid bin Walid Eps 1 -  Ustadz Firanda Andirja
-https://invidious.lunar.icu/latest_version?id=BF9OhMI6Hm0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Eps 2 -  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/etP2LmaRP0I/maxresdefault.jpg" group-title="_Dzikir dan Kisah",Kisah Khalid bin Walid Eps 2 -  Ustadz Firanda Andirja
-https://invidious.lunar.icu/latest_version?id=etP2LmaRP0I
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kisah Khalid bin Walid Episode Finale-  Ustadz Firanda Andirja" tvg-logo="https://i.ytimg.com/vi/0AW6D6pIUZg/maxresdefault.jpg" group-title="_Dzikir dan Kisah",Kisah Khalid bin Walid Episode Finale-  Ustadz Firanda Andirja
-https://invidious.lunar.icu/latest_version?id=0AW6D6pIUZg
 
 
 
