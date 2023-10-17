@@ -987,6 +987,7 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg507production/ch261/02.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_kr.png" group-title="07. INTERNATIONAL",KBS World HD
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_kr.png" group-title="07. INTERNATIONAL",KBS World HD
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197053
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro-globe-network-id.png" group-title="07. INTERNATIONAL",Metro Globe Network
 http://210.210.155.35/uq2663/h/h35/index.m3u8
@@ -1076,6 +1077,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/200px-Logo_MQTV.png" group-title="09. RELIGION",MQTV
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298551
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/200px-Logo_MQTV.png" group-title="09. RELIGION",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mta_tv_id.png" group-title="09. RELIGION",MTA TV
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298552
@@ -1201,7 +1203,7 @@ https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEv
 
 
 ###################### VIDEO ON DEMAND ######################
-//Manca
+#//Manca
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgzODM2MjUyMF5BMl5BanBnXkFtZTgwMzg4MjA1OTE@._V1_.jpg" group-title="12. VOD",Rurouni Kenshin
 https://www.googleapis.com/drive/v3/files/1KBGWb9Vf8qMfG8K_ABQL6UiYKT0JbxIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
