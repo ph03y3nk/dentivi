@@ -27,6 +27,10 @@
 #http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/
 #http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/
 #http://sysadminhost.net:8080/24eacfe8/c52fb4d1/
+#http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/
+
+
+#https://github.com/TVcrack/tontonan/blob/main/amanterus.txt
 
 
 #################### KONTEN ISLAMI ###################
@@ -58,9 +62,9 @@ https://invidious.lunar.icu/latest_version?id=0AW6D6pIUZg
 https://invidious.lunar.icu/latest_version?id=0iVuE0I-J9w
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7eKRDQQWZcE/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Al-Qur'an Membersihkan Hati - Ustadz Abdullah Zaen
 https://invidious.lunar.icu/latest_version?id=7eKRDQQWZcE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_Q--DN4soP0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Merokok, Egoisme yang Membangkrutkan - Ustadz Abdullah Zaen
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_Q--DN4soP0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Merokok -- Egoisme yang Membangkrutkan - Ustadz Abdullah Zaen
 https://invidious.lunar.icu/latest_version?id=_Q--DN4soP0
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HRV_Cx0N2rI/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Pacaran Nikmat, Mau? - Ustadz Abdullah Zaen
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HRV_Cx0N2rI/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Pacaran Nikmat -- Mau? - Ustadz Abdullah Zaen
 https://invidious.lunar.icu/latest_version?id=HRV_Cx0N2rI
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Wp2VInXiWRk/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Bersikap Zuhud - Ustadz Abdullah Zaen
 https://invidious.lunar.icu/latest_version?id=Wp2VInXiWRk
@@ -261,7 +265,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvone-id.png" group-title="01. NATIONAL",TV ONE
 http://210.210.155.35/uq2663/h/h40/01.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvone-id.png" group-title="01. NATIONAL",TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvone-id.png" group-title="01. NATIONAL",TV ONE
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindonews-tv-id.png" group-title="01. NATIONAL",SINDONEWS TV
@@ -292,6 +296,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 
 ###################### DOCUMENTARY ######################
 
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="02. DOCUMENTARY",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="02. DOCUMENTARY",Animal Planet
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157532
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="02. DOCUMENTARY",Animal Planet
@@ -419,12 +425,15 @@ http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/916
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="03. MOVIES",CINEMAX
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="03. MOVIES",CINEMAX
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/197964
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="03. MOVIES",CINEMAX
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="03. MOVIES",CINEMAX
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/197964
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="03. MOVIES",HBO Signature
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/221948
-#http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/221948
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="03. MOVIES",HBO Signature
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/221948
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="03. MOVIES",HBO Hits
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/196480
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="03. MOVIES",HBO Hits
@@ -440,6 +449,12 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/165057
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/221956
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-pix-in.png" group-title="03. MOVIES",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="03. MOVIES",Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="03. MOVIES",Sony MAX
+http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/03.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="03. MOVIES",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rock-action-sg.png" group-title="03. MOVIES",Rock Action
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rock-action-sg.png" group-title="03. MOVIES",Rock Action
@@ -478,6 +493,9 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298519
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title="03. MOVIES",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/IMC%20SD-FirstMedia-Chl-80.jpg" group-title="03. MOVIES",IMC
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/264769
+#http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264769
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="03. MOVIES",Celestial Movies
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/165065
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="03. MOVIES",Celestial Movies
@@ -523,6 +541,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-family-id.png" group-title="03. MOVIES",My Family Channel
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298555
 #http://210.210.155.35/uq2663/h/h194/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="03. MOVIES",MOVIE SPHERE
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="03. MOVIES",THRILL
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157580
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title="03. MOVIES",THRILL
@@ -607,6 +627,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/740
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="04. KIDS",Rai Yoyo HD
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/907
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="04. KIDS",Disney Jr.
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162511
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/480px-Cartoon_Network_2010_logo.svg.png" group-title="04. KIDS",CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/480px-Cartoon_Network_2010_logo.svg.png" group-title="04. KIDS",CARTOON NETWORK
@@ -628,6 +650,8 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157611
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aniplus_kr.png" group-title="04. KIDS",Aniplus Asia
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298504
 #http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aniplus_kr.png" group-title="04. KIDS",Aniplus Asia
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="04. KIDS",ANIMAX
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/165081
 #EXTINF:-1  tvg-id="" tvg-logo="https://biznethome.net/wp-content/uploads/2022/11/BiznetHomeKids.jpg" group-title="04. KIDS",Biznet Kids
@@ -636,6 +660,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-kidz-id.png" group-title="04. KIDS",My Kidz
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298556
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-kidz-id.png" group-title="04. KIDS",My Kidz
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298556
 #http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://happykids.tv/svg/hkLogoVector.svg" group-title="04. KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
@@ -645,8 +671,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hip-hip-horee-id.png" group-title="04. KIDS",HipHip Horee!
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298536
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hip-hip-horee-id.png" group-title="04. KIDS",HipHip Horee!
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298536
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="04. KIDS",Dunia Anak
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="04. KIDS",Kids TV
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162505
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="04. KIDS",Mentari TV
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298546
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="04. KIDS",Miao Mi
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/266805
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="04. KIDS",Baby TV
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/634
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="04. KIDS",Baby TV
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/31999
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="04. KIDS",CBeebies
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/247448
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="04. KIDS",IndiKids
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298539
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zoo_moo_global.png" group-title="04. KIDS",ZooMoo
@@ -817,6 +857,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/02.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="06. ENTERTAINMENT",Dunia Lain
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298524
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="06. ENTERTAINMENT",Insert
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264766
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="06. ENTERTAINMENT",EAT & GO
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264765
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/150px-Astro_Awani.png" group-title="06. ENTERTAINMENT",Astro Awani
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157478
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png" group-title="06. ENTERTAINMENT",Astro Oasis
@@ -995,6 +1039,8 @@ http://210.210.155.35/uq2663/h/h35/index.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:mgnch.smil/chunklist_w241242513_b2692000_sleng.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png" group-title="07. INTERNATIONAL",LiveNOW from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="07. INTERNATIONAL",FOX News
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/1611
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="07. INTERNATIONAL",NHK World
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="07. INTERNATIONAL",NHK World
@@ -1358,7 +1404,7 @@ https://www.googleapis.com/drive/v3/files/1sLMVcHsH5yT_QsZtWqXLdcVsVGz7fIaw?alt=
 
 
 
-//INDO
+#//INDO
 #EXTINF:-1 group-title="13. VOD INDO",Ayo Putus
 https://www.googleapis.com/drive/v3/files/16j_5NHWGJF_G6oZ9Edy4DaeIXczXWWqx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="13. VOD INDO",The Big 4
@@ -1561,4 +1607,3 @@ https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=
 https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="13. VOD INDO",Pelukis Hantu
 https://www.googleapis.com/drive/v3/files/1QBFbdxKb8iXKwzV3Cir1We_Tung25W7M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
