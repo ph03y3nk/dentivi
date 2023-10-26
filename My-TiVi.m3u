@@ -169,10 +169,16 @@ https://invidious.lunar.icu/latest_version?id=_YTS7lRgvgo
 
 
 
+
+
+
+
+
 ###################### NATIONAL ######################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
-http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/165072
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/165072
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
@@ -193,19 +199,21 @@ http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/157578
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6o6dW.jpg" group-title="01. NATIONAL",GTV HD
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157578
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6o6dW.jpg" group-title="01. NATIONAL",GTV HD
-https://apel-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+#https://apel-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qGzG.jpg" group-title="01. NATIONAL",INDOSIAR
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://kuchini.site:8080/dooby1312/b244f7ab/162138
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qGzG.jpg" group-title="01. NATIONAL",INDOSIAR
-http://tvnid.x10.mx/vidio/master.m3u8
+#http://tvnid.x10.mx/vidio/master.m3u8
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qtva.jpg" group-title="01. NATIONAL",iNEWS
 http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/157579
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qtva.jpg" group-title="01. NATIONAL",iNEWS
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157579
 #http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qtva.jpg" group-title="01. NATIONAL",iNEWS
-http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+#http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qJ0E.jpg" group-title="01. NATIONAL",JAK TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qJ0E.jpg" group-title="01. NATIONAL",JAK TV
@@ -262,7 +270,8 @@ http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/196457
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
-http://tvnid.x10.mx/vidio/master-1.m3u8
+#http://tvnid.x10.mx/vidio/master-1.m3u8
+http://kuchini.site:8080/dooby1312/b244f7ab/162141
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6AZUa.jpg" group-title="01. NATIONAL",Trans 7 HD
@@ -335,7 +344,6 @@ http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/197010
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. DOCUMENTARY",National Geographic Wild
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/197967
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. DOCUMENTARY",National Geographic Wild
-#http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/197967
 http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/197967
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. DOCUMENTARY",National Geographic Wild
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298625
@@ -722,6 +730,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62kyR.jpg" group-title="04. KIDS",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fd/ff/c3/fdffc353-49a6-4f82-29a9-b940b0270aaa/source/256x256bb.jpg" group-title="04. KIDS", TAYO TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MinikaGO_Logo.png/300px-MinikaGO_Logo.png" group-title="04. KIDS",GO Minika
 http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/662
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6q62k.jpg" group-title="04. KIDS",Minika Cocuk
@@ -894,6 +904,8 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298524
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264766
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="06. ENTERTAINMENT",EAT & GO
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264765
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="06. ENTERTAINMENT",DIGIONE (Maxstream)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/150px-Astro_Awani.png" group-title="06. ENTERTAINMENT",Astro Awani
 http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/157478
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png" group-title="06. ENTERTAINMENT",Astro Oasis
