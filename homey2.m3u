@@ -225,7 +225,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298550
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/DeaPkP.jpg" group-title="01. NATIONAL",MOJI TV
 http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62cuF.jpg" group-title="01. NATIONAL",NET. TV
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/80292
+http://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62cuF.jpg" group-title="01. NATIONAL",NET. TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D628X4.jpg" group-title="01. NATIONAL",NUSANTARA TV
@@ -288,6 +288,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298511
 https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. DOCUMENTARY",Crime+ Investigation
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165052
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. DOCUMENTARY",Crime+ Investigation
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157554
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. DOCUMENTARY",Dens Learning & Knowledge
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. DOCUMENTARY",Dens Learning & Knowledge
@@ -299,6 +301,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157597
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. DOCUMENTARY",Discovery HD
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oNPr.jpg" group-title="02. DOCUMENTARY",Discovery Science
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157530
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oNPr.jpg" group-title="02. DOCUMENTARY",Discovery Science
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Science.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="02. DOCUMENTARY",Discovery Turbo
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Turbo.m3u8
@@ -309,7 +313,7 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/DMAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162519
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/80214
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162519
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/761
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qb1u.jpg" group-title="02. DOCUMENTARY",Horse and Country
@@ -400,8 +404,6 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298529
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264773
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oWkr.jpg" group-title="03. MOVIES",GALAXY Premium
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264774
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oQtg.jpg" group-title="03. MOVIES",GEM
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298533
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197972
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
@@ -500,6 +502,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157520
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157596
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
 http://op-group2-swiftservehd-1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6Lt3b.jpg" group-title="03. MOVIES",Warner TV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157550
@@ -535,13 +539,15 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="04. KIDS",Boing HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/966
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157593
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197291
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298568
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298507
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298568
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298507
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157593
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197291
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/720
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. KIDS",CARTOON NETWORK
@@ -560,6 +566,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162511
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6o9m1.jpg" group-title="04. KIDS",Dreamworks
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157544
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6o9m1.jpg" group-title="04. KIDS",Dreamworks
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157610
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oCQL.jpg" group-title="04. KIDS",Dunia Anak
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D627eg.jpg" group-title="04. KIDS",GO Minika
@@ -583,9 +591,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298556
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157546
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165107
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298561
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165107
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32037
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62zDM.jpg" group-title="04. KIDS",Nick Toons
@@ -596,6 +604,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162510
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/675
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62mjk.jpg" group-title="04. KIDS",Nickleodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="04. KIDS",Universal Kids
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/198068
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62kyR.jpg" group-title="04. KIDS",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="04. KIDS",Rai Gulp
@@ -642,6 +652,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/747
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Eurosport.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. SPORTS",FightSport
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157606
+#backup_http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298531
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. SPORTS",FightSport
 http://op-group1-swiftservehd-1.dens.tv/h/h204/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. SPORTS",FightSport
@@ -700,6 +711,10 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298570
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/266880
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6A2d8.jpg" group-title="05. SPORTS",SPOTV 2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298571
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="05. SPORTS",SEESPORT 1
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298577
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="05. SPORTS",SEESPORT 2
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298578
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="05. SPORTS",True Premiere Footbal 1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162591
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/G4fheo.jpg" group-title="05. SPORTS",TSN 1
@@ -730,6 +745,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298578
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264766
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6XO9G.jpg" group-title="06. ENTERTAINMENT",Asian Food Network
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157549
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6XO9G.jpg" group-title="06. ENTERTAINMENT",Asian Food Network
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298503
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/G4c684.jpg" group-title="06. ENTERTAINMENT",Astro Awani
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157478
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/G4cE32.jpg" group-title="06. ENTERTAINMENT",Astro Oasis
@@ -762,6 +779,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264765
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157581
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ozku.jpg" group-title="06. ENTERTAINMENT",FLIK
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165095
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oQtg.jpg" group-title="06. ENTERTAINMENT",GEM
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298533
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qNvl.jpg" group-title="06. ENTERTAINMENT",HITS
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157545
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qNvl.jpg" group-title="06. ENTERTAINMENT",HITS
@@ -772,6 +791,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="06. ENTERTAINMENT",JUZ TV hindi
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197949
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qVsL.jpg" group-title="06. ENTERTAINMENT",K+
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157567
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qVsL.jpg" group-title="06. ENTERTAINMENT",K+
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197969
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qVsL.jpg" group-title="06. ENTERTAINMENT",K+
@@ -847,8 +868,14 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/697
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6H1Io.jpg" group-title="07. INTERNATIONAL",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6H1Io.jpg" group-title="07. INTERNATIONAL",Berita Satu World
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162136
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6H56l.jpg" group-title="07. INTERNATIONAL",Bloomberg
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157533
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6H56l.jpg" group-title="07. INTERNATIONAL",Bloomberg
 http://op-group2-swiftservehd-1.dens.tv/h/h03/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6H56l.jpg" group-title="07. INTERNATIONAL",Bloomberg
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157599
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6H56l.jpg" group-title="07. INTERNATIONAL",Bloomberg
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" group-title="07. INTERNATIONAL",CBS NEWS
@@ -860,7 +887,11 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157524
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HzDN.jpg" group-title="07. INTERNATIONAL",Channel News Asia
 http://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HzDN.jpg" group-title="07. INTERNATIONAL",Channel News Asia
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157602
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HzDN.jpg" group-title="07. INTERNATIONAL",Channel News Asia
 https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HeG4.jpg" group-title="07. INTERNATIONAL",CNN Int'l
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264778
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6HeG4.jpg" group-title="07. INTERNATIONAL",CNN Int'l
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298594
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oM4C.jpg" group-title="07. INTERNATIONAL",Deutsche Welle (DW) Arabic
@@ -869,6 +900,8 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 http://op-group1-swiftservesd-1.dens.tv/s/s25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/220px-Global_News.svg.png" group-title="07. INTERNATIONAL",Global News
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298596
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="07. INTERNATIONAL",IDX Channel
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157590
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qsqg.jpg" group-title="07. INTERNATIONAL",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oHo4.jpg" group-title="07. INTERNATIONAL",LiveNOW from FOX
@@ -877,6 +910,8 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62ofa.jpg" group-title="07. INTERNATIONAL",NHK World
 http://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62ofa.jpg" group-title="07. INTERNATIONAL",NHK World
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298560
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62ofa.jpg" group-title="07. INTERNATIONAL",NHK World
 https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6Anbb.jpg" group-title="07. INTERNATIONAL",SEA Today
@@ -902,6 +937,9 @@ https://fashs043.cloudycdn.services/scte/pg18/pg18_1080p_chunklist.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298535
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6q1Z8.jpg" group-title="08. LIFESTYLE",HGTV
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/HGTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="08. LIFESTYLE",BBC Lifestyle
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264747
+
 
 
 
@@ -925,6 +963,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGION",RODJA TV
 https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGION",RODJA TV
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264758
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="09. RELIGION",TAWAF TV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298552
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6Ldxj.jpg" group-title="09. RELIGION",TV9
