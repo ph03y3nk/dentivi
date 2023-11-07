@@ -521,6 +521,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157584
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6XFsE.jpg" group-title="04. KIDS",ANIMAX
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157486
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6XFsE.jpg" group-title="04. KIDS",ANIMAX
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165081
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6XQWr.jpg" group-title="04. KIDS",Aniplus
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157611
@@ -659,6 +661,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h204/index.m3u8
 http://op-group2-swiftservehd-1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6opv1.jpg" group-title="05. SPORTS",FoxSports
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/756
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ooS2.jpg" group-title="05. SPORTS",FoxSports 2
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157488
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ooS2.jpg" group-title="05. SPORTS",FoxSports 2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/757
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qycX.jpg" group-title="05. SPORTS",Motorvision TV
@@ -904,6 +908,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298596
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157590
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qsqg.jpg" group-title="07. INTERNATIONAL",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qsqg.jpg" group-title="07. INTERNATIONAL",KBS World
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157475
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6oHo4.jpg" group-title="07. INTERNATIONAL",LiveNOW from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6qFcw.jpg" group-title="07. INTERNATIONAL",Metro Globe Network
