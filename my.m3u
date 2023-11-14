@@ -428,7 +428,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162504
 ###################### KNOWLEDGE ######################
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157532
@@ -450,7 +450,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -469,11 +469,11 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165052
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. KNOWLEDGE",Crime+ Investigation
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/Stream(02)/index.m3u8
 #http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157554
 
 #EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",DaVinci
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. KNOWLEDGE",Dens Learning & Knowledge
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
@@ -481,13 +481,13 @@ http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h97/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ohbP.jpg" group-title="02. KNOWLEDGE",Discovery Asia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ohbP.jpg" group-title="02. KNOWLEDGE",Discovery Asia
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264824
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. KNOWLEDGE",Discovery Channel
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. KNOWLEDGE",Discovery Channel
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157597
@@ -508,13 +508,13 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Turbo.
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Investigation.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/DMAX.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -522,7 +522,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -542,7 +542,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/266584
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. KNOWLEDGE",Love Nature
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. KNOWLEDGE",Love Nature
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264756
@@ -587,7 +587,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264767
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",Stingray Naturescape
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AvZM.jpg" group-title="02. KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
@@ -600,6 +600,7 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LiKi.jpg" group-title="02. KNOWLEDGE",XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
+
 
 
 
