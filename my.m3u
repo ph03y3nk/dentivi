@@ -161,12 +161,10 @@ https://invidious.lunar.icu/latest_version?id=_YTS7lRgvgo
 
 
 
-
-
 ###################### NATIONAL ######################
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
-https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/antv.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165072
@@ -180,7 +178,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HbcF.jpg" group-title="01. NATIONAL",BERITA SATU
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HbcF.jpg" group-title="01. NATIONAL",BERITA SATU
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162513
@@ -209,7 +207,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oFnR.jpg" group-title="01. NATIONAL",GARUDA TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oFnR.jpg" group-title="01. NATIONAL",GARUDA TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
@@ -223,7 +221,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157578
 https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qdxk.jpg" group-title="01. NATIONAL",IDX Channel
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qdxk.jpg" group-title="01. NATIONAL",IDX Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -253,7 +251,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.m
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qJ0E.jpg" group-title="01. NATIONAL",JAK TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qJ0E.jpg" group-title="01. NATIONAL",JAK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -264,7 +262,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157601
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qY1r.jpg" group-title="01. NATIONAL",JTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qY1r.jpg" group-title="01. NATIONAL",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -275,7 +273,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165091
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NATIONAL",KOMPAS TV
-https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/kompas.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NATIONAL",KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -289,7 +287,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298546
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qvIi.jpg" group-title="01. NATIONAL",METRO TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qvIi.jpg" group-title="01. NATIONAL",METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -372,7 +370,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.m
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AZUa.jpg" group-title="01. NATIONAL",TRANS 7
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AZUa.jpg" group-title="01. NATIONAL",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -386,7 +384,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162502
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -400,7 +398,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162503
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg" group-title="01. NATIONAL",TV ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg" group-title="01. NATIONAL",TV ONE
 http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
@@ -411,7 +409,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 https://mangga-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lhqo.jpg" group-title="01. NATIONAL",TVRI NASIONAL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lhqo.jpg" group-title="01. NATIONAL",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
@@ -427,124 +425,182 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162504
 
 
 
-###################### DOCUMENTARY ######################
+###################### KNOWLEDGE ######################
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. DOCUMENTARY",Animal Planet
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157532
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. DOCUMENTARY",Animal Planet HD
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet HD
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/animal.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Xycx.jpg" group-title="02. DOCUMENTARY",BBC Earth HD
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Xycx.jpg" group-title="02. KNOWLEDGE",BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Xycx.jpg" group-title="02. DOCUMENTARY",BBC Earth HD
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Xycx.jpg" group-title="02. KNOWLEDGE",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. DOCUMENTARY",CGTN Documentary
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. DOCUMENTARY",CGTN Documentary
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298511
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. DOCUMENTARY",CGTN Documentary
-https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. DOCUMENTARY",Crime+ Investigation
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. DOCUMENTARY",Crime+ Investigation
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165052
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. DOCUMENTARY",Crime+ Investigation
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157554
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" group-title="02. DOCUMENTARY",Besmart
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" group-title="02. KNOWLEDGE",Besmart
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. DOCUMENTARY",Dens Learning & Knowledge
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298511
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. KNOWLEDGE",Crime+ Investigation
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165052
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. KNOWLEDGE",Crime+ Investigation
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. KNOWLEDGE",Crime+ Investigation
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+#http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157554
+
+#EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",DaVinci
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. KNOWLEDGE",Dens Learning & Knowledge
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. DOCUMENTARY",Dens Learning & Knowledge
-https://op-group1-swiftservehd-1.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ohbP.jpg" group-title="02. DOCUMENTARY",Discovery Asia
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. KNOWLEDGE",Dens Learning & Knowledge
+#https://op-group1-swiftservehd-1.dens.tv/h/h97/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ohbP.jpg" group-title="02. KNOWLEDGE",Discovery Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ohbP.jpg" group-title="02. KNOWLEDGE",Discovery Asia
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264824
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. DOCUMENTARY",Discovery Channel
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. KNOWLEDGE",Discovery Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. KNOWLEDGE",Discovery Channel
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157597
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. DOCUMENTARY",Discovery HD
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. KNOWLEDGE",Discovery HD
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oNPr.jpg" group-title="02. DOCUMENTARY",Discovery Science
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oNPr.jpg" group-title="02. KNOWLEDGE",Discovery Science
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157530
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oNPr.jpg" group-title="02. DOCUMENTARY",Discovery Science
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oNPr.jpg" group-title="02. KNOWLEDGE",Discovery Science
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Science.m3u8
-#EXTINF:-1 tvg-logo="" group-title="02. DOCUMENTARY",Discovery Turbo
+
+#EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",Discovery Turbo
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-logo="" group-title="02. DOCUMENTARY",Discovery Investigation
+
+#EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",Discovery Investigation
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Investigation.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. DOCUMENTARY",DMAX TV
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/DMAX.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. DOCUMENTARY",Global Trekker
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162519
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162519
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY UK
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY UK
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/761
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. DOCUMENTARY",HISTORY NL
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY NL
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/266584
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qb1u.jpg" group-title="02. DOCUMENTARY",Horse and Country
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qb1u.jpg" group-title="02. KNOWLEDGE",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. DOCUMENTARY",Love Nature
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. KNOWLEDGE",Love Nature
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. KNOWLEDGE",Love Nature
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264756
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. DOCUMENTARY",Love Nature
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. KNOWLEDGE",Love Nature
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/837
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62DAo.jpg" group-title="02. DOCUMENTARY",NASA TV
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62DAo.jpg" group-title="02. KNOWLEDGE",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. DOCUMENTARY",National Geographic
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. KNOWLEDGE",National Geographic
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/749
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. DOCUMENTARY",National Geographic
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. KNOWLEDGE",National Geographic
 http://173.225.246.25:8889/udp/239.203.20.73:4003
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. DOCUMENTARY",NatGeo Abu Dhabi
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. KNOWLEDGE",NatGeo Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. DOCUMENTARY",NatGeo US
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. KNOWLEDGE",NatGeo US
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/1101
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. DOCUMENTARY",NatGeo Wild
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. KNOWLEDGE",NatGeo Wild
 http://173.225.246.25:8889/udp/239.203.20.74:4003
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. DOCUMENTARY",NatGeo Wild
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. KNOWLEDGE",NatGeo Wild
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197967
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. DOCUMENTARY",NatGeo Wild
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. KNOWLEDGE",NatGeo Wild
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/724
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. DOCUMENTARY",NatGeo Wild (Germany)
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62xCS.jpg" group-title="02. KNOWLEDGE",NatGeo Wild (Germany)
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298625
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62Zyo.jpg" group-title="02. DOCUMENTARY",RT Documentary
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62Zyo.jpg" group-title="02. KNOWLEDGE",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ARGk.jpg" group-title="02. DOCUMENTARY",Smithsonian
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ARGk.jpg" group-title="02. KNOWLEDGE",Smithsonian
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264767
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ARGk.jpg" group-title="02. DOCUMENTARY",Smithsonian
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ARGk.jpg" group-title="02. KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AvZM.jpg" group-title="02. DOCUMENTARY",TechStorm
+
+#EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",Stingray Naturescape
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AvZM.jpg" group-title="02. KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LJWw.jpg" group-title="02. DOCUMENTARY",Wild Earth
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LJWw.jpg" group-title="02. KNOWLEDGE",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q22C.jpg" group-title="02. DOCUMENTARY",Wired 2 Fish
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q22C.jpg" group-title="02. KNOWLEDGE",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LiKi.jpg" group-title="02. DOCUMENTARY",XPLORE
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LiKi.jpg" group-title="02. KNOWLEDGE",XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
+
 
 
 
