@@ -1,5 +1,167 @@
 ﻿#EXTM3U
 
+#<!-- ====================================================================== -->
+#<!-- ====================================================================== -->
+#-----------------------------------------------------------------------------#
+#                   Copyright (c) 2023, Salim,SE. (ph03y3nk)                  #
+#                                                                             #
+#                             ___            ___                              #
+#                            /\__\          /\__\                             #
+#                           /:/ _/_        /:/ _/_                            #
+#                          /:/ /\  \      /:/ /\  \                           #
+#                         /:/ /::\  \    /:/ /::\  \                          #
+#                        /:/_/:/\:\__\  /:/_/:/\:\__\                         #
+#                        \:\/:/ /:/  /  \:\/:/ /:/  /                         #
+#                         \::/ /:/  /    \::/ /:/  /                          #
+#                          \/_/:/  /      \/_/:/  /                           #
+#                            /:/  /         /:/  /                            #
+#                            \/__/July,2023.\/__/                             #
+#                             -Salims Softhouse-                              #
+#                                                                             #
+#-----------------------------------------------------------------------------#
+#<!-- ====================================================================== -->
+#<!-- ====================================================================== -->
+
+
+
+
+
+
+
+#################### KONTEN ISLAMI ###################
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="00. KONTEN ISLAMI",Dzikir Pagi
+https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DpGZOCMeioII5wpQscU03uduG5hvC3w52A&usqp=CAU" group-title="00. KONTEN ISLAMI",Dzikir Petang
+https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="00. KONTEN ISLAMI",Dzikir Sebelum Tidur
+https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-MsLymHm9bU/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Abu Bakar Ash-Shiddiq - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=-MsLymHm9bU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y0IF0K5hCe8/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Utsman Bin Affan - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=Y0IF0K5hCe8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DbsPly41iqs/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Umar Bin Khattab - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=DbsPly41iqs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BF9OhMI6Hm0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Khalid bin Walid Eps 1 - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=BF9OhMI6Hm0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/etP2LmaRP0I/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Khalid bin Walid Eps 2 - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=etP2LmaRP0I
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0AW6D6pIUZg/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kisah Khalid bin Walid Episode Finale - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=0AW6D6pIUZg
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0iVuE0I-J9w/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Cara Cerdas Berbekal Untuk Perjalanan Menuju Akhirat - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=0iVuE0I-J9w
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7eKRDQQWZcE/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Al-Qur'an Membersihkan Hati - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=7eKRDQQWZcE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_Q--DN4soP0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Merokok -- Egoisme yang Membangkrutkan - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=_Q--DN4soP0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HRV_Cx0N2rI/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Pacaran Nikmat -- Mau? - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=HRV_Cx0N2rI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Wp2VInXiWRk/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Bersikap Zuhud - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=Wp2VInXiWRk
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DK7a53kTHEs/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Bijak Berkata - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=DK7a53kTHEs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6izA1LQjlk8/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kerja Jangan Asal Kerja - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=6izA1LQjlk8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YhKrZsXS6Es/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Ketetapan Terbaik - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=YhKrZsXS6Es
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9KEkIywdC34/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Dosa Pertama di Langit dan di Bumi - Ustadz Abdullah Zaen
+https://invidious.lunar.icu/latest_version?id=9KEkIywdC34
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/T_3CfEdySac/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",10 Tips Agar Hati Menjadi Bersih - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=T_3CfEdySac
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pRJr0dP-ehw/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Pentingnya Berakhlak Mulia - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=pRJr0dP-ehw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BJNAB4ssrxQ/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",7 Tips Bahagia di Zaman Now - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=BJNAB4ssrxQ
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/syfuUY0o7EM/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Solusi Hidup di Musim Fitnah - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=syfuUY0o7EM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WVQVzjSa6cU/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Jangan Risaukan Rezekimu - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=WVQVzjSa6cU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mn4KSVatpyU/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Cobaan Hidup - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=mn4KSVatpyU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BnrGxjaQbyQ/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Apakah Saya Harus Tahu? - Ustadz Firanda Andirja
+https://invidious.lunar.icu/latest_version?id=BnrGxjaQbyQ
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EpZ6wEXXvKY/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Mari Merenung Sejenak! - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=EpZ6wEXXvKY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y0IDqeQZtMY/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Keutamaan Hari Jum'at - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=Y0IDqeQZtMY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qTvtjfVKKn8/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Tawadhu' - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=qTvtjfVKKn8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/69bcWhHLtsM/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Malas Ibadah - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=69bcWhHLtsM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vH-a7fWbOQk/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Maksiat di Bulan Ramadhan - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=vH-a7fWbOQk
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GKc0XTR5ZMg/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Iman Kepada Takdir - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=GKc0XTR5ZMg
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ReEVAT-pj7Q/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Cara Taubat Nasuha - Ustadz Syafiq Riza Basalamah
+https://invidious.lunar.icu/latest_version?id=ReEVAT-pj7Q
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9lsIePDW5V4/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kebahagiaan Sesungguhnya - Ustadz Armen Halim Naro
+https://invidious.lunar.icu/latest_version?id=9lsIePDW5V4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VYe-x_HW6Kw/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Bahaya Mengikuti Hawa Nafsu - Ustadz Badrussalam
+https://invidious.lunar.icu/latest_version?id=VYe-x_HW6Kw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ykcwrvc1BxY/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Rahasia Ketenangan Jiwa - Ustadz Johan Saputra Halim
+https://invidious.lunar.icu/latest_version?id=Ykcwrvc1BxY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MVOBjyHunFs/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Buku Petunjuk Jiwa - Ustadz Johan Saputra Halim
+https://invidious.lunar.icu/latest_version?id=MVOBjyHunFs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rdAmYqNU8gc/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",What Do We Life For - Ustadz Johan Saputra Halim
+https://invidious.lunar.icu/latest_version?id=rdAmYqNU8gc
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Yc9M9yAow4k/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Perbedaan Nabi dan Rasul
+https://invidious.lunar.icu/latest_version?id=Yc9M9yAow4k
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfNSuY6bu28/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Allah Loves You
+https://invidious.lunar.icu/latest_version?id=tfNSuY6bu28
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OR7qmqpaBZ0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",3 Cara Mengobati Hati - Ustadz Ammi Nur Baits
+https://invidious.lunar.icu/latest_version?id=OR7qmqpaBZ0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-bol0JRbVDA/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Moslem Mindset - Bagian 1 - Cara mengatur Waktu Efektif
+https://invidious.lunar.icu/latest_version?id=-bol0JRbVDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Bir-iTubjSM/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Hati-hati Menukil Berita - Ustadz Zaid Susanto
+https://invidious.lunar.icu/latest_version?id=Bir-iTubjSM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MaBT61Hic1U/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Agar Tidak Lalai - Ustadz Lalu Ahmad Yani
+https://invidious.lunar.icu/latest_version?id=MaBT61Hic1U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oHWogvSMzWw/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",3 Cara Istiqomah dalam Hijrah - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=oHWogvSMzWw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DC9qV9qgFUo/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Hamba Dunia - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=DC9qV9qgFUo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gLYk4k7Mu7o/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Ikhlas Itu Berat - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=gLYk4k7Mu7o
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/C68V1StKj-I/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Persiapan Menyambut Ramadhan - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=C68V1StKj-I
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aksdS5ajItI/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Jangan Sia-Siakan Ramadhan - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=aksdS5ajItI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bFUhfGI3SQg/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=bFUhfGI3SQg
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MyNvFgueBYQ/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=MyNvFgueBYQ
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SfsK99TNFg0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=SfsK99TNFg0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j5yjHCkjjOo/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=j5yjHCkjjOo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-Yrs32ksXcc/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=-Yrs32ksXcc
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e9zujbaxqD0/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=e9zujbaxqD0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2C1LPwSrxZU/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=2C1LPwSrxZU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5rclwjruE5I/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=5rclwjruE5I
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DU30GpXBsBQ/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=DU30GpXBsBQ
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/o111ZCEpU5U/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=o111ZCEpU5U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BuAPbVftDu4/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=BuAPbVftDu4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_YTS7lRgvgo/maxresdefault.jpg" group-title="00. KONTEN ISLAMI",Kunci Sukses dalam Dunia Ilmu - Ustadz Muhammad Nuzul Dzikri
+https://invidious.lunar.icu/latest_version?id=_YTS7lRgvgo
+
+
+
+
+
 
 ###################### NATIONAL ######################
 
