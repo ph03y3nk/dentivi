@@ -144,6 +144,7 @@ https://invidious.lunar.icu/latest_version?id=_YTS7lRgvgo
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
@@ -156,6 +157,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162513
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HbcF.jpg" group-title="01. NATIONAL",BERITA SATU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H3FF.jpg" group-title="01. NATIONAL",CNBC Indonesia
