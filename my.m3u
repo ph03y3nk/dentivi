@@ -161,10 +161,11 @@ https://invidious.lunar.icu/latest_version?id=_YTS7lRgvgo
 
 
 
+
 ###################### NATIONAL ######################
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165072
@@ -178,7 +179,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HbcF.jpg" group-title="01. NATIONAL",BERITA SATU
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HbcF.jpg" group-title="01. NATIONAL",BERITA SATU
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162513
@@ -221,7 +222,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157578
 https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qdxk.jpg" group-title="01. NATIONAL",IDX Channel
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/idx.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qdxk.jpg" group-title="01. NATIONAL",IDX Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -251,7 +252,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.m
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qJ0E.jpg" group-title="01. NATIONAL",JAK TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/jaktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qJ0E.jpg" group-title="01. NATIONAL",JAK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -262,7 +263,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157601
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qY1r.jpg" group-title="01. NATIONAL",JTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/jtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qY1r.jpg" group-title="01. NATIONAL",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -273,7 +274,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165091
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NATIONAL",KOMPAS TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/kompas.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NATIONAL",KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -287,7 +288,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298546
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qvIi.jpg" group-title="01. NATIONAL",METRO TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/metro.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qvIi.jpg" group-title="01. NATIONAL",METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -370,7 +371,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.m
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AZUa.jpg" group-title="01. NATIONAL",TRANS 7
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AZUa.jpg" group-title="01. NATIONAL",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -384,7 +385,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162502
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/trans.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -398,7 +399,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162503
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg" group-title="01. NATIONAL",TV ONE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg" group-title="01. NATIONAL",TV ONE
 http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
@@ -409,7 +410,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 https://mangga-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lhqo.jpg" group-title="01. NATIONAL",TVRI NASIONAL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/tvri.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lhqo.jpg" group-title="01. NATIONAL",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
@@ -425,6 +426,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162504
 
 
 
+
 ###################### KNOWLEDGE ######################
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet
@@ -435,6 +437,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157532
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet HD
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/animal.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg" group-title="02. KNOWLEDGE",Animal Planet HD
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Xycx.jpg" group-title="02. KNOWLEDGE",BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
@@ -450,7 +455,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cgtndoc.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -469,11 +474,11 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165052
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. KNOWLEDGE",Crime+ Investigation
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/crime.m3u8
 #http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157554
 
 #EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",DaVinci
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/dvinci.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg" group-title="02. KNOWLEDGE",Dens Learning & Knowledge
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
@@ -481,13 +486,13 @@ http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h97/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ohbP.jpg" group-title="02. KNOWLEDGE",Discovery Asia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/discasia.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ohbP.jpg" group-title="02. KNOWLEDGE",Discovery Asia
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264824
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. KNOWLEDGE",Discovery Channel
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/disc.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg" group-title="02. KNOWLEDGE",Discovery Channel
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157597
@@ -508,13 +513,13 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Turbo.
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Investigation.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/dmax2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/DMAX.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/trekker.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -522,7 +527,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/Strea
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/history.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -542,7 +547,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/266584
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. KNOWLEDGE",Love Nature
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/lovenature.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. KNOWLEDGE",Love Nature
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264756
@@ -587,7 +592,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264767
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",Stingray Naturescape
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/Stream(02)/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/naturescape.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AvZM.jpg" group-title="02. KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
@@ -605,45 +610,56 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 
 
 
-
-
 ###################### MOVIES ######################
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Hu2S.jpg" group-title="03. MOVIES",Bioskop Indonesia
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264801
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HPRX.jpg" group-title="03. MOVIES",Celestial Clasic Movies
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157512
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HPRX.jpg" group-title="03. MOVIES",Celestial Clasic Movies
-http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HYfh.jpg" group-title="03. MOVIES",Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HYfh.jpg" group-title="03. MOVIES",Celestial Movies
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165065
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HYfh.jpg" group-title="03. MOVIES",Celestial Movies
-http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/celmov.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="03. MOVIES",Chinese Drama
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298516
-#EXTINF:-1 tvg-logo="" group-title="03. MOVIES",Chinese Drama
-http://gamsgo.cyout:8080/Vladisergeevic/7eef2c4388/298516
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HAuj.jpg" group-title="03. MOVIES",Cinema World
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165082
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HAuj.jpg" group-title="03. MOVIES",Cinema World
 https://op-group1-swiftservehd-1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HAuj.jpg" group-title="03. MOVIES",Cinema World
 https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HofL.jpg" group-title="03. MOVIES",Cinemachi Action
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165057
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HVEP.jpg" group-title="03. MOVIES",Cinemachi Xtra
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298541
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. MOVIES",CINEMAX
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197964
-#EXTINF:-1 tvg-logo="" group-title="03. MOVIES",Cinemax 2
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32009
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HWD8.jpg" group-title="03. MOVIES",Citra Bioskop
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298519
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HWD8.jpg" group-title="03. MOVIES",Citra Bioskop
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cibio.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HgTl.jpg" group-title="03. MOVIES",Citra Drama
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264748
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HgTl.jpg" group-title="03. MOVIES",Citra Drama
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cidra.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ocml.jpg" group-title="03. MOVIES",ETV Bioskop 1
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298526
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ocml.jpg" group-title="03. MOVIES",ETV Bioskop 2
@@ -652,87 +668,112 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298527
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298528
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ocml.jpg" group-title="03. MOVIES",ETV Bioskop 4
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298529
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o0YE.jpg" group-title="03. MOVIES",GALAXY
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264773
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oWkr.jpg" group-title="03. MOVIES",GALAXY Premium
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264774
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",ID:HBO
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197972
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32023
-
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://imgpile.com/images/D6oaix.jpg",HBO Eng
-https://bit.ly/45NIofG
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",HBO+ Eng
-https://bit.ly/3FFkNmF
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png",HBO2 Eng
-https://bit.ly/3snzR5n
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://imgpile.com/images/D6oekj.jpg",HBO Family Eng
-https://bit.ly/3tXEYtB
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://imgpile.com/images/D6oZUL.jpg",HBO Sig Eng
-https://bit.ly/3MqAn9D
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",HBO Xtreme Eng
-https://bit.ly/45NIofG
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",HBO POP Eng
-https://bit.ly/3QOeNi9
-
-
-#EXTINF:-1 tvg-logo="" group-title="03. MOVIES",HBO 3
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32021
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. MOVIES",HBO Family
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. MOVIES",ID:HBO Family
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197055
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. MOVIES",HBO Hits
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. MOVIES",ID:HBO Hits
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/196480
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. MOVIES",ID:HBO Signature
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/221948
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. MOVIES",ID:CINEMAX
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197964
+
 
 #======================================
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",SG:HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO (Sg)
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. MOVIES",SG:HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits (Sg)
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. MOVIES",SG:HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family (Sg)
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. MOVIES",SG:HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature (Sg)
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. MOVIES",SG:CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax (Sg)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #=======================================
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",UK:HBO
+https://bit.ly/45NIofG
+#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",UK:HBO+
+https://bit.ly/3FFkNmF
+#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png",UK:HBO2
+https://bit.ly/3snzR5n
+#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://imgpile.com/images/D6oekj.jpg",UK:HBO Family
+https://bit.ly/3tXEYtB
+#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://imgpile.com/images/D6oZUL.jpg",UK:HBO Signature
+https://bit.ly/3MqAn9D
+#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",UK:HBO Xtreme
+https://bit.ly/45NIofG
+#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",UK:HBO POP
+https://bit.ly/3QOeNi9
+
+#=======================================
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32023
+
+#EXTINF:-1 tvg-logo="" group-title="03. MOVIES",HBO 3
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32021
+
+#EXTINF:-1 tvg-logo="" group-title="03. MOVIES",Cinemax 2
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32009
+
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qR0i.jpg" group-title="03. MOVIES",HITS Movies
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157477
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qR0i.jpg" group-title="03. MOVIES",HITS Movies
-http://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/hitsmov.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qhqM.jpg" group-title="03. MOVIES",IMC
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264769
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4cjIh.jpg" group-title="03. MOVIES",MOVIE SPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4cjIh.jpg" group-title="03. MOVIES",MOVIE SPHERE
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q033.jpg" group-title="03. MOVIES",My Cinema
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298553
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qO98.jpg" group-title="03. MOVIES",My Cinema Asia
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298554
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qk8b.jpg" group-title="03. MOVIES",My Cinema Europe
 http://210.210.155.35/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qk8b.jpg" group-title="03. MOVIES",My Cinema Europe
-http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qk8b.jpg" group-title="03. MOVIES",My Cinema Europe
-https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q3Mu.jpg" group-title="03. MOVIES",My Family Channel
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298555
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62A7h.jpg" group-title="03. MOVIES",Paramount Network
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/paramount.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62A7h.jpg" group-title="03. MOVIES",Paramount Network
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298564
 
@@ -747,12 +788,11 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298566
 http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62gTW.jpg" group-title="03. MOVIES",Rock Action
 http://op-group2-swiftservehd-1.dens.tv/h/h15/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D623Q1.jpg" group-title="03. MOVIES",Rock Entertainment
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298565
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D623Q1.jpg" group-title="03. MOVIES",Rock Entertainment
-http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D623Q1.jpg" group-title="03. MOVIES",Rock Entertainment
-http://op-group2-swiftservehd-1.dens.tv/h/h16/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D623Q1.jpg" group-title="03. MOVIES",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -773,12 +813,18 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/932
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/937
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AUOi.jpg" group-title="03. MOVIES",Sky Select HD
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/858
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A9mG.jpg" group-title="03. MOVIES",Sony MAX
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/sonmax.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A9mG.jpg" group-title="03. MOVIES",Sony MAX
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4fd2j.jpg" group-title="03. MOVIES",Sony MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ACQa.jpg" group-title="03. MOVIES",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A6h4.jpg" group-title="03. MOVIES",THRILL
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157580
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A6h4.jpg" group-title="03. MOVIES",THRILL
@@ -787,23 +833,28 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/938
 #EXTINF:-1 tvg-logo="" group-title="03. MOVIES",Top Movie 2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/933
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/tvnmov.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157520
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
-http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157596
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6L5s1.jpg" group-title="03. MOVIES",TVN Movies
-http://op-group2-swiftservehd-1.dens.tv/h/h21/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lt3b.jpg" group-title="03. MOVIES",Warner TV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157550
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lt3b.jpg" group-title="03. MOVIES",Warner TV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
+
 #EXTINF:-1 tvg-logo="" group-title="03. MOVIES",WOW Cinema one
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197945
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lcak.jpg" group-title="03. MOVIES",ZEE Bioskop
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/zee.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lcak.jpg" group-title="03. MOVIES",ZEE Bioskop
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157584
-
 
 
 
