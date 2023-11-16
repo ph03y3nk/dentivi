@@ -606,7 +606,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264767
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ARGk.jpg" group-title="02. KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://imgpile.com/images/D6A0iw.jpg" group-title="02. DOCUMENTARY",stingray naturescape HD
+#EXTINF:-1  tvg-id="" tvg-logo="https://imgpile.com/images/D6A0iw.jpg" group-title="02. KNOWLEDGE",stingray naturescape HD
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/naturescape.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AvZM.jpg" group-title="02. KNOWLEDGE",TechStorm
@@ -719,84 +719,84 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264773
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oWkr.jpg" group-title="03. MOVIES",GALAXY Premium
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264774
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",ID:HBO
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. HBO GROUP",ID:HBO
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197972
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. MOVIES",ID:HBO Family
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. HBO GROUP",ID:HBO Family
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197055
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. MOVIES",ID:HBO Hits
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. HBO GROUP",ID:HBO Hits
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/196480
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. MOVIES",ID:HBO Signature
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. HBO GROUP",ID:HBO Signature
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/221948
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. MOVIES",ID:CINEMAX
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. HBO GROUP",ID:CINEMAX
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/197964
 
 #=======================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="03. HBO GROUP",HBO
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="03. HBO GROUP",HBO Hits
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="03. HBO GROUP",HBO Family
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="03. HBO GROUP",HBO Signature
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="MOVIES",Cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="03. HBO GROUP",Cinemax
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 
 
 #======================================
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",SG:HBO
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. HBO GROUP",SG:HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. MOVIES",SG:HBO Hits
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. HBO GROUP",SG:HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. MOVIES",SG:HBO Family
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. HBO GROUP",SG:HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. MOVIES",SG:HBO Signature
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. HBO GROUP",SG:HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. MOVIES",SG:CINEMAX
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. HBO GROUP",SG:CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #=======================================
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",UK:HBO
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. HBO GROUP",UK:HBO
 https://bit.ly/45NIofG
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",UK:HBO+
+#EXTINF:-1 group-title="03. HBO GROUP" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",UK:HBO+
 https://bit.ly/3FFkNmF
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png",UK:HBO2
+#EXTINF:-1 group-title="03. HBO GROUP" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png",UK:HBO2
 https://bit.ly/3snzR5n
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://imgpile.com/images/D6oekj.jpg",UK:HBO Family
+#EXTINF:-1 group-title="03. HBO GROUP" tvg-logo="https://imgpile.com/images/D6oekj.jpg",UK:HBO Family
 https://bit.ly/3tXEYtB
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://imgpile.com/images/D6oZUL.jpg",UK:HBO Signature
+#EXTINF:-1 group-title="03. HBO GROUP" tvg-logo="https://imgpile.com/images/D6oZUL.jpg",UK:HBO Signature
 https://bit.ly/3MqAn9D
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",UK:HBO Xtreme
+#EXTINF:-1 group-title="03. HBO GROUP" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",UK:HBO Xtreme
 https://bit.ly/45NIofG
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",UK:HBO POP
+#EXTINF:-1 group-title="03. HBO GROUP" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",UK:HBO POP
 https://bit.ly/3QOeNi9
 
 #=======================================
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. HBO GROUP",HBO
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32023
 
-#EXTINF:-1 tvg-logo="" group-title="03. MOVIES",HBO 3
+#EXTINF:-1 tvg-logo="" group-title="03. HBO GROUP",HBO 3
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32021
 
-#EXTINF:-1 tvg-logo="" group-title="03. MOVIES",Cinemax 2
+#EXTINF:-1 tvg-logo="" group-title="03. HBO GROUP",Cinemax 2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32009
 
 
