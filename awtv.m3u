@@ -179,6 +179,9 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/antv.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165072
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
+http://mykingtv.net:2082/amad1234/amad1234/5124
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
 http://210.210.155.35/uq2663/h/h235/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NATIONAL",ANTV
@@ -225,6 +228,9 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157578
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o6dW.jpg" group-title="01. NATIONAL",GTV
+http://mykingtv.net:2082/amad1234/amad1234/5127
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o6dW.jpg" group-title="01. NATIONAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
@@ -241,7 +247,8 @@ https://mangga-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qGzG.jpg" group-title="01. NATIONAL",INDOSIAR
-https://bit.ly/3MeFJVc
+http://mykingtv.net:2082/amad1234/amad1234/5117
+#https://bit.ly/3MeFJVc
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qGzG.jpg" group-title="01. NATIONAL",INDOSIAR
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
@@ -313,6 +320,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165059
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165054
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qZ82.jpg" group-title="01. NATIONAL",MNC TV
+http://mykingtv.net:2082/amad1234/amad1234/5139
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qZ82.jpg" group-title="01. NATIONAL",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
@@ -327,6 +337,9 @@ https://bit.ly/3tMoswx
 #http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298550
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62cuF.jpg" group-title="01. NATIONAL",NET. TV
+http://mykingtv.net:2082/amad1234/amad1234/5140
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62cuF.jpg" group-title="01. NATIONAL",NET. TV
 http://210.210.155.35/uq2663/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62cuF.jpg" group-title="01. NATIONAL",NET. TV
@@ -339,6 +352,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/80292
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D628X4.jpg" group-title="01. NATIONAL",NUSANTARA TV
 https://v5.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62FpN.jpg" group-title="01. NATIONAL",RCTI
+http://mykingtv.net:2082/amad1234/amad1234/5144
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62FpN.jpg" group-title="01. NATIONAL",RCTI
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157591
@@ -361,6 +377,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
 http://210.210.155.35/uq2663/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
+http://mykingtv.net:2082/amad1234/amad1234/5147
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
 https://bit.ly/3Sc6EFk
@@ -396,20 +415,26 @@ https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162502
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AZUa.jpg" group-title="01. NATIONAL",TRANS 7
+http://mykingtv.net:2082/amad1234/amad1234/5149
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AZUa.jpg" group-title="01. NATIONAL",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANS TV
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/trans.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANS TV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162503
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANSTV
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANS TV
+http://mykingtv.net:2082/amad1234/amad1234/5151
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NATIONAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg" group-title="01. NATIONAL",TV ONE
@@ -461,12 +486,12 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Xycx.jpg" group-title="02. KNOWLEDGE",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" group-title="02. KNOWLEDGE",Besmart
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cgtndoc.m3u8
@@ -474,7 +499,7 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cgtndoc.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. KNOWLEDGE",CGTN Documentary
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298511
@@ -488,7 +513,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165052
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. KNOWLEDGE",Crime+ Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157554
 
@@ -527,10 +552,10 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Turbo.
 #EXTINF:-1 tvg-logo="" group-title="02. KNOWLEDGE",Discovery Investigation
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Investigation.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX ID
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/dmax2.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX TV
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX UK
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/DMAX.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
@@ -539,7 +564,7 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/trekker.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/history.m3u8
@@ -547,7 +572,7 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/history.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162519
@@ -701,6 +726,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298519
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HgTl.jpg" group-title="03. MOVIES",Citra Drama
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cidra.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HgTl.jpg" group-title="03. MOVIES",Citra Drama
+http://mykingtv.net:2082/amad1234/amad1234/5118
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HgTl.jpg" group-title="03. MOVIES",Citra Drama
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264748
@@ -1717,6 +1745,10 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cidang.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HkjS.jpg" group-title="10. MUSIC",Citra Dangdut
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/247446
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HkjS.jpg" group-title="10. MUSIC",Citra Dangdut
+http://mykingtv.net:2082/amad1234/amad1234/5120
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62UCc.jpg" group-title="10. MUSIC",MTV 90's
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/mtv90.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://imgpile.com/images/D62wVN.jpg" group-title="10. MUSIC",MTV Live
@@ -4489,5 +4521,4 @@ https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap
 https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
 #EXTINF:-1  tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg" group-title="35. VOD ANIMASI",Wreck-It Ralph (2012)
 https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
-
 
