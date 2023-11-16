@@ -846,8 +846,14 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q033.jpg" group-title="03. MOVIES",My Cinema
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298553
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q033.jpg" group-title="03. MOVIES",My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qO98.jpg" group-title="03. MOVIES",My Cinema Asia
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298554
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qO98.jpg" group-title="03. MOVIES",My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qk8b.jpg" group-title="03. MOVIES",My Cinema Europe
 http://210.210.155.35/uq2663/h/h18/index.m3u8
@@ -856,6 +862,9 @@ http://210.210.155.35/uq2663/h/h208/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q3Mu.jpg" group-title="03. MOVIES",My Family Channel
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298555
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q3Mu.jpg" group-title="03. MOVIES",My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62A7h.jpg" group-title="03. MOVIES",Paramount Network
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/paramount.m3u8
@@ -1023,7 +1032,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/671
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. KIDS",My Kidz
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298556
-
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. KIDS",My Kidz
+http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
