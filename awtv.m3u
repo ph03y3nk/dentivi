@@ -673,8 +673,13 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165065
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298516
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HAuj.jpg" group-title="03. MOVIES",Cinema World
+http://210.210.155.37/uq2663/h/h202/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HAuj.jpg" group-title="03. MOVIES",Cinema World
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165082
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HAuj.jpg" group-title="03. MOVIES",Cinema World
+http://210.210.155.37/uq2663/h/h04/index.m3u8
 
 #==========================================
 
@@ -1623,6 +1628,9 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/jgn.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://imgpile.com/images/D6qFcw.jpg" group-title="07. INTERNATIONAL",Metro Globe Network
 http://210.210.155.35/uq2663/h/h35/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://imgpile.com/images/D6qFcw.jpg" group-title="07. INTERNATIONAL",Metro Globe Network
+http://210.210.155.37/uq2663/h/h11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62ofa.jpg" group-title="07. INTERNATIONAL",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
