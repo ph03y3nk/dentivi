@@ -1,98 +1,228 @@
 #EXTM3U
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",SCTV 
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+AXN
+http://173.225.246.25:8889/udp/239.203.20.4:4003
+AXS TV (sport)
+http://173.225.246.25:8889/udp/239.203.20.5:4003
+BBC USA
+http://173.225.246.25:8889/udp/239.203.20.6:4003
+BIG Network (sport)
+http://173.225.246.25:8889/udp/239.203.20.8:4003
+Bloomberg
+http://173.225.246.25:8889/udp/239.203.20.9:4003
+Cartoonito
+http://173.225.246.25:8889/udp/239.203.20.10:4003
+Cala Westerns
+http://173.225.246.25:8889/udp/239.203.20.13:4003
+CARS TV
+http://173.225.246.25:8889/udp/239.203.20.14:4003
+Live CNN
+http://173.225.246.25:8889/udp/239.203.20.22:4003
+Cooking Channel
+http://173.225.246.25:8889/udp/239.203.20.24:4003
+Discovery
+http://173.225.246.25:8889/udp/239.203.20.26:4003
+Disney
+http://173.225.246.25:8889/udp/239.203.20.29:4003
+Disney Jr.
+http://173.225.246.25:8889/udp/239.203.20.30:4003
+Magnolia Network
+http://173.225.246.25:8889/udp/239.203.20.32:4003
+E!
+http://173.225.246.25:8889/udp/239.203.20.33:4003
+http://173.225.246.25:8889/udp/239.203.20.34:4003
+ESPN 2
+http://173.225.246.25:8889/udp/239.203.20.36:4003
+ESPN
+http://173.225.246.25:8889/udp/239.203.20.37:4003
+ESPN University
+http://173.225.246.25:8889/udp/239.203.20.39:4003
+ES TV
+http://173.225.246.25:8889/udp/239.203.20.40:4003
+EuroNews
+http://173.225.246.25:8889/udp/239.203.20.41:4003
+Flow Sports
+http://173.225.246.25:8889/udp/239.203.20.43:4003
+Fox News
+http://173.225.246.25:8889/udp/239.203.20.44:4003
+Fox Soccer Plus
+http://173.225.246.25:8889/udp/239.203.20.45:4003
+Fox Sport Racing
+http://173.225.246.25:8889/udp/239.203.20.46:4003
+FX
+http://173.225.246.25:8889/udp/239.203.20.47:4003
+FYI, 
+http://173.225.246.25:8889/udp/239.203.20.49:4003
+GameShow Network
+http://173.225.246.25:8889/udp/239.203.20.50:4003
+GOLF
+http://173.225.246.25:8889/udp/239.203.20.51:4003
+Hallmark
+http://173.225.246.25:8889/udp/239.203.20.52:4003
+HBO
+http://173.225.246.25:8889/udp/239.203.20.53:4003
+HBO Mundi
+http://173.225.246.25:8889/udp/239.203.20.54:4003
+HBO Pop
+http://173.225.246.25:8889/udp/239.203.20.55:4003
+HBO Signature
+http://173.225.246.25:8889/udp/239.203.20.56:4003
+HBO Xtreme
+http://173.225.246.25:8889/udp/239.203.20.57:4003
+History
+http://173.225.246.25:8889/udp/239.203.20.59:4003
+Lifetime
+http://173.225.246.25:8889/udp/239.203.20.64:4003
+MAV TV
+http://173.225.246.25:8889/udp/239.203.20.66:4003
+MTV 00's
+http://173.225.246.25:8889/udp/239.203.20.68:4003
+MTV Live
+http://173.225.246.25:8889/udp/239.203.20.70:4003
+NatGeo
+http://173.225.246.25:8889/udp/239.203.20.73:4003
+NHK World
+http://173.225.246.25:8889/udp/239.203.20.75:4003
+AlJazeera English
+http://173.225.246.25:8889/udp/239.203.20.88:4002
+Baby First
+http://173.225.246.25:8889/udp/239.203.20.89:4003
+Baby TV
+http://173.225.246.25:8889/udp/239.203.20.90:4003
+BBO (Bolywood)
+http://173.225.246.25:8889/udp/239.203.20.91:4003
+CGTN
+http://173.225.246.25:8889/udp/239.203.20.99:4003
+BBC News
+http://173.225.246.25:8889/udp/239.203.20.102:4003
+Eurosport 2
+http://173.225.246.25:8889/udp/239.203.20.111:4003
+HBO 2
+http://173.225.246.25:8889/udp/239.203.20.118:4003
+HBO
+http://173.225.246.25:8889/udp/239.203.20.119:4003
+HBO Family
+http://173.225.246.25:8889/udp/239.203.20.120:4003
+HBO+
+http://173.225.246.25:8889/udp/239.203.20.121:4003
+HGTV
+http://173.225.246.25:8889/udp/239.203.20.122:4003
+Rush Prime
+http://173.225.246.25:8889/udp/239.203.20.124:4003
+MTV
+http://173.225.246.25:8889/udp/239.203.20.125:4003
+Nickelodeon
+http://173.225.246.25:8889/udp/239.203.20.127:4003
+NosPais (film)
+http://173.225.246.25:8889/udp/239.203.20.128:4003
+OWN
+http://173.225.246.25:8889/udp/239.203.20.130:4003
+Sportsmax
+http://173.225.246.25:8889/udp/239.203.20.132:4003
+Cala News
+http://173.225.246.25:8889/udp/239.203.20.134:4003
+Rush Prime
+http://173.225.246.25:8889/udp/239.203.20.147:4003
+Sportsmax 2
+http://173.225.246.25:8889/udp/239.203.20.149:4003
+Sportsmax Racing
+http://173.225.246.25:8889/udp/239.203.20.152:4003
 
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",Indosiar HD 
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
-https://cdnjkt2.transvision.co.id:1003/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/mhLb9YjK/tvone.jpg" group-title="Indonesia Channels",TV ONE
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HrPXyWb7/antv.jpg" group-title="Indonesia Channels",ANTV
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.m3u8
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/12b284fc8ea145f4b91747c56e846f9f.png" group-title="Kids",Dunia Anak 
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
-
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito_
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
-
+http://173.225.246.25:8889/udp/239.203.20.160:4003
+http://173.225.246.25:8889/udp/239.203.20.161:4003
+http://173.225.246.25:8889/udp/239.203.20.162:4003
+http://173.225.246.25:8889/udp/239.203.20.163:4003
+http://173.225.246.25:8889/udp/239.203.20.164:4003
+http://173.225.246.25:8889/udp/239.203.20.165:4003
+http://173.225.246.25:8889/udp/239.203.20.166:4003
+http://173.225.246.25:8889/udp/239.203.20.167:4003
+http://173.225.246.25:8889/udp/239.203.20.168:4003
+http://173.225.246.25:8889/udp/239.203.20.169:4003
+http://173.225.246.25:8889/udp/239.203.20.170:4003
+http://173.225.246.25:8889/udp/239.203.20.171:4003
+http://173.225.246.25:8889/udp/239.203.20.172:4003
+http://173.225.246.25:8889/udp/239.203.20.173:4003
+http://173.225.246.25:8889/udp/239.203.20.174:4003
+http://173.225.246.25:8889/udp/239.203.20.175:4003
+http://173.225.246.25:8889/udp/239.203.20.176:4003
+http://173.225.246.25:8889/udp/239.203.20.177:4003
+http://173.225.246.25:8889/udp/239.203.20.178:4003
+http://173.225.246.25:8889/udp/239.203.20.179:4003
+http://173.225.246.25:8889/udp/239.203.20.180:4003
+http://173.225.246.25:8889/udp/239.203.20.181:4003
+http://173.225.246.25:8889/udp/239.203.20.182:4003
+http://173.225.246.25:8889/udp/239.203.20.183:4003
+http://173.225.246.25:8889/udp/239.203.20.184:4003
+http://173.225.246.25:8889/udp/239.203.20.185:4003
+http://173.225.246.25:8889/udp/239.203.20.186:4003
+http://173.225.246.25:8889/udp/239.203.20.187:4003
+http://173.225.246.25:8889/udp/239.203.20.188:4003
+http://173.225.246.25:8889/udp/239.203.20.189:4003
+http://173.225.246.25:8889/udp/239.203.20.190:4003
+http://173.225.246.25:8889/udp/239.203.20.191:4003
+http://173.225.246.25:8889/udp/239.203.20.192:4003
+http://173.225.246.25:8889/udp/239.203.20.193:4003
+http://173.225.246.25:8889/udp/239.203.20.194:4003
+http://173.225.246.25:8889/udp/239.203.20.195:4003
+http://173.225.246.25:8889/udp/239.203.20.196:4003
+http://173.225.246.25:8889/udp/239.203.20.197:4003
+http://173.225.246.25:8889/udp/239.203.20.198:4003
+http://173.225.246.25:8889/udp/239.203.20.199:4003
+http://173.225.246.25:8889/udp/239.203.20.200:4003
+http://173.225.246.25:8889/udp/239.203.20.201:4003
+http://173.225.246.25:8889/udp/239.203.20.202:4003
+http://173.225.246.25:8889/udp/239.203.20.203:4003
+http://173.225.246.25:8889/udp/239.203.20.204:4003
+http://173.225.246.25:8889/udp/239.203.20.205:4003
+http://173.225.246.25:8889/udp/239.203.20.206:4003
+http://173.225.246.25:8889/udp/239.203.20.207:4003
+http://173.225.246.25:8889/udp/239.203.20.208:4003
+http://173.225.246.25:8889/udp/239.203.20.209:4003
+http://173.225.246.25:8889/udp/239.203.20.210:4003
+http://173.225.246.25:8889/udp/239.203.20.211:4003
+http://173.225.246.25:8889/udp/239.203.20.212:4003
+http://173.225.246.25:8889/udp/239.203.20.213:4003
+http://173.225.246.25:8889/udp/239.203.20.214:4003
+http://173.225.246.25:8889/udp/239.203.20.215:4003
+http://173.225.246.25:8889/udp/239.203.20.216:4003
+http://173.225.246.25:8889/udp/239.203.20.217:4003
+http://173.225.246.25:8889/udp/239.203.20.218:4003
+http://173.225.246.25:8889/udp/239.203.20.219:4003
+http://173.225.246.25:8889/udp/239.203.20.220:4003
+http://173.225.246.25:8889/udp/239.203.20.221:4003
+http://173.225.246.25:8889/udp/239.203.20.222:4003
+http://173.225.246.25:8889/udp/239.203.20.223:4003
+http://173.225.246.25:8889/udp/239.203.20.224:4003
+http://173.225.246.25:8889/udp/239.203.20.225:4003
+http://173.225.246.25:8889/udp/239.203.20.226:4003
+http://173.225.246.25:8889/udp/239.203.20.227:4003
+http://173.225.246.25:8889/udp/239.203.20.228:4003
+http://173.225.246.25:8889/udp/239.203.20.229:4003
+http://173.225.246.25:8889/udp/239.203.20.230:4003
+http://173.225.246.25:8889/udp/239.203.20.231:4003
+http://173.225.246.25:8889/udp/239.203.20.232:4003
+http://173.225.246.25:8889/udp/239.203.20.233:4003
+http://173.225.246.25:8889/udp/239.203.20.234:4003
+http://173.225.246.25:8889/udp/239.203.20.235:4003
+http://173.225.246.25:8889/udp/239.203.20.236:4003
+http://173.225.246.25:8889/udp/239.203.20.237:4003
+http://173.225.246.25:8889/udp/239.203.20.238:4003
+http://173.225.246.25:8889/udp/239.203.20.239:4003
+http://173.225.246.25:8889/udp/239.203.20.240:4003
+http://173.225.246.25:8889/udp/239.203.20.241:4003
+http://173.225.246.25:8889/udp/239.203.20.242:4003
+http://173.225.246.25:8889/udp/239.203.20.243:4003
+http://173.225.246.25:8889/udp/239.203.20.244:4003
+http://173.225.246.25:8889/udp/239.203.20.245:4003
+http://173.225.246.25:8889/udp/239.203.20.246:4003
+http://173.225.246.25:8889/udp/239.203.20.247:4003
+http://173.225.246.25:8889/udp/239.203.20.248:4003
+http://173.225.246.25:8889/udp/239.203.20.249:4003
+http://173.225.246.25:8889/udp/239.203.20.250:4003
+http://173.225.246.25:8889/udp/239.203.20.251:4003
+http://173.225.246.25:8889/udp/239.203.20.252:4003
+http://173.225.246.25:8889/udp/239.203.20.253:4003
+http://173.225.246.25:8889/udp/239.203.20.254:4003
+http://173.225.246.25:8889/udp/239.203.20.255:4003
