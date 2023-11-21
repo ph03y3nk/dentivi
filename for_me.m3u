@@ -239,6 +239,10 @@ http://210.210.155.37/uq2663/s/s104/index.m3u8
 http://210.210.155.37/uq2663/h/h234/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NATIONAL",KOMPAS TV
 http://210.210.155.35/uq2663/h/h234/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NATIONAL",KOMPAS TV
+http://103.166.27.2:8112/play/a019/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qB5l.jpg" group-title="01. NATIONAL",MENTARI TV
+http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qB5l.jpg" group-title="01. NATIONAL",MENTARI TV
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/298546
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qvIi.jpg" group-title="01. NATIONAL",METRO TV
@@ -255,6 +259,8 @@ http://210.210.155.35/uq2663/h/h12/index.m3u8
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/165059
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qZ82.jpg" group-title="01. NATIONAL",MNC TV
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/165054
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/DeaPkP.jpg" group-title="01. NATIONAL",Moji HD
+http://103.166.27.2:8112/play/a017/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/DeaPkP.jpg" group-title="01. NATIONAL",Moji HD
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/DeaPkP.jpg" group-title="01. NATIONAL",Moji HD
@@ -285,6 +291,8 @@ http://210.210.155.35/uq2663/h/h10/index.m3u8
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/196457
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
 http://210.210.155.37/uq2663/s/s03/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
+http://103.166.27.2:8112/play/a015/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
 http://210.210.155.37/uq2663/h/h217/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NATIONAL",SCTV
@@ -971,10 +979,12 @@ http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/298503
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/157478
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/G4cE32.jpg" group-title="06. ENTERTAINMENT",Astro Oasis
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/157489
-#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6XEeN.jpg" group-title="06. ENTERTAINMENT",AXN
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/165079
 #EXTINF:-1  tvg-logo="" group-title="06. ENTERTAINMENT",AXN Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6XEeN.jpg" group-title="06. ENTERTAINMENT",AXN Asia
+http://103.166.27.2:8112/play/a007/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6XEeN.jpg" group-title="06. ENTERTAINMENT",AXN Asia
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/165079
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6XEeN.jpg" group-title="06. ENTERTAINMENT",AXN Russia
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/31995
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HUCb.jpg" group-title="06. ENTERTAINMENT",Biznet Adventure
