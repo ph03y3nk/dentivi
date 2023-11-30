@@ -387,14 +387,20 @@ http://173.225.246.25:8889/udp/239.203.20.190:4002
 http://173.225.246.25:8889/udp/239.203.20.191:4002
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX ID
+http://muka03.wanicelife.com:8880/12mss260009/99315359/71097
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oTHN.jpg" group-title="02. KNOWLEDGE",DMAX UK
 https://food-dlvr-ott.akamaized.net/primary/2/07543219680b429fa16f1f5796eda058/index_21.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6ogoc.jpg" group-title="02. KNOWLEDGE",Global Trekker
+http://muka03.wanicelife.com:8880/12mss260009/99315359/71137
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY ID
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/162519
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY ID
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY ID
+http://muka03.wanicelife.com:8880/12mss260009/99315359/71074
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6quhb.jpg" group-title="02. KNOWLEDGE",HISTORY
 http://173.225.246.25:8889/udp/239.203.20.59:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qb1u.jpg" group-title="02. KNOWLEDGE",Horse and Country
@@ -485,6 +491,8 @@ http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/165057
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/298541
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. MOVIES",CINEMAX
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/197964
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. MOVIES",CINEMAX
+http://muka03.wanicelife.com:8880/12mss260009/99315359/71058
 #EXTINF:-1  tvg-logo="" group-title="03. MOVIES",Cinemax 2
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/32009
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HWD8.jpg" group-title="03. MOVIES",Citra Bioskop
@@ -505,16 +513,26 @@ http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/298528
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/298529
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6o0YE.jpg" group-title="03. MOVIES",GALAXY
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/264773
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6o0YE.jpg" group-title="03. MOVIES",GALAXY
+http://muka03.wanicelife.com:8880/12mss260009/99315359/60375
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oWkr.jpg" group-title="03. MOVIES",GALAXY Premium
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/264774
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oWkr.jpg" group-title="03. MOVIES",GALAXY Premium
+http://muka03.wanicelife.com:8880/12mss260009/99315359/60374
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/197972
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
+http://muka03.wanicelife.com:8880/12mss260009/99315359/1711
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. MOVIES",HBO Family
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/197055
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. MOVIES",HBO Family
+http://muka03.wanicelife.com:8880/12mss260009/99315359/1707
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. MOVIES",HBO Signature
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/221948
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. MOVIES",HBO Hits
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/196480
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. MOVIES",HBO Hits
+http://muka03.wanicelife.com:8880/12mss260009/99315359/71037
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/32023
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. MOVIES",HBO
@@ -755,21 +773,25 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="04. KIDS",Nick Jr.
-http://173.225.246.25:8889/udp/239.203.20.207:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157546
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
+http://muka03.wanicelife.com:8880/12mss260009/99315359/60481
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/165107
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/298561
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
+http://173.225.246.25:8889/udp/239.203.20.207:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. KIDS",Nick Jr.
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/32037
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62zDM.jpg" group-title="04. KIDS",Nick Toons
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/740
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62mjk.jpg" group-title="04. KIDS",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="04. KIDS",Nickelodeon
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D62mjk.jpg" group-title="04. KIDS",Nickelodeon
+http://muka03.wanicelife.com:8880/12mss260009/99315359/71085
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D62mjk.jpg" group-title="04. KIDS",Nickelodeon
 http://173.225.246.25:8889/udp/239.203.20.127:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62mjk.jpg" group-title="04. KIDS",Nickleodeon
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/162510
