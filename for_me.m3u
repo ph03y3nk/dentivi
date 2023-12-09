@@ -74,7 +74,7 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/174695
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D628X4.jpg" group-title="01. NASIONAL",NUSANTARA TV
 https://v5.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="01. NASIONAL",OK TV
-http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/221956
+http://muka03.wanicelife.com:8880/12mss260009/99315359/60484
 #EXTINF:-1  tvg-logo="" group-title="01. NASIONAL",OKEY TV
 http://muka03.wanicelife.com:8880/12mss260009/99315359/71060
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62HTG.jpg" group-title="01. NASIONAL",OKEZONE TV
@@ -205,6 +205,8 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298516
 http://210.210.155.37/uq2663/h/h202/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HofL.jpg" group-title="03. FILM",Cinemachi Action
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/165057
+#EXTINF:-1  tvg-logo="" group-title="03. FILM",Cinemachi Kids
+http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/221956
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HVEP.jpg" group-title="03. FILM",Cinemachi Xtra
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298541
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. FILM",CINEMAX
