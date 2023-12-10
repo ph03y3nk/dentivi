@@ -48,8 +48,6 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/162138
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qtva.jpg" group-title="01. NASIONAL",iNEWS
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/157579
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6H1Io.jpg" group-title="01. NASIONAL",Investor Daily
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6H1Io.jpg" group-title="01. NASIONAL",Investor Daily
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qJ0E.jpg" group-title="01. NASIONAL",JAK TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
@@ -74,7 +72,7 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/174695
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D628X4.jpg" group-title="01. NASIONAL",NUSANTARA TV
 https://v5.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="01. NASIONAL",OK TV
-http://muka03.wanicelife.com:8880/12mss260009/99315359/60484
+http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/221956
 #EXTINF:-1  tvg-logo="" group-title="01. NASIONAL",OKEY TV
 http://muka03.wanicelife.com:8880/12mss260009/99315359/71060
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62HTG.jpg" group-title="01. NASIONAL",OKEZONE TV
@@ -86,7 +84,7 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/299546
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="01. NASIONAL",RTM TV 1
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/158357
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62SLj.jpg" group-title="01. NASIONAL",RTV
-http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/196457
+http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62yp8.jpg" group-title="01. NASIONAL",SCTV
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/162141
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6A1l3.jpg" group-title="01. NASIONAL",SINDONEWS
@@ -113,8 +111,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/171979
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6Xycx.jpg" group-title="02. PENGETAHUAN",BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="02. PENGETAHUAN",CARS TV
-http://173.225.246.25:8889/udp/239.203.20.14:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HiBE.jpg" group-title="02. PENGETAHUAN",CGTN Documentary
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HpPu.jpg" group-title="02. PENGETAHUAN",CRIME+ Investigation
@@ -153,8 +149,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/9319
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qAaS.jpg" group-title="02. PENGETAHUAN",LOVE NATURE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="02. PENGETAHUAN",MAV TV
-http://173.225.246.25:8889/udp/239.203.20.66:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62DAo.jpg" group-title="02. PENGETAHUAN",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. PENGETAHUAN",Nat Geo
@@ -165,8 +159,6 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/165094
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298625
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62PR3.jpg" group-title="02. PENGETAHUAN",Nat Geo Wild
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/1101
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="02. PENGETAHUAN",Nautical Channel
-http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/300573
 #EXTINF:-1  tvg-logo="" group-title="02. PENGETAHUAN",OUTDOOR
 http://muka03.wanicelife.com:8880/12mss260009/99315359/60461
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62Zyo.jpg" group-title="02. PENGETAHUAN",RT Documentary
@@ -189,8 +181,6 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6LiKi.jpg" group-title="02. PENGETAHUAN",XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="03. FILM",BBO (Bolywood)
-http://173.225.246.25:8889/udp/239.203.20.91:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6Hu2S.jpg" group-title="03. FILM",Bioskop Indonesia
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/264801
 #EXTINF:-1  tvg-logo="" group-title="03. FILM",BOO
@@ -205,8 +195,6 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298516
 http://210.210.155.37/uq2663/h/h202/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HofL.jpg" group-title="03. FILM",Cinemachi Action
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/165057
-#EXTINF:-1  tvg-logo="" group-title="03. FILM",Cinemachi Kids
-http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/221956
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HVEP.jpg" group-title="03. FILM",Cinemachi Xtra
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298541
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. FILM",CINEMAX
@@ -233,8 +221,6 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/264773
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/264774
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. FILM",HBO
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/197972
-#EXTINF:-1  tvg-logo="" group-title="03. FILM",HBO 2
-http://173.225.246.25:8889/udp/239.203.20.118:4002
 #EXTINF:-1  tvg-logo="" group-title="03. FILM",HBO 3
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/32021
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a550bbc3691f6e7d84d7ef27176e8ef7.png" group-title="03. FILM",HBO Comedy
@@ -243,16 +229,8 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/151864
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/197055
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. FILM",HBO Hits
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/196480
-#EXTINF:-1  tvg-logo="" group-title="03. FILM",HBO Mundi
-http://173.225.246.25:8889/udp/239.203.20.54:4002
-#EXTINF:-1  tvg-logo="" group-title="03. FILM",HBO Pop
-http://173.225.246.25:8889/udp/239.203.20.55:4002
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. FILM",HBO Signature
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/221948
-#EXTINF:-1  tvg-logo="" group-title="03. FILM",HBO Xtreme
-http://173.225.246.25:8889/udp/239.203.20.57:4002
-#EXTINF:-1  tvg-logo="" group-title="03. FILM",HBO+
-http://173.225.246.25:8889/udp/239.203.20.121:4002
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qR0i.jpg" group-title="03. FILM",HITS Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qhqM.jpg" group-title="03. FILM",IMC
@@ -450,7 +428,8 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298536
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6q5iF.jpg" group-title="04. ANAK",HOREE!
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qDh2.jpg" group-title="04. ANAK",INDI KIDS
-http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298539
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+#http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298539
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6ql9N.jpg" group-title="04. ANAK",KIDS TV
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/162505
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6ql9N.jpg" group-title="04. ANAK",KIDS TV
@@ -462,7 +441,7 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/662
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/Deain1.jpg" group-title="04. ANAK",MOONBUG KIDS
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/Deain1.jpg" group-title="04. ANAK",MOONBUG KIDS
-http://muka03.wanicelife.com:8880/12mss260009/99315359/71061
+#http://muka03.wanicelife.com:8880/12mss260009/99315359/71061
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. ANAK",MYKIDZ
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298556
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. ANAK",MYKIDZ
@@ -541,16 +520,8 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/266844
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/165105
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6H7e8.jpg" group-title="05. OLAHRAGA",BeinSports 3
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298506
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",BIG Network US
-http://173.225.246.25:8889/udp/239.203.20.8:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/G4caWX.jpg" group-title="05. OLAHRAGA",ESPN
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/747
-#EXTINF:-1  tvg-logo="https://imgpile.com/images/G4caWX.jpg" group-title="05. OLAHRAGA",ESPN
-http://173.225.246.25:8889/udp/239.203.20.37:4003
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",ESPN 2
-http://173.225.246.25:8889/udp/239.203.20.36:4003
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",ESPN University
-http://173.225.246.25:8889/udp/239.203.20.39:4003
 #EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="05. OLAHRAGA",Eurosport 1
@@ -569,12 +540,6 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298531
 http://muka03.wanicelife.com:8880/12mss260009/99315359/60350
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. OLAHRAGA",FIGHTSPORTS
 http://210.210.155.37/uq2663/h/h204/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",Flow Sports
-http://173.225.246.25:8889/udp/239.203.20.43:4003
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",Fox Soccer Plus
-http://173.225.246.25:8889/udp/239.203.20.45:4003
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",Fox Sport Racing
-http://173.225.246.25:8889/udp/239.203.20.46:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6opv1.jpg" group-title="05. OLAHRAGA",FoxSports
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/756
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6ooS2.jpg" group-title="05. OLAHRAGA",FoxSports 2
@@ -583,8 +548,6 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/757
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/157488
 #EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",GOLF
 http://muka03.wanicelife.com:8880/12mss260009/99315359/71107
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",GOLF
-http://173.225.246.25:8889/udp/239.203.20.51:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qycX.jpg" group-title="05. OLAHRAGA",Motorvision TV
 http://210.210.155.37/uq2663/h/h242/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/G4f42r.jpg" group-title="05. OLAHRAGA",NBA TV
@@ -653,12 +616,6 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6AYSc.jpg" group-title="05. OLAHRAGA",Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",Sportsmax
-http://173.225.246.25:8889/udp/239.203.20.132:4003
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",Sportsmax 2
-http://173.225.246.25:8889/udp/239.203.20.149:4003
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",Sportsmax Racing
-http://173.225.246.25:8889/udp/239.203.20.152:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6AmU1.jpg" group-title="05. OLAHRAGA",SPORTSTARS
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/157589
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6AmU1.jpg" group-title="05. OLAHRAGA",SPORTSTARS
@@ -695,8 +652,6 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/271
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298471
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="05. OLAHRAGA",TNT Sports 5
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/1124
-#EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",Trace SportStars
-http://173.225.246.25:8889/udp/239.203.20.167:4003
 #EXTINF:-1  tvg-logo="" group-title="05. OLAHRAGA",True Premiere Footbal 1
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/162591
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/G4fheo.jpg" group-title="05. OLAHRAGA",TSN 1
@@ -730,7 +685,8 @@ http://muka03.wanicelife.com:8880/12mss260009/99315359/1698
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qKwX.jpg" group-title="06. HIBURAN",!nsert
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/264766
 #EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",AllPlay Ent
-http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/162524
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/162524
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/G4c684.jpg" group-title="06. HIBURAN",ASTRO AWANI
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/157478
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/G4cE32.jpg" group-title="06. HIBURAN",ASTRO OASIS
@@ -756,7 +712,7 @@ http://210.210.155.37/uq2663/h/h246/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",Dens Showbiz
 http://210.210.155.35/uq2663/h/h244/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6o77E.jpg" group-title="06. HIBURAN",DIGIONE (Maxstream)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dubai-one-ae.png" group-title="06. HIBURAN",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oxOo.jpg" group-title="06. HIBURAN",Dunia Lain
@@ -765,14 +721,8 @@ http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298524
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/1542
 #EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",FMN
 http://muka03.wanicelife.com:8880/12mss260009/99315359/60465
-#EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",FYI
-http://173.225.246.25:8889/udp/239.203.20.49:4003
-#EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",GameShow Network
-http://173.225.246.25:8889/udp/239.203.20.50:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oQtg.jpg" group-title="06. HIBURAN",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",Hallmark
-http://173.225.246.25:8889/udp/239.203.20.52:4003
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6qNvl.jpg" group-title="06. HIBURAN",HITS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/just-fun-th.png" group-title="06. HIBURAN",Just for Laughs
@@ -809,8 +759,6 @@ http://210.210.155.37/uq2663/h/h213/index.m3u8
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rotana-cinema-ksa-sa.png" group-title="06. HIBURAN",Rotana Cinema Saudi
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",Rush Prime
-http://173.225.246.25:8889/udp/239.203.20.147:4003
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/59d97222b7d71d90758196d27c9dc2ca.jpg" group-title="06. HIBURAN",Sky One
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/1080
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f4b5e2265a16d082987dc9d5aada57dc.png" group-title="06. HIBURAN",Sky Showcase
@@ -820,11 +768,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index
 #EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",Sony WAH
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/197946
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6AvZM.jpg" group-title="06. HIBURAN",TechStorm
-http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298572
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/298572
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6AynE.jpg" group-title="06. HIBURAN",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",TRVL Channel
-http://173.225.246.25:8889/udp/239.203.20.168:4003
 #EXTINF:-1  tvg-logo="" group-title="06. HIBURAN",TVE
 http://210.210.155.37/uq2663/h/h158/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="06. HIBURAN",TVKU
@@ -847,8 +794,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/264747
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HTRw.jpg" group-title="07. GAYA HIDUP",Biznet LifeStyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
-#EXTINF:-1  tvg-logo="" group-title="07. GAYA HIDUP",Cooking Channel
-http://173.225.246.25:8889/udp/239.203.20.24:4003
 #EXTINF:-1  tvg-logo="" group-title="07. GAYA HIDUP",Dens Food Channel
 http://210.210.155.37/uq2663/h/h221/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="07. GAYA HIDUP",Dens LifeStyle
@@ -939,12 +884,16 @@ http://210.210.155.37/uq2663/h/h35/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="08. INTERNASIONAL",RAI Italia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="",Russia Today
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8
+%29/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="08. INTERNASIONAL",RTP
 http://210.210.155.37/uq2663/s/s38/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="08. INTERNASIONAL",Saudi TV
 http://210.210.155.37/uq2663/h/h151/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6Anbb.jpg" group-title="08. INTERNASIONAL",SEA TODAY
-http://muka03.wanicelife.com:8880/12mss260009/99315359/60449
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#http://muka03.wanicelife.com:8880/12mss260009/99315359/60449
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54b242215ebf5c890cfdc03b82aece0c.png" group-title="08. INTERNASIONAL",Sky News
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/1081
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ef799ac28fec946375fee85e58754a4b.png" group-title="08. INTERNASIONAL",Sky News Arabia
@@ -1016,8 +965,6 @@ http://210.210.155.37/uq2663/h/h250/index.m3u8
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/264760
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/02fe87f4680ce4c67197ba3c4c5bf9c7.png" group-title="10. MUSIK",MTV
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/157555
-#EXTINF:-1  tvg-logo="" group-title="10. MUSIK",MTV 00's
-http://173.225.246.25:8889/udp/239.203.20.68:4003
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/ca3681aa6c3c94669967bb2409db44d9.png" group-title="10. MUSIK",MTV 80s
 http://npkiptv.live:8080/myhdosama/6JbVUE4zXTpRr2pf/300950
 #EXTINF:-1  tvg-logo="" group-title="10. MUSIK",MTV 90's
