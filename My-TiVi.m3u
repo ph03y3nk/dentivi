@@ -266,15 +266,15 @@ http://210.210.155.37/uq2663/h/h204/index.m3u8
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/71107
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ovZN.jpg" group-title="05. OLAHRAGA",GOLF 2
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/30175
-#EXTINF:-1 group-title="05. OLAHRAGA",FR: Golf Channel
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ovZN.jpg" group-title="05. OLAHRAGA",FR: Golf Channel
 http://myteve.online:8080/34223073/2cdb1b8d70/279613
-#EXTINF:-1 group-title="05. OLAHRAGA",FR: GOLF+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ovZN.jpg" group-title="05. OLAHRAGA",FR: GOLF+
 http://myteve.online:8080/34223073/2cdb1b8d70/264
-#EXTINF:-1 group-title="05. OLAHRAGA",US: Golf Channel
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ovZN.jpg" group-title="05. OLAHRAGA",US: Golf Channel
 http://myteve.online:8080/34223073/2cdb1b8d70/5845
-#EXTINF:-1 group-title="05. OLAHRAGA",US: NBC GOLF
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ovZN.jpg" group-title="05. OLAHRAGA",US: NBC GOLF
 http://myteve.online:8080/34223073/2cdb1b8d70/298976
-#EXTINF:-1 group-title="05. OLAHRAGA",MY: GOLF CHANNEL HD
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ovZN.jpg" group-title="05. OLAHRAGA",MY: GOLF CHANNEL HD
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/71107
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AmU1.jpg" group-title="05. OLAHRAGA",MNC SPORTS
 http://myteve.online:8080/34223073/2cdb1b8d70/157589
