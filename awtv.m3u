@@ -1059,7 +1059,7 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/stingfest.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6AQxu.jpg" group-title="10. MUSIK",Stingray Now 4K
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/stingnow.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="24 JAM NON STOP",24/7 002:AVATAR
+#EXTINF:-1  tvg-logo="" group-title="24 JAM NON STOP",AVATAR
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/60940
 #EXTINF:-1  tvg-logo="" group-title="24 JAM NON STOP",ACTION MOVIES
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/60207
