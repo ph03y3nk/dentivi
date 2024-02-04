@@ -851,20 +851,20 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/tvbnews.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6Lm84.jpg" group-title="08. INTERNASIONAL",WION
 http://210.210.155.37/uq2663/h/h91/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png" group-title="09. RELIGI",ASTRO OASIS
-http://muka03.wanicelife.com:8880/12mkk190080/69342671/1701
-#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HFE3.jpg" group-title="09. RELIGI",CITRA MUSLIM
-https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cimus.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="09. RELIGI",Dzikir Pagi
 https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DpGZOCMeioII5wpQscU03uduG5hvC3w52A&usqp=CAU" group-title="09. RELIGI",Dzikir Petang
 https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="09. RELIGI",Dzikir Sebelum Tidur
 https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
+http://210.210.155.37/x6bnqe/s/s28/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg"group-title="09. RELIGI",AsSunnah AnNabawiyah
+http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png" group-title="09. RELIGI",ASTRO OASIS
+http://muka03.wanicelife.com:8880/12mkk190080/69342671/1701
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HFE3.jpg" group-title="09. RELIGI",CITRA MUSLIM
+https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cimus.m3u8
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D624Bh.jpg" group-title="09. RELIGI",MQTV
 http://myteve.online:8080/30fe809e/ec00cbf3/298551
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D62bf1.jpg" group-title="09. RELIGI",MUSLIM TV
