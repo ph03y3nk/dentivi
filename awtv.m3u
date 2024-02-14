@@ -867,8 +867,21 @@ https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU"group-title="09. RELIGI",Dzikir Sebelum Tidur
 https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
 
+  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
+https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
 http://210.210.155.37/x6bnqe/s/s28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg"group-title="09. RELIGI",AsSunnah AnNabawiyah
 http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png"group-title="09. RELIGI",ASTRO OASIS
@@ -877,10 +890,24 @@ http://muka03.wanicelife.com:8880/12mkk190080/69342671/1701
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cimus.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62bf1.jpg"group-title="09. RELIGI",MUSLIM TV
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/60277
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62bf1.jpg"group-title="09. RELIGI",MUSLIM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg"group-title="09. RELIGI",RODJA TV
 https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg"group-title="09. RELIGI",RODJA TV
 http://210.210.155.37/uq2663/h/h233/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tawaf-tv-id.png"group-title="09. RELIGI",TAWAF TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tawaf-tv-id.png"group-title="09. RELIGI",TAWAF TV
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/60346
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Ldxj.jpg"group-title="09. RELIGI",TV 9
