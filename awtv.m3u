@@ -353,6 +353,10 @@ https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cibio.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HgTl.jpg"group-title="03. FILM",CITRA DRAMA
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/cidra.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o0YE.jpg"group-title="03. FILM",GALAXY
+http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/264773
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oWkr.jpg"group-title="03. FILM",GALAXY PREMIUM
+http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/264774
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o0YE.jpg"group-title="03. FILM",GALAXY
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/60375
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oWkr.jpg"group-title="03. FILM",GALAXY PREMIUM
 http://muka03.wanicelife.com:8880/12mkk190080/69342671/60374
@@ -373,6 +377,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 https://as-proxy.openwindow040.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. FILM",HBO ID
+http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/197972
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oekj.jpg" group-title="03. FILM",HBO Family ID
+http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/197055
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6q4xC.jpg" group-title="03. FILM",HBO Hits ID
+http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/196480
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6oZUL.jpg" group-title="03. FILM",HBO Signature ID
+http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/221948
+#EXTINF:-1  tvg-logo="https://imgpile.com/images/D6HOLC.jpg" group-title="03. FILM",Cinemax ID
+http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/197964
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg" group-title="03. FILM",HBO Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
