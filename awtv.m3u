@@ -645,9 +645,15 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lm84.jpg"group-title="08. INTERNASIONAL",WION
 http://210.210.155.37/uq2663/h/h91/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
+http://210.210.155.35/x6bnqe/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
 http://210.210.155.37/x6bnqe/s/s28/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
+http://210.210.155.37/x6bnqe/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg"group-title="09. RELIGI",Al Quranul Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg"group-title="09. RELIGI",AsSunnah AnNabawiyah
+http://210.210.155.35/x6bnqe/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg"group-title="09. RELIGI",AsSunnah AnNabawiyah
 http://210.210.155.35/x6bnqe/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg"group-title="09. RELIGI",AsSunnah AnNabawiyah
