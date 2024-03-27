@@ -188,7 +188,6 @@ http://210.210.155.37/qwr9ew/s/s12/index.m3u8
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o6dW.jpg"group-title="01. NASIONAL",GTV
 http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/157578
-https://maper.info/GTV_shareext_ts
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qdxk.jpg"group-title="01. NASIONAL",IDX Channel
 http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/157590
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qcac.jpg"group-title="01. NASIONAL",INDONESIANA TV
@@ -197,7 +196,6 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 http://210.210.155.37/uq2663/h/h207/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qtva.jpg"group-title="01. NASIONAL",iNEWS
 http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/157579
-https://maper.info/INEWS_shareext
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H1Io.jpg"group-title="01. NASIONAL",Investor Daily
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qJ0E.jpg"group-title="01. NASIONAL",JAK TV
@@ -224,7 +222,6 @@ https://v5.siar.us/nusantaratv/live/chunks.m3u8
 http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/221956
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62FpN.jpg"group-title="01. NASIONAL",RCTI
 http://37.49.225.107:8080/adastream2023/Bye5XZwQ8d5Cbs5/157591
-https://maper.info/RCTI_shareext_ts
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62SLj.jpg"group-title="01. NASIONAL",RTV
 http://210.210.155.37/uq2663/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62yp8.jpg"group-title="01. NASIONAL",SCTV
