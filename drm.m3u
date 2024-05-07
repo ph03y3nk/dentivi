@@ -32,7 +32,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62FpN.jpg"group-title="01. NASIONAL",SCTV
-https://testfunctionlive.mncnow.id/live/eds/SCTV-HD/sa_dash_vmx/SCTV-HD.mpd
+https://testfunctionlive.mncnow.id/live/eds/SCTV-2/sa_dash_vmx/SCTV-2.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -44,7 +44,7 @@ https://testfunctionlive.mncnow.id/live/eds/Indosiar-HD/sa_dash_vmx/Indosiar-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62FpN.jpg"group-title="01. NASIONAL",BTV
-https://testfunctionlive.mncnow.id/live/eds/BTV/sa_dash_vmx/BTV.mpd
+https://testfunctionlive.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
