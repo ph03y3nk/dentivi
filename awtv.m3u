@@ -283,6 +283,8 @@ http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/298550
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D628X4.jpg"group-title="01. NASIONAL",NUSANTARA TV
 https://v5.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D628X4.jpg"group-title="01. NASIONAL",NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -564,12 +566,40 @@ https://testfunctionlive.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyP
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oWkr.jpg"group-title="03. FILM",GALAXY PREMIUM
 http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/264774
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg"group-title="03. FILM",HBO (Cubmu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg"group-title="03. FILM",HBO
 http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/197972
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg"group-title="03. FILM",HBO Family (Cubmu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oekj.jpg"group-title="03. FILM",HBO Family
 http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/197055
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg"group-title="03. FILM",HBO Hits (Cubmu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q4xC.jpg"group-title="03. FILM",HBO Hits
 http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/196480
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg"group-title="03. FILM",HBO Signature (Cubmu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oZUL.jpg"group-title="03. FILM",HBO Signature
 http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/221948
 
