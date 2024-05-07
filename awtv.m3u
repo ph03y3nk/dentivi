@@ -180,6 +180,13 @@ https://testfunctionlive.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://210.210.155.37/uq2663/h/h235/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HGj4.jpg"group-title="01. NASIONAL",BN Channel
 http://210.210.155.37/uq2663/h/h39/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HbcF.jpg"group-title="01. NASIONAL",BTV Berita Satu
+https://testfunctionlive.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HbcF.jpg"group-title="01. NASIONAL",BTV Berita Satu
 http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/162513
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H3FF.jpg"group-title="01. NASIONAL",CNBC Indonesia
@@ -497,7 +504,7 @@ https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:0 tvg-logo="https://imgpile.com/images/D6H8VW.jpg" group-title="03. FILM",Cinemachi Action
-https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Action-HD/sa_dash_vmx/Cinemachi-Action-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
