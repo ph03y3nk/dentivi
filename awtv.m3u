@@ -279,6 +279,13 @@ http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/165054
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/DeaPkP.jpg"group-title="01. NASIONAL",MOJI TV
 http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/298550
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62cuF.jpg"group-title="01. NASIONAL",NET. TV
+https://testfunctionlive.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62cuF.jpg"group-title="01. NASIONAL",NET. TV
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D628X4.jpg"group-title="01. NASIONAL",NUSANTARA TV
