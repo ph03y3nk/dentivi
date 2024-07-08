@@ -33,6 +33,12 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/euro2024.jpg" group-title="#FINAL EURO 2024", SEMI FINAL EURO 2024
 https://raw.githubusercontent.com/ph03y3nk/dentovi/main/semifinal.mp4
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H4Wj.jpg" group-title="#FINAL EURO 2024",SportStars 4
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H4Wj.jpg" group-title="#FINAL EURO 2024",beIN Sports 1
+http://iptvkita.my.id:25461/direct/hometv/1826
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H7e8.jpg" group-title="#FINAL EURO 2024",beIN Sports 3
+http://iptvkita.my.id:25461/direct/hometv/1828
 
 
 #################### KONTEN ISLAMI ###################
@@ -1070,9 +1076,11 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H4Wj.jpg" group-title="05. OLAHRAGA",beIN Sports 1
-http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/165105
+#http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/165105
+http://iptvkita.my.id:25461/direct/hometv/1826
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H7e8.jpg" group-title="05. OLAHRAGA",beIN Sports 3
-http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/298506
+#http://45.12.2.240:8080/adastream2023/Bye5XZwQ8d5Cbs5/298506
+http://iptvkita.my.id:25461/direct/hometv/1828
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/billiards_tv_kr.png" group-title="05. OLAHRAGA",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" group-title="05. OLAHRAGA",Dubai Racing 2
