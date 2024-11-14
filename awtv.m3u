@@ -525,7 +525,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg"group-title="01. NASIONAL",KOMPAS TV
-http://210.210.155.35/uq2663/h/h234/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qB5l.jpg"group-title="01. NASIONAL",MENTARI TV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298546
 
@@ -544,7 +544,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qvIi.jpg"group-title="01. NASIONAL",METRO TV
-http://210.210.155.35/uq2663/h/h211/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -691,7 +691,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg"group-title="01. NASIONAL",TV ONE
-http://210.210.155.35/uq2663/h/h224/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -708,7 +708,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lhqo.jpg"group-title="01. NASIONAL",TVRI
-http://210.210.155.35/uq2663/h/h237/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h237/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1039,7 +1039,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/221948
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qR0i.jpg"group-title="03. FILM",HITS Movies
-http://210.210.155.35/uq2663/h/h206/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1070,7 +1070,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qO98.jpg" group-title="03. FILM",MY CINEMA ASIA
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qk8b.jpg" group-title="03. FILM",MY CINEMA EUROPE
-http://210.210.155.35/uq2663/h/h18/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1127,7 +1127,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XFsE.jpg" group-title="04. ANAK",ANIMAX
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165081
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XQWr.jpg" group-title="04. ANAK",ANIPLUS
-http://210.210.155.35/uq2663/h/h201/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XQWr.jpg" group-title="04. ANAK",ANIPLUS
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298504
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XS9W.jpg" group-title="04. ANAK",BABY TV
@@ -1589,7 +1589,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qNvl.jpg" group-title="06. HIBURAN",HITS
-http://210.210.155.35/uq2663/h/h205/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h205/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1622,7 +1622,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qo1j.jpg" group-title="06. HIBURAN",KIX
-http://210.210.155.35/uq2663/h/h220/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1739,7 +1739,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HypG.jpg" group-title="07. GAYA HIDUP",Dens LifeStyle
 http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o1lX.jpg" group-title="07. GAYA HIDUP",Dens Showbiz
-http://210.210.155.35/uq2663/h/h244/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1951,7 +1951,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/Channel
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HzDN.jpg" group-title="08. INTERNASIONAL",CHANNEL NEWS ASIA
-http://210.210.155.35/uq2663/h/h29/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2026,7 +2026,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h35/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62ofa.jpg" group-title="08. INTERNASIONAL",NHK World
-http://210.210.155.35/uq2663/h/h23/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
