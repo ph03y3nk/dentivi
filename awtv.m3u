@@ -381,9 +381,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg"group-title="01. NASIONAL",AN TV
-http://210.210.155.37/uq2663/h/h235/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HGj4.jpg"group-title="01. NASIONAL",BN Channel
-http://210.210.155.37/uq2663/h/h39/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -463,7 +463,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157590
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qGzG.jpg"group-title="01. NASIONAL",INDOSIAR
-http://210.210.155.37/uq2663/h/h207/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -580,7 +580,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624
 https://ythls.kekikakademi.org/youtube/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62cuF.jpg"group-title="01. NASIONAL",NET. TV
-http://210.210.155.37/uq2663/h/h223/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D628X4.jpg"group-title="01. NASIONAL",NUSANTARA TV
 https://v5.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D628X4.jpg"group-title="01. NASIONAL",NUSANTARA TV
@@ -618,7 +618,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62SLj.jpg"group-title="01. NASIONAL",RTV
-http://210.210.155.37/uq2663/h/h10/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -629,7 +629,7 @@ http://210.210.155.37/uq2663/h/h10/index.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62yp8.jpg"group-title="01. NASIONAL",SCTV
-http://210.210.155.37/uq2663/h/h217/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -780,7 +780,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Crim
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg"group-title="02. PENGETAHUAN",CRIME+ Investigation
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165052
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg"group-title="02. PENGETAHUAN",Dens Learning
-http://210.210.155.37/uq2663/h/h236/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
@@ -891,7 +891,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264801
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HPRX.jpg"group-title="03. FILM",CELESTIAL CLASSIC
-http://210.210.155.37/uq2663/h/h239/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -903,7 +903,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestia
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HYfh.jpg" group-title="03. FILM",CELESTIAL MOVIES
-http://210.210.155.37/uq2663/h/h212/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13" group-title="03. FILM",Chinese Drama
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
@@ -948,7 +948,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinem
 https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HAuj.jpg"group-title="03. FILM",CINEMA WORLD
-http://210.210.155.37/uq2663/h/h202/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg"group-title="03. FILM",CINEMAX (Cubmu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1059,7 +1059,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q033.jpg" group-title="03. FILM",MY CINEMA
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1068,7 +1068,7 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qO98.jpg" group-title="03. FILM",MY CINEMA ASIA
-http://210.210.155.37/uq2663/h/h193/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qk8b.jpg" group-title="03. FILM",MY CINEMA EUROPE
 http://210.210.155.35/uq2663/h/h18/index.m3u8
 
@@ -1079,7 +1079,7 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q3Mu.jpg" group-title="03. FILM",MY FAMILY CHANNEL
-http://210.210.155.37/uq2663/h/h194/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1088,7 +1088,7 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62gTW.jpg" group-title="03. FILM",ROCK ACTION
-http://210.210.155.37/uq2663/h/h218/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1097,7 +1097,7 @@ http://210.210.155.37/uq2663/h/h218/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A6h4.jpg" group-title="03. FILM",THRILL
-http://210.210.155.37/uq2663/h/h240/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h240/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1248,7 +1248,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. ANAK",MYKIDZ
-http://210.210.155.37/uq2663/h/h191/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. ANAK",MYKIDZ
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298556
 
@@ -1285,7 +1285,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fd/ff/c3/fdffc353-49a6-4f82-29a9-b940b0270aaa/source/256x256bb.jpg" group-title="04. ANAK",TAYO TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="04. ANAK",TOONMAX
-http://210.210.155.37/uq2663/h/h227/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h227/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1367,7 +1367,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. OLAHRAGA",FIGHTSPORTS
-http://210.210.155.37/uq2663/h/h204/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h204/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. OLAHRAGA",FIGHTSPORTS
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298531
 
@@ -1445,7 +1445,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298549
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qycX.jpg" group-title="05. OLAHRAGA",Motorvision TV
-http://210.210.155.37/uq2663/h/h242/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4f42r.jpg" group-title="05. OLAHRAGA",NBA-TV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298558
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4fU5W.jpg" group-title="05. OLAHRAGA",RedBull TV
@@ -1492,9 +1492,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lb1x.jpg" group-title="05. OLAHRAGA",TVRI Sport
-http://210.210.155.37/uq2663/h/h238/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LY1F.jpg" group-title="05. OLAHRAGA",W SPORTS
-http://210.210.155.37/uq2663/h/h26/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1613,7 +1613,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe0
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/just-fun-th.png" group-title="06. HIBURAN",Just for Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qVsL.jpg" group-title="06. HIBURAN",K+
-http://210.210.155.37/uq2663/h/h219/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1687,7 +1687,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff1
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D623Q1.jpg" group-title="06. HIBURAN",ROCK ENTERTAINMENT
-http://210.210.155.37/uq2663/h/h213/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1706,7 +1706,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6L1Zg.jpg" group-title="06. HIBURAN",TVE
-http://210.210.155.37/uq2663/h/h158/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h158/S4/mnf.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1735,9 +1735,9 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298503
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264747
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HjX2.jpg" group-title="07. GAYA HIDUP",Dens Food Channel
-http://210.210.155.37/uq2663/h/h221/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HypG.jpg" group-title="07. GAYA HIDUP",Dens LifeStyle
-http://210.210.155.37/uq2663/h/h222/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o1lX.jpg" group-title="07. GAYA HIDUP",Dens Showbiz
 http://210.210.155.35/uq2663/h/h244/index.m3u8
 
@@ -2015,9 +2015,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556faa7
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oLgX.jpg" group-title="08. INTERNASIONAL",FRANCE24
 http://210.210.155.35/x6bnqe/s/s22/index.m3u8
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503445_tvchannels_v1.jpg" group-title="08. INTERNASIONAL",FREEDOM RU
-http://210.210.155.37/uq2663/h/h101/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qFcw.jpg" group-title="08. INTERNASIONAL",Metro Globe Network
-http://210.210.155.37/uq2663/h/h35/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h35/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2037,7 +2037,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorl
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62WDg.jpg" group-title="08. INTERNASIONAL",Rai Italia
 http://210.210.155.35/qwr9ew/s/s63/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-internacional-pt.png" group-title="08. INTERNASIONAL",RTP
-http://210.210.155.37/uq2663/s/s38/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2054,7 +2054,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/saudi-tv-sa.png" group-title="08. INTERNASIONAL",Saudi TV
-http://210.210.155.37/uq2663/h/h151/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h151/S4/mnf.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2069,7 +2069,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Ae0h.jpg" group-title="08. INTERNASIONAL",TRT World
-http://210.210.155.37/uq2663/h/h156/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2097,7 +2097,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Lm84.jpg" group-title="08. INTERNASIONAL",WION
-http://210.210.155.37/uq2663/h/h91/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
 
 
 
@@ -2153,7 +2153,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D624Bh.jpg" group-title="09. RELIGI",MQTV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298551
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
-http://210.210.155.37/uq2663/h/h233/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
 
@@ -2259,7 +2259,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="10. MUSIK",Dens Music Live
-http://210.210.155.37/uq2663/h/h250/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="10. MUSIK",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
@@ -2272,7 +2272,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6256W.jpg" group-title="10. MUSIK",MUSIC TV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165108
 #EXTINF:-1 tvg-logo="" group-title="10. MUSIK",Stingray Classica
-http://210.210.155.37/uq2663/h/h229/S4/mnf.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
