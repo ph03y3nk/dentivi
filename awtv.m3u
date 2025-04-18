@@ -2568,9 +2568,6 @@ https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=
 https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="09. RELIGI",Syafiq Riza Basalamah Live
-#https://inv.nadeko.net/latest_version?id=IDOn6KHxTrc
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2620,7 +2617,7 @@ https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/ra
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
 #http://210.210.155.37/x6bnqe/s/s14/index.m3u8
 #https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
-#http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
