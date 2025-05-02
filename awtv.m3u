@@ -908,17 +908,17 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qdxk.jpg" group-title="01. NASIONAL",IDX Channel
 #https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-https://cempedak-cdn-fly.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd
+https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qdxk.jpg"group-title="01. NASIONAL",IDX Channel
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157590
+http://iptvtree.net:8080/F25093/29838750/157590
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -940,7 +940,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H1Io.jpg"group-title="01. NASIONAL",Investor Daily
@@ -960,7 +960,7 @@ https://av-ch-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qJ0E.jpg"group-title="01. NASIONAL",JAK TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157601
+http://iptvtree.net:8080/F25093/29838750/157601
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -995,7 +995,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg"group-title="01. NASIONAL",KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qB5l.jpg"group-title="01. NASIONAL",MENTARI TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298546
+http://iptvtree.net:8080/F25093/29838750/298546
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1029,7 +1029,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/02.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qZ82.jpg"group-title="01. NASIONAL",MNC TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165054
+http://iptvtree.net:8080/F25093/29838750/165054
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/DeaPkP.jpg"group-title="01. NASIONAL",MOJI TV
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/DeaPkP.jpg"group-title="01. NASIONAL",MOJI TV
@@ -1106,7 +1106,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A1l3.jpg"group-title="01. NASIONAL",SINDONEWS
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A1l3.jpg"group-title="01. NASIONAL",SINDONEWS
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/299485
+http://iptvtree.net:8080/F25093/29838750/299485
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1144,7 +1144,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg" group-title="01. NASIONAL",TV ONE
-#https://cempedak-cdn-fly.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 
@@ -1204,7 +1204,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg"group-title="02. PENGETAHUAN",ANIMAL PLANET
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157532
+http://iptvtree.net:8080/F25093/29838750/157532
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XB5h.jpg"group-title="02. PENGETAHUAN",ANIMAL PLANET
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
@@ -1215,7 +1215,7 @@ https://kusnadipepenk.github.io/ntn/animal.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Xycx.jpg"group-title="02. PENGETAHUAN",BBC Earth
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165106
+http://iptvtree.net:8080/F25093/29838750/165106
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1240,7 +1240,7 @@ http://210.210.155.37/x6bnqe/s/s20/index.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HpPu.jpg"group-title="02. PENGETAHUAN",CRIME+ Investigation
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165052
+http://iptvtree.net:8080/F25093/29838750/165052
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oIQh.jpg"group-title="02. PENGETAHUAN",Dens Learning
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
@@ -1250,7 +1250,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6owyg.jpg"group-title="02. PENGETAHUAN",DISCOVERY
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157597
+http://iptvtree.net:8080/F25093/29838750/157597
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA042ID.png"group-title="02. PENGETAHUAN",Discovery Investigation
 https://raw.githubusercontent.com/ph03y3nk/dentivi/main/channel/Discovery_Investigation.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oNPr.jpg"group-title="02. PENGETAHUAN",Discovery Science
@@ -1287,7 +1287,7 @@ https://av-ch-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6quhb.jpg"group-title="02. PENGETAHUAN",HISTORY
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/162519
+http://iptvtree.net:8080/F25093/29838750/162519
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qb1u.jpg"group-title="02. PENGETAHUAN",Horse & Country TV
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
@@ -1305,9 +1305,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716
 https://av-ch-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg"group-title="02. PENGETAHUAN",LOVE NATURE
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/197967
+http://iptvtree.net:8080/F25093/29838750/197967
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qAaS.jpg"group-title="02. PENGETAHUAN",LOVE NATURE
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264756
+http://iptvtree.net:8080/F25093/29838750/264756
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62DAo.jpg"group-title="02. PENGETAHUAN",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -1318,7 +1318,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png"group-title="02. PENGETAHUAN",OUTDOOR
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165094
+http://iptvtree.net:8080/F25093/29838750/165094
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62Zyo.jpg"group-title="02. PENGETAHUAN",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ARGk.jpg"group-title="02. PENGETAHUAN",Smithsonian
@@ -1342,7 +1342,7 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6Hu2S.jpg"group-title="03. FILM",BIOSKOP INDONESIA
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264801
+http://iptvtree.net:8080/F25093/29838750/264801
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1369,7 +1369,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13" group-title="03. FILM",Chinese Drama
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298516
+http://iptvtree.net:8080/F25093/29838750/298516
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1427,13 +1427,13 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HOLC.jpg"group-title="03. FILM",CINEMAX
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/197964
+http://iptvtree.net:8080/F25093/29838750/197964
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HWD8.jpg"group-title="03. FILM",CITRA BIOSKOP
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298519
+http://iptvtree.net:8080/F25093/29838750/298519
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HgTl.jpg"group-title="03. FILM",CITRA DRAMA
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264748
+http://iptvtree.net:8080/F25093/29838750/264748
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ozku.jpg"group-title="03. FILM",FLIK
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165095
+http://iptvtree.net:8080/F25093/29838750/165095
 
 #EXTINF:0 tvg-logo="https://imgpile.com/images/D6o0YE.jpg" group-title="03. FILM",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1448,7 +1448,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o0YE.jpg"group-title="03. FILM",GALAXY
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264773
+http://iptvtree.net:8080/F25093/29838750/264773
 
 #EXTINF:0 tvg-logo="https://imgpile.com/images/D6oWkr.jpg" group-title="03. FILM",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1463,7 +1463,7 @@ https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-
 https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oWkr.jpg"group-title="03. FILM",GALAXY PREMIUM
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264774
+http://iptvtree.net:8080/F25093/29838750/264774
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oaix.jpg"group-title="03. FILM",HBO TRANSVISION
@@ -1544,7 +1544,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qhqM.jpg" group-title="03. FILM",IMC
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264769
+http://iptvtree.net:8080/F25093/29838750/264769
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4cjIh.jpg" group-title="03. FILM",MOVIE SPHERE
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
@@ -1627,19 +1627,19 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c
 https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XFsE.jpg" group-title="04. ANAK",ANIMAX
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165081
+http://iptvtree.net:8080/F25093/29838750/165081
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XQWr.jpg" group-title="04. ANAK",ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XQWr.jpg" group-title="04. ANAK",ANIPLUS
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298504
+http://iptvtree.net:8080/F25093/29838750/298504
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XS9W.jpg" group-title="04. ANAK",BABY TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157605
+http://iptvtree.net:8080/F25093/29838750/157605
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="04. ANAK",Boomerang
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/171955
+http://iptvtree.net:8080/F25093/29838750/171955
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. ANAK",Cartoon Network
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157593
+http://iptvtree.net:8080/F25093/29838750/157593
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HxC2.jpg" group-title="04. ANAK",Cartoon Network
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298507
+http://iptvtree.net:8080/F25093/29838750/298507
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1669,13 +1669,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b
 https://av-ch-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HM6a.jpg" group-title="04. ANAK",CBEEBIES
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/247448
+http://iptvtree.net:8080/F25093/29838750/247448
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4cyKE.jpg" group-title="04. ANAK",Disney Channel
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165075
+http://iptvtree.net:8080/F25093/29838750/165075
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4cZsa.jpg" group-title="04. ANAK",Disney Jr.
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/162511
+http://iptvtree.net:8080/F25093/29838750/162511
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/270px-Disney_XD_-_2015.svg.png" group-title="04. ANAK",Disney XD
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/276564
+http://iptvtree.net:8080/F25093/29838750/276564
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1692,7 +1692,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d456
 https://av-ch-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6o9m1.jpg" group-title="04. ANAK",Dreamworks
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157610
+http://iptvtree.net:8080/F25093/29838750/157610
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1703,11 +1703,11 @@ https://av-ch-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oCQL.jpg" group-title="04. ANAK",Dunia Anak
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264753
+http://iptvtree.net:8080/F25093/29838750/264753
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="04. ANAK",Gulli Bil Arabi+
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qwww.jpg" group-title="04. ANAK",Hip Hip Horee
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298536
+http://iptvtree.net:8080/F25093/29838750/298536
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1716,9 +1716,9 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q5iF.jpg" group-title="04. ANAK",HOREE!
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264750
+http://iptvtree.net:8080/F25093/29838750/264750
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qDh2.jpg" group-title="04. ANAK",Indi Kids
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298539
+http://iptvtree.net:8080/F25093/29838750/298539
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1727,7 +1727,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6ql9N.jpg" group-title="04. ANAK",KIDS TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/162505
+http://iptvtree.net:8080/F25093/29838750/162505
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
@@ -1747,7 +1747,7 @@ https://av-ch-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. ANAK",MYKIDZ
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qSC4.jpg" group-title="04. ANAK",MYKIDZ
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298556
+http://iptvtree.net:8080/F25093/29838750/298556
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1756,9 +1756,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. ANAK",NICK Jr.
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165107
+http://iptvtree.net:8080/F25093/29838750/165107
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62lLu.jpg" group-title="04. ANAK",NICK Jr.
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298561
+http://iptvtree.net:8080/F25093/29838750/298561
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1767,7 +1767,7 @@ https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62mjk.jpg" group-title="04. ANAK",NICKELODEON
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/162510
+http://iptvtree.net:8080/F25093/29838750/162510
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1790,7 +1790,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h227/index.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LVsa.jpg" group-title="04. ANAK",ZooMoo
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264751
+http://iptvtree.net:8080/F25093/29838750/264751
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LVsa.jpg" group-title="04. ANAK",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
@@ -1812,31 +1812,31 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg-id="beINSports" group-title="05. OLAHRAGA" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+https://av-ch-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg-id="beINSports2" group-title="05. OLAHRAGA" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+https://av-ch-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg-id="beINSports3" group-title="05. OLAHRAGA" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+https://av-ch-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg-id="beINSports4" group-title="05. OLAHRAGA" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+https://av-ch-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg-id="beINSports5" group-title="05. OLAHRAGA" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+https://av-ch-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/billiards_tv_kr.png" group-title="05. OLAHRAGA",BILLIARD TV
@@ -1863,7 +1863,7 @@ https://av-ch-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. OLAHRAGA",FIGHTSPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h204/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6orYi.jpg" group-title="05. OLAHRAGA",FIGHTSPORTS
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298531
+http://iptvtree.net:8080/F25093/29838750/298531
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1907,7 +1907,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0
 https://av-ch-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AmU1.jpg" group-title="05. OLAHRAGA",Sportstars 1 HD
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157589
+http://iptvtree.net:8080/F25093/29838750/157589
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1916,7 +1916,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AcmW.jpg" group-title="05. OLAHRAGA",Sportstars 2 HD
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298548
+http://iptvtree.net:8080/F25093/29838750/298548
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1925,7 +1925,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AXto.jpg" group-title="05. OLAHRAGA",Sportstars 3 HD
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298549
+http://iptvtree.net:8080/F25093/29838750/298549
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1936,7 +1936,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qycX.jpg" group-title="05. OLAHRAGA",Motorvision TV
 http://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4f42r.jpg" group-title="05. OLAHRAGA",NBA-TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298558
+http://iptvtree.net:8080/F25093/29838750/298558
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/G4fU5W.jpg" group-title="05. OLAHRAGA",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -1953,7 +1953,7 @@ https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchanne
 https://av-ch-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AV4j.jpg" group-title="05. OLAHRAGA",SPOTV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298570
+http://iptvtree.net:8080/F25093/29838750/298570
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1962,7 +1962,7 @@ https://av-ch-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A2d8.jpg" group-title="05. OLAHRAGA",SPOTV 2
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298571
+http://iptvtree.net:8080/F25093/29838750/298571
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2004,7 +2004,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a43
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XEeN.jpg" group-title="06. HIBURAN",AXN
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165079
+http://iptvtree.net:8080/F25093/29838750/165079
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2013,9 +2013,9 @@ https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://av-ch-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celebrities-tv-id.png" group-title="06. HIBURAN",Celebrities TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298541
+http://iptvtree.net:8080/F25093/29838750/298541
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HBXb.jpg" group-title="06. HIBURAN",CITRA ENTERTAINMENT
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298520
+http://iptvtree.net:8080/F25093/29838750/298520
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2036,7 +2036,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oxOo.jpg" group-title="06. HIBURAN",Dunia Lain
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298524
+http://iptvtree.net:8080/F25093/29838750/298524
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2045,7 +2045,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9f
 https://av-ch-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oV4k.jpg" group-title="06. HIBURAN",FMN
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165057
+http://iptvtree.net:8080/F25093/29838750/165057
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2055,7 +2055,7 @@ https://av-ch-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oQtg.jpg" group-title="06. HIBURAN",GEM
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298533
+http://iptvtree.net:8080/F25093/29838750/298533
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2081,7 +2081,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h205/index.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qKwX.jpg" group-title="06. HIBURAN",Insert
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264766
+http://iptvtree.net:8080/F25093/29838750/264766
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2111,7 +2111,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qQWF.jpg" group-title="06. HIBURAN",LIFETIME
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298543
+http://iptvtree.net:8080/F25093/29838750/298543
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2120,7 +2120,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oYSb.jpg" group-title="06. HIBURAN",MNC ENTERTAINMENT
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157581
+http://iptvtree.net:8080/F25093/29838750/157581
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2136,7 +2136,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc46
 https://av-ch-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62VE2.jpg" group-title="06. HIBURAN",OK TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/221956
+http://iptvtree.net:8080/F25093/29838750/221956
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2206,9 +2206,9 @@ https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XO9G.jpg" group-title="07. GAYA HIDUP",AFN
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298503
+http://iptvtree.net:8080/F25093/29838750/298503
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="07. GAYA HIDUP",BBC Lifestyle
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264747
+http://iptvtree.net:8080/F25093/29838750/264747
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HjX2.jpg" group-title="07. GAYA HIDUP",Dens Food Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
@@ -2225,7 +2225,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6oPH8.jpg" group-title="07. GAYA HIDUP",Eat N Go
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264765
+http://iptvtree.net:8080/F25093/29838750/264765
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2235,10 +2235,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d017034201
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6q1Z8.jpg" group-title="07. GAYA HIDUP",HGTV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/298535
+http://iptvtree.net:8080/F25093/29838750/298535
 
 #EXTINF:-1 tvg-logo="" group-title="07. GAYA HIDUP",LifeStyle & Fashion
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157592
+http://iptvtree.net:8080/F25093/29838750/157592
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2352,7 +2352,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X3Kg.jpg" group-title="08. INTERNASIONAL",ARIRANG KOREA
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/247447
+http://iptvtree.net:8080/F25093/29838750/247447
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2367,7 +2367,7 @@ https://av-ch-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 https://av-ch-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6H56l.jpg" group-title="08. INTERNASIONAL",BLOOMBERG TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/157599
+http://iptvtree.net:8080/F25093/29838750/157599
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-news-us.png" group-title="08. INTERNASIONAL",CBS NEWS
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
@@ -2420,7 +2420,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HeG4.jpg" group-title="08. INTERNASIONAL",CNN Int'l
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/264778
+http://iptvtree.net:8080/F25093/29838750/264778
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dubai-tv-ae.png" group-title="08. INTERNASIONAL",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
@@ -2689,7 +2689,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be
 
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6HkjS.jpg" group-title="10. MUSIK",CITRA DANGDUT
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/247446
+http://iptvtree.net:8080/F25093/29838750/247446
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2736,7 +2736,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6256W.jpg" group-title="10. MUSIK",MUSIC TV
-#http://iptvtree.net/resplice/wdLIS4d9758INyuX/165108
+http://iptvtree.net:8080/F25093/29838750/165108
 #EXTINF:-1 tvg-logo="" group-title="10. MUSIK",Stingray Classica
 http://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 
