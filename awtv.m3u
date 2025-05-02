@@ -2615,7 +2615,8 @@ https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/ra
 https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
