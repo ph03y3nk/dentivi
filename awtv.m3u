@@ -2585,7 +2585,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
 #http://210.210.155.37/x6bnqe/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
-#http://210.210.155.37/x6bnqe/s/s28/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
@@ -2593,7 +2593,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #http://210.210.155.35/x6bnqe/s/s27/01.m3u8
 #http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
-#http://210.210.155.35/x6bnqe/s/s27/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
@@ -2615,11 +2615,13 @@ https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/ra
 https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
-#http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
