@@ -2659,7 +2659,7 @@ https://cdngb196.indihometv.com/atm/DASH/alquran/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
 #http://210.210.155.37/x6bnqe/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
@@ -2667,7 +2667,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 http://supersonictv.live:8080/006779/439866/84190
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
-http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+#http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
@@ -2689,7 +2689,7 @@ https://rodjatv.com/rodjatv/live.m3u8
 https://cdngb196.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D62vlP.jpg" group-title="09. RELIGI",RODJA TV
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tawaf-tv-id.png" group-title="09. RELIGI",TAWAF TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
