@@ -2826,6 +2826,7 @@ https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1  tvg-logo="https://imgpile.com/images/D6X03X.jpg" group-title="09. RELIGI",Al Quranul Kareem
 #https://av-ch-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+http://supersonictv.live:8080/006779/439866/84192
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2846,6 +2847,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
 #http://210.210.155.35/x6bnqe/s/s27/01.m3u8
 #http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+http://supersonictv.live:8080/006779/439866/84190
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6X62c.jpg" group-title="09. RELIGI",AsSunnah AnNabawiyah
