@@ -229,31 +229,31 @@ https://cdngb196.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 //========================================================================
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png"group-title="VISION+",ABC Australia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/250px-ABC_Australia_logo.svg.png"group-title="VISION+",ABC Australia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JhksBZG.png"group-title="VISION+",AL JAZEERA
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/037/50037-SNAPSHOT-l.png"group-title="VISION+",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JhksBZG.png"group-title="VISION+",AL JAZEERA
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/037/50037-SNAPSHOT-l.png"group-title="VISION+",AL JAZEERA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1"group-title="VISION+",AL JAZEERA Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png"group-title="VISION+",AL QURAN AL KARIM
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-l.png"group-title="VISION+",AL QURAN AL KARIM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png"group-title="VISION+",AN TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png"group-title="VISION+",AN TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/ANTV/sa_dash/ANTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png"group-title="VISION+",Anhui TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/011/50011-SNAPSHOT-l.png"group-title="VISION+",Anhui TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/640px-Animax.svg.png"group-title="VISION+",ANIMAX
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/991/49991-SNAPSHOT-l.png"group-title="VISION+",ANIMAX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Animax/sa_dash/Animax.mpd
@@ -261,27 +261,31 @@ https://legacy-global-cdn.visionplus.id/live/eds/Animax/sa_dash/Animax.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Arirang/sa_dash/Arirang.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png"group-title="VISION+",AXN
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png"group-title="VISION+",AXN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/AXN/sa_dash/AXN.mpd
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png"group-title="VISION+",BBC Earth
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png"group-title="VISION+",BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png"group-title="VISION+",BBC World News
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/033/50033-SNAPSHOT-l.png"group-title="VISION+",BBC World News
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bb44vog.png"group-title="VISION+",BLOOMBERG
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png"group-title="VISION+",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png"group-title="VISION+",BUDDY STAR
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/395/273395-SNAPSHOT-l.png"group-title="VISION+",BTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://legacy-global-cdn.visionplus.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/404/273404-SNAPSHOT-l.png" group-title="VISION+",BUDDY STAR
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43JFpOk.png"group-title="VISION+",CBeebies
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/995/49995-SNAPSHOT-l.png"group-title="VISION+",CBeebies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/ie.png"group-title="VISION+",Celebrities TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/825/49825-SNAPSHOT-l.png"group-title="VISION+",Celebrities TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
@@ -289,21 +293,21 @@ https://legacy-global-cdn.visionplus.id/live/eds/MNCInfotainment/sa_dash/MNCInfo
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png"group-title="VISION+",Celestial Movies
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/982/49982-SNAPSHOT-l.png"group-title="VISION+",Celestial Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/640px-CGTN.svg.png"group-title="VISION+",CGTN
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/046/50046-SNAPSHOT-l.png"group-title="VISION+",CGTN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/CGTN/sa_dash/CGTN.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640"group-title="VISION+",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/025/50025-SNAPSHOT-l.png"group-title="VISION+",CGTN Documentary
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/Jhksx6l.png"group-title="VISION+",Channel News Asia
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/039/50039-SNAPSHOT-l.png"group-title="VISION+",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineedge-uk.png "group-title="VISION+",CINEEDGE
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/403/273403-SNAPSHOT-l.png"group-title="VISION+",CINEEDGE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
@@ -311,19 +315,19 @@ https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Action/sa_dash/Cinema
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/CNBC/sa_dash/CNBC.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j5MyKCl.png"group-title="VISION+",Crime + Investigation
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png"group-title="VISION+",Crime + Investigation
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JmoBktR.png"group-title="VISION+",Dreamworks
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/012/50012-SNAPSHOT-l.png"group-title="VISION+",Dreamworks
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHzzwjVF/1680770669448.png"group-title="VISION+",DW TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/034/50034-SNAPSHOT-l.png"group-title="VISION+",DW TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/DW/sa_dash/DW.mpd
-#EXTINF:-1 tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059585_logo_ent.png"group-title="VISION+",ent!
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/998/49998-SNAPSHOT-l.png"group-title="VISION+",ent!
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
@@ -335,7 +339,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/EuroNews/sa_dash/EuroNews.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/FoxNews/sa_dash/FoxNews.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"group-title="VISION+",FRANCE 24
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/035/50035-SNAPSHOT-l.png"group-title="VISION+",FRANCE 24
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/France24/sa_dash/France24.mpd
@@ -347,27 +351,27 @@ https://legacy-global-cdn.visionplus.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JmoCrWQ.png"group-title="VISION+",Global Trekker
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png"group-title="VISION+",Global Trekker
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/gtv.png"group-title="VISION+",GTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png"group-title="VISION+",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png"group-title="VISION+",HITS
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png"group-title="VISION+",HITS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/HITS/sa_dash/HITS.mpd
-#EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png"group-title="VISION+",HITS Movies
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/981/49981-SNAPSHOT-l.png"group-title="VISION+",HITS Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Hunan_TV.svg/revision/latest/scale-to-width-down/640"group-title="VISION+",Hunan TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/017/50017-SNAPSHOT-l.png"group-title="VISION+",Hunan TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/HunanTV/sa_dash/HunanTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png"group-title="VISION+",IDX Channel
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/210/350210-SNAPSHOT-l.png"group-title="VISION+",IDX Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/IDX/sa_dash/IDX.mpd
@@ -375,23 +379,23 @@ https://legacy-global-cdn.visionplus.id/live/eds/IDX/sa_dash/IDX.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/inews.png"group-title="VISION+",iNEWS
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png"group-title="VISION+",iNEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/640px-Jiangsu_Broadcasting_Corporation.svg.png"group-title="VISION+",Jiangsu TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/019/50019-SNAPSHOT-l.png"group-title="VISION+",Jiangsu TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png"group-title="VISION+",Kids TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-l.png"group-title="VISION+",Kids TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/KidsChannel/sa_dash/KidsChannel.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png"group-title="VISION+",KIX
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png"group-title="VISION+",KIX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/KIX/sa_dash/KIX.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png"group-title="VISION+",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png"group-title="VISION+",KOMPAS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
@@ -399,51 +403,47 @@ https://legacy-global-cdn.visionplus.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/lifetime.png"group-title="VISION+",Lifetime
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/004/50004-SNAPSHOT-l.png"group-title="VISION+",Lifetime
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Lifetime/sa_dash/Lifetime.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JmoCsg1.png"group-title="VISION+",Love Nature Asia
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/743/295743-SNAPSHOT-l.png"group-title="VISION+",Love Nature Asia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/lovenature/sa_dash/lovenature.mpd
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/MetroTV.id.png"group-title="VISION+",METRO TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/029/50029-SNAPSHOT-l.png"group-title="VISION+",METRO TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png"group-title="VISION+",MNC TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png"group-title="VISION+",MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png"group-title="VISION+",MNC TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://legacy-global-cdn.visionplus.id/live/eds/Bloomberg/sa_dash/Bloomberg.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"group-title="VISION+",MoonBug
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/228/176228-SNAPSHOT-l.png"group-title="VISION+",MoonBug
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JZIQ7Np.png"group-title="VISION+",MTV 90s
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png"group-title="VISION+",MTV 90s
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Wwa8KO.png"group-title="VISION+",MTV Live
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png"group-title="VISION+",MTV Live
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MTV/sa_dash/MTV.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musictv.png"group-title="VISION+",Music TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/947/49947-SNAPSHOT-l.png"group-title="VISION+",Music TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/muslimtv.png"group-title="VISION+",Muslim TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/941/49941-SNAPSHOT-l.png"group-title="VISION+",Muslim TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg"group-title="VISION+",NET. MDTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/598/320598-SNAPSHOT-l.png"group-title="VISION+",NET. MDTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png"group-title="VISION+",NHK World Japan
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/020/50020-SNAPSHOT-l.png"group-title="VISION+",NHK World Japan
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd
@@ -451,11 +451,11 @@ https://legacy-global-cdn.visionplus.id/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png"group-title="VISION+",NICK Jr.
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png"group-title="VISION+",NICK Jr.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png"group-title="VISION+",NICKELODEON
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png"group-title="VISION+",NICKELODEON
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
@@ -463,55 +463,55 @@ https://legacy-global-cdn.visionplus.id/live/eds/Nickelodeon/sa_dash/Nickelodeon
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png"group-title="VISION+",ONE
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/000/50000-SNAPSHOT-l.png"group-title="VISION+",ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/SetOne/sa_dash/SetOne.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/originals-real-and-alive-uk.png"group-title="VISION+",ORIGINALS
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/398/273398-SNAPSHOT-l.png"group-title="VISION+",ORIGINALS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JmoCZ5g.png"group-title="VISION+",Outdoor Channel
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png"group-title="VISION+",Outdoor Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rcti.png"group-title="VISION+",RCTI
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png"group-title="VISION+",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JZIC3x9.png"group-title="VISION+",ROCK Action
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/993/49993-SNAPSHOT-l.png"group-title="VISION+",ROCK Action
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JZICKiu.png"group-title="VISION+",ROCK Entertainment
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/007/50007-SNAPSHOT-l.png"group-title="VISION+",ROCK Entertainment
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png"group-title="VISION+",RTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png"group-title="VISION+",RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/RTV/sa_dash/RTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/640px-Russia-Today-Logo.svg.png"group-title="VISION+",Russia Today
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/038/50038-SNAPSHOT-l.png"group-title="VISION+",Russia Today
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JV3xLAl.png"group-title="VISION+",SEA Today
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-l.png"group-title="VISION+",SEA Today
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest"group-title="VISION+",Shanghai Dragon TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/015/50015-SNAPSHOT-l.png"group-title="VISION+",Shanghai Dragon TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/20211213_224146.png/revision/latest"group-title="VISION+",SINDO News
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png"group-title="VISION+",SINDO News
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png"group-title="VISION+",SUPERRIX
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/402/273402-SNAPSHOT-l.png"group-title="VISION+",SUPERRIX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tawaftv.png"group-title="VISION+",TAWAF TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/939/49939-SNAPSHOT-l.png"group-title="VISION+",TAWAF TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/TawafTV/sa_dash/TawafTV.mpd
@@ -519,43 +519,43 @@ https://legacy-global-cdn.visionplus.id/live/eds/TawafTV/sa_dash/TawafTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Thrill/sa_dash/Thrill.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png"group-title="VISION+",TRANS 7
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/956/49956-SNAPSHOT-l.png"group-title="VISION+",TRANS 7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png"group-title="VISION+",TRANS TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/958/49958-SNAPSHOT-l.png"group-title="VISION+",TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png"group-title="VISION+",TRT World
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/036/50036-SNAPSHOT-l.png"group-title="VISION+",TRT World
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png"group-title="VISION+",TV ONE
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/027/50027-SNAPSHOT-l.png"group-title="VISION+",TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1"group-title="VISION+",TV9 Nusantara
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/932/49932-SNAPSHOT-l.png"group-title="VISION+",TV9 Nusantara
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/TV9/sa_dash/TV9.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"group-title="VISION+",tvN
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/999/49999-SNAPSHOT-l.png"group-title="VISION+",tvN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/tvN/sa_dash/tvN.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png"group-title="VISION+",tvN Movies
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/985/49985-SNAPSHOT-l.png"group-title="VISION+",tvN Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/uniques-uk.png"group-title="VISION+",UNIQUES
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/401/273401-SNAPSHOT-l.png"group-title="VISION+",UNIQUES
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png"group-title="VISION+",Vision Prime
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png"group-title="VISION+",Vision Prime
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
-#EXTINF:-1 tvg-logo="https://media.slid.es/uploads/jeonwoochi/images/789230/xingkong.png"group-title="VISION+",Xing Kong TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/013/50013-SNAPSHOT-l.png"group-title="VISION+",Xing Kong TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd
@@ -563,18 +563,15 @@ https://legacy-global-cdn.visionplus.id/live/eds/XingKongTVnow/sa_dash/XingKongT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JmoBV6P.png"group-title="VISION+",Zoomoo
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/006/50006-SNAPSHOT-l.png"group-title="VISION+",Zoomoo
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png"group-title="VISION+",TVRI
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png"group-title="VISION+",TVRI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png"group-title="VISION+",NET. MDTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
 
 
 
