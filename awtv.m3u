@@ -47,13 +47,13 @@ https://www.googleapis.com/drive/v3/files/1Ky77S-bp8zT6Lx0wmn0RiKVoAxGwQG6A?alt=
 #EXTINF:-1 group-title="JADOEL" tvg-logo="https://assets.goal.com/images/v3/bltede5b7fda417bd0d/Jadwal%20TV%20(1).jpg",BOLA (RCTI)
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://1s1.rctiplus.id/rcti2023-avc1_3500000=8-mp4a_128000_eng=2.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/138.0
 https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com/
 
 
 #EXTINF:-1 group-title="JADOEL" tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/05/996x664/affu23-scm-logo-h_0b4c8a8.jpg",U-23 (SCTV) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
-https://raw.githubusercontent.com/ph03y3nk/dentivi/refs/heads/main/channel/sctv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/138.0
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 ======================AL QURAN==========================
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmCKC.png" group-title="AL QUR'AN",Juz 01
