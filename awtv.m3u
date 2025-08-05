@@ -3333,94 +3333,136 @@ http://j.mp/2bFREcc
 //Collected by ph03y3nk menampilkan playlist >>> INDIHOME
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/znfPqNV.png"group-title="INDIHOME",ABC Australia
-https://cdngb196.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JhksBZG.png"group-title="INDIHOME",AL JAZEERA
-https://cdngb196.indihometv.com/atm/DASH/aljazeera/manifest.mpd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png"group-title="INDIHOME",AL QURAN AL KARIM
-https://cdngb196.indihometv.com/atm/DASH/alquran/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png"group-title="INDIHOME",AN TV
-https://cdngb196.indihometv.com/atm/DASH/ANTV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png"group-title="INDIHOME",ANTARA
-https://cdngb196.indihometv.com/atm/DASH/antara/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png"group-title="INDIHOME",ARIRANG
-https://cdngb196.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWAQfAf.png"group-title="INDIHOME",AXN
-https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png"group-title="INDIHOME",BTV
-https://cdngb196.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png"group-title="INDIHOME",CARTOONITO
-https://cdngb196.indihometv.com/atm/DASH/boomerang/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/Jhksx6l.png"group-title="INDIHOME",Channel News Asia
-https://cdngb196.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png"group-title="INDIHOME",DW TV
-https://cdngb196.indihometv.com/atm/DASH/DWTV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"group-title="INDIHOME",FRANCE 24
-https://cdngb196.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png"group-title="INDIHOME",FUN PLANET
-https://cdngb196.indihometv.com/atm/DASH/indikids/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png"group-title="INDIHOME",INDOSIAR
-https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/inews.png"group-title="INDIHOME",iNEWS
-https://cdngb196.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png"group-title="INDIHOME",JAK TV
-https://cdngb196.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png"group-title="INDIHOME",JAWAPOS TV
-https://cdngb196.indihometv.com/atm/DASH/jawapos/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png"group-title="INDIHOME",K+
-https://cdngb196.indihometv.com/atm/DASH/kplus/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png"group-title="INDIHOME",KIX
-https://cdngb196.indihometv.com/atm/DASH/kix/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png"group-title="INDIHOME",KOMPAS TV
-https://cdngb196.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/MetroTV.id.png"group-title="INDIHOME",METRO TV
-https://cdngb196.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png"group-title="INDIHOME",MKIDZ
-https://cdngb196.indihometv.com/atm/DASH/mykids/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_MQTV_2025_03_17_14_59_27.png"group-title="INDIHOME",MQTV
-https://cdngb196.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_TVMU_2025_03_17_15_03_28.png"group-title="INDIHOME",MUHAMMADIYAH TV
-https://cdngb196.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_TVMUI_2025_03_17_15_00_12.png"group-title="INDIHOME",MUI TV
-https://cdngb196.indihometv.com/atm/DASH/muitv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png"group-title="INDIHOME",NICKELODEON
-https://cdngb196.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png"group-title="INDIHOME",NUSANTARA TV
-https://cdngb196.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_PRAMBORS_2025_03_17_15_05_27.png"group-title="INDIHOME",PRAMBORS TV
-https://cdngb196.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JZIC3x9.png"group-title="INDIHOME",ROCK Action
-https://cdngb196.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JZICKiu.png"group-title="INDIHOME",ROCK Entertainment
-https://cdngb196.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png"group-title="INDIHOME",RODJA TV
-https://cdngb196.indihometv.com/atm/DASH/rodjatv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png"group-title="INDIHOME",RTV
-https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png"group-title="INDIHOME",SCTV
-https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JV3xLAl.png"group-title="INDIHOME",SEA Today
-https://cdngb196.indihometv.com/atm/DASH/seatoday/manifest.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/20211213_224146.png/revision/latest"group-title="INDIHOME",SINDO News
-https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tawaftv.png"group-title="INDIHOME",TAWAF TV
-https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png"group-title="INDIHOME",THRILL
-https://cdngb196.indihometv.com/atm/DASH/thrill/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png"group-title="INDIHOME",TRANS 7
-https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png"group-title="INDIHOME",TRANS TV
-https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png"group-title="INDIHOME",TV ONE
-https://cdngb196.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1"group-title="INDIHOME",TV9 Nusantara
-https://cdngb196.indihometv.com/atm/DASH/tv9/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png"group-title="INDIHOME",TVRI
-https://cdngb196.indihometv.com/atm/DASH/TVRI/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png"group-title="INDIHOME",WARNER TV
-https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png"group-title="INDIHOME",ZEE Bioskop
-https://cdngb196.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="INDIHOME",ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/JhksBZG.png" group-title="INDIHOME",AL JAZEERA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png" group-title="INDIHOME",AL QURAN AL KARIM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="INDIHOME",AN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png" group-title="INDIHOME",ANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="INDIHOME",ARIRANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="INDIHOME",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png" group-title="INDIHOME",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png" group-title="INDIHOME",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/Jhksx6l.png" group-title="INDIHOME",Channel News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png" group-title="INDIHOME",DW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="INDIHOME",FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png" group-title="INDIHOME",FUN PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png" group-title="INDIHOME",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="INDIHOME",iNEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png" group-title="INDIHOME",JAK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png" group-title="INDIHOME",JAWAPOS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png" group-title="INDIHOME",K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="INDIHOME",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="INDIHOME",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://static.epg.best/id/MetroTV.id.png" group-title="INDIHOME",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png" group-title="INDIHOME",MKIDZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_MQTV_2025_03_17_14_59_27.png" group-title="INDIHOME",MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVMU_2025_03_17_15_03_28.png" group-title="INDIHOME",MUHAMMADIYAH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVMUI_2025_03_17_15_00_12.png" group-title="INDIHOME",MUI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png" group-title="INDIHOME",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png" group-title="INDIHOME",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_PRAMBORS_2025_03_17_15_05_27.png" group-title="INDIHOME",PRAMBORS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/JZIC3x9.png" group-title="INDIHOME",ROCK Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iili.io/JZICKiu.png" group-title="INDIHOME",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" group-title="INDIHOME",RODJA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDIHOME",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png" group-title="INDIHOME",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/20211213_224146.png/revision/latest" group-title="INDIHOME",SINDO News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/tawaftv.png" group-title="INDIHOME",TAWAF TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Y282owj.png" group-title="INDIHOME",THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDIHOME",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="INDIHOME",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="INDIHOME",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1" group-title="INDIHOME",TV9 Nusantara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png" group-title="INDIHOME",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png" group-title="INDIHOME",WARNER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="INDIHOME",ZEE Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv;  SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36  IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+
 
 
 
@@ -18804,4 +18846,5 @@ https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap
 https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
 #EXTINF:-1  tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg" group-title="35. VOD ANIMASI",Wreck-It Ralph (2012)
 https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
+
 
