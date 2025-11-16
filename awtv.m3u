@@ -4916,7 +4916,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NASIONAL",AN TV
-https://cdngb196.indihometv.com/atm/DASH/ANTV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6XvIR.jpg" group-title="01. NASIONAL",AN TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -5043,7 +5043,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/JTV/sa_dash/JTV.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qY1r.jpg"group-title="01. NASIONAL",JTV
-https://cdngb196.indihometv.com/atm/DASH/JTV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/JTV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NASIONAL",KOMPAS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -5051,7 +5051,7 @@ https://cdngb196.indihometv.com/atm/DASH/JTV/manifest.mpd
 https://legacy-global-cdn.visionplus.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6qr3P.jpg" group-title="01. NASIONAL",KOMPAS TV
-https://cdngb196.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -5069,7 +5069,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
-https://cdngb196.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5173,7 +5173,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://legacy-global-cdn.visionplus.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A1l3.jpg"group-title="01. NASIONAL",SINDONEWS
-https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6A1l3.jpg"group-title="01. NASIONAL",SINDONEWS
 #http://iptvtree.net:8080/F25093/29838750/299485
 
@@ -5190,7 +5190,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AZUa.jpg"group-title="01. NASIONAL",TRANS 7
-https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg" group-title="01. NASIONAL",TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -5205,13 +5205,13 @@ https://legacy-global-cdn.visionplus.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6AaiX.jpg"group-title="01. NASIONAL",TRANS TV
-https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/D6LR0L.jpg" group-title="01. NASIONAL",TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://legacy-global-cdn.visionplus.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
-https://cdngb196.indihometv.com/atm/DASH/tvone/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
