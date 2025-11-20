@@ -6880,7 +6880,7 @@ https://cdn4.turboviplay.com/data1/6790b7903b82a/6790b7903b82a720.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> MOVIES VOD 2024
+// playlist >>> MOVIES VOD 2024
 //========================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -15034,88 +15034,6 @@ https://sxic.monkberga.sbs/v4/xq/5dney/cf-master.txt?v=1737323565|referer=https:
 
 
 ##############################################=============================================############################################################
-
-
-
-###################### RADIO ######################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vs1emEN.png" group-title="11. RADIO",Elshinta
-https://stream-ssl.arenastreaming.com:8000/jakarta
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCQdUKT.png" group-title="11. RADIO",Gajahmada FM
-https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tE876xm.png" group-title="11. RADIO",Gen FM Jakarta
-http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w1065844643.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tf74Qwp.png" group-title="11. RADIO",Gen FM Surabaya
-http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOu3NN8.png" group-title="11. RADIO",Global Radio Bandung
-http://stream.radbdg.net:8000/globalradiobandung.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiZKbEr.png" group-title="11. RADIO",Global Radio Jakarta
-http://202.147.199.98:80/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="11. RADIO",Hard Rock FM Bandung
-http://stream.radiojar.com/fnex9bkswk8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="11. RADIO",Hard Rock FM Bali
-http://stream.radiojar.com/9k28wsbu5k8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m36t8OF.png" group-title="11. RADIO",Hard Rock FM Jakarta
-http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="11. RADIO",Hard Rock FM Surabaya
-http://stream.radiojar.com/yg8ne2v80k8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KRAaxKW.png" group-title="11. RADIO",iRadio Bandung
-http://stream.radiojar.com/u6ppe6hswk8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVwvls8.png" group-title="11. RADIO",iRadio Jakarta
-https://stream.radiojar.com/4ywdgup3bnzuv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2gaJoZa.png" group-title="11. RADIO",iRadio Yogyakarta
-http://stream.radiojar.com/hnf2cbv80k8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YNDz8A.png" group-title="11. RADIO",Jak FM
-http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JwasnDm.png" group-title="11. RADIO",M Radio Surabaya
-https://c4.siar.us/proxy/mradio/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VrpLBJY.png" group-title="11. RADIO",MNC Trijaya FM Bandung
-http://stream.radbdg.net:8000/sindoradio.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="11. RADIO",MNC Trijaya FM Jakarta
-http://202.147.199.101:8000/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jnna7QS.png" group-title="11. RADIO",MNC Trijaya FM Surabaya
-https://live.indostreamserver.com:10961/;listen.pls?sid=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TUfVa7n.png" group-title="11. RADIO",Most Radio Jakarta
-http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w1134660637.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="11. RADIO",Motion Radio Jakarta
-https://streamingv2.shoutcast.com/motion-jakarta
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5kfVqJ.png" group-title="11. RADIO",Mustang FM
-http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist_w1206118393.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6MHpbwS.png" group-title="11. RADIO",Nagaswara FM
-https://live.nagaswarafm.com:9900/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uExwxeN.png" group-title="11. RADIO",OZ Radio Bandung
-http://s3.vinhostmedia.com:1031/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="11. RADIO",Prambors Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXrjpzy.png" group-title="11. RADIO",Smart FM Jakarta
-https://streamingv2.shoutcast.com/smart-jakarta
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXrjpzy.png" group-title="11. RADIO",Smart FM Surabaya
-https://streamingv2.shoutcast.com/smart-surabaya
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXrjpzy.png" group-title="11. RADIO",Smart FM Yogyakarta
-https://streamingv2.shoutcast.com/smart-yogyakarta
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="11. RADIO",Sonora FM Jakarta
-https://streamingv2.shoutcast.com/sonora-jakarta
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="11. RADIO",Sonora FM Purwokerto
-https://streamingv2.shoutcast.com/sonora-purwokerto
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="11. RADIO",Sonora FM Semarang
-https://streamingv2.shoutcast.com/sonora-semarang
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="11. RADIO",Sonora FM Surabaya
-https://streamingv2.shoutcast.com/sonora-surabaya
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="11. RADIO",Sonora FM Yogyakarta
-http://117.20.55.234:8008/sonorastereo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WddxE6v.png" group-title="11. RADIO",SSFM Semarang
-http://live.indostreamserver.com:8142/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8miEQe.png" group-title="11. RADIO",Suara Surabaya
-https://c5.siar.us:443/proxy/ssfm/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UUyb1sa.png" group-title="11. RADIO",Suzana FM
-http://streaming.suzanafm.com:8000/listen.pls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R35XjWy.jpg" group-title="11. RADIO",Top FM Semarang
-http://server-by.antoners.com:8020/topfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VQewXh7.png" group-title="11. RADIO",Trax FM Semarang
-http://stream.radiojar.com/fr9zqhv80k8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RNEmhym.png" group-title="11. RADIO",Trax Jakarta
-https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
-
 
 
 
