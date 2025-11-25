@@ -1782,10 +1782,21 @@ http://202.169.224.202:8800/udp/239.9.1.39:1234
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.png"group-title="04. KIDS",ZOOMOO
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntqww4hrGiuxudp1ksZmtNDeXQCbOd3Vo_wHccle_Enw=s160-c-k-c0x00ffffff-no-rj" group-title="",SRB 24JAM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764092031/ei/H5Qlab_zIv7U2roP3uHFyAk/ip/182.253.50.10/id/bEJFMrKmBb4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51659837/txs/51659836%2C51659837%2C51659838/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QHDWZPqMbERG1gkdbbjaKjicGV3cL0CAqLw-XV90sWrScYXFff74VQnIQeGviy24d3vcDr8Z23/spc/6b0G_MFFQWlfJsVHzvZLNuCpl2zYByv82Oa28G4sKXUnvGTBrwlLUVrh/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDH3gYsY63-0nvjFvvCO5xqIbWPigNPc4kNBm29zdzCkCICCQsX7oOsGT027llQaXue3N2RNyf8XVzlOv2ttbFAe6/file/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg"group-title="05. RELIGION",MAKKAH LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764089710/ei/DoslacWrIYHT3LUP7pzwqAc/ip/182.253.50.10/id/nPsbf-yRsVs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51679570/txs/51679570%2C51679571%2C51679573/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5Rbfh2AbuTXqT1YuunHsYXNar7Szsjo8bq_9xOXIItsSw612cMrpdjlgonSUTbcUpr1tgL8V5Jj/spc/6b0G_C9mqQYMOZLrBxOBDrf2DE7NPtczYC2UGGZZEqd5zDfpjuwt3rk3c8LDuFD5pCU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfKkR3IxIXrC-l5dswzep30ZbYXg6RKR3Sgk-7vmcUNYCIQDKx_P--ZGY2zTRj2Lrh9mFd292bfpSvRATv6g-E00lKA%3D%3D/file/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg"group-title="05. RELIGION",MADINAH LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764089845/ei/lYsladSFHqWBjuMPlfDx4Ag/ip/182.253.50.10/id/TpT8b8JFZ6E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TYNOU-1OaEGtk20UJbHMeX1OfqKK2cU4EDQo9gOhJcMh-ZZdg8ZpyXRC_Fc706yKH09C8DPnHx/spc/6b0G_IulBst8ljQRE2-sZKqGQ5Gl6tjICkL-gosRUpCAmVqSl100x47B/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMH55y6fZ9FLChkjlf_n27lO0y0qcoRAxwT2j8U_K6bYCIFIpGJXGnlXFIMQu2sQUGZ5lLnGFftLjh7SlyEI-uyO8/file/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574f658b101750641670b540e/dbdafb9c7d1d4f9695059cd544f6f323.png"group-title="05. RELIGION",Al Quran Al Kareem
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png"group-title="05. RELIGION",Al Quran Al Kareem
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -17698,6 +17709,7 @@ https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap
 https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
 #EXTINF:-1  tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg" group-title="35. VOD ANIMASI",Wreck-It Ralph (2012)
 https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
+
 
 
 
