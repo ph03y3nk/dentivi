@@ -35,6 +35,19 @@
 
 #======================JADOEL==========================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/audex84.JPG" group-title="LAGU LAGU",AUDEX 84
+https://www.googleapis.com/drive/v3/files/1R3cxSEFSlboRKRB1ToiEEn6rEt6XA71G?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/audex85.JPG" group-title="LAGU LAGU",AUDEX 85
+https://www.googleapis.com/drive/v3/files/10i48d-XJT66wgZixr_LuO8T07m0WIwZE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/audex86.JPG" group-title="LAGU LAGU",AUDEX 86
+https://www.googleapis.com/drive/v3/files/1Ky77S-bp8zT6Lx0wmn0RiKVoAxGwQG6A?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+
+
+
+
 #EXTINF:-1 group-title="LAGU LAGU" tvg-logo="https://drive.google.com/uc?export=download&id=18t_DXiQopENzcJfahX2SlnMRMmayHLzO",LAGU SANTAI 1
 https://www.googleapis.com/drive/v3/files/14atfhGJpvyVsJtIKGfp027dKBbdoz6gM?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
@@ -53,15 +66,14 @@ https://www.googleapis.com/drive/v3/files/1rpvKhuQNAUvTHYemQXfFU-aG9T8-M8Ye?alt=
 #EXTINF:-1 group-title="LAGU LAGU" tvg-logo="https://drive.google.com/uc?export=download&id=1eA9txAef9omMGz5NxuBaZeSSJs6yWBYk",LAGU SANTAI 6
 https://www.googleapis.com/drive/v3/files/14csLKsD2DTP8luclmSAwgHBVxb-eH-Ro?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
+#EXTINF:-1 group-title="LAGU LAGU" tvg-logo="https://drive.google.com/uc?export=download&id=1GOJaJ5wKRCwjLNqHmlsCh81-lYKjVUQV",LAGU SANTAI 7
+https://www.googleapis.com/drive/v3/files/1GQl6kp0VQ5bi6XSsuO4AyeFYnahkuqMW?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/audex84.JPG" group-title="LAGU LAGU",AUDEX 84
-https://www.googleapis.com/drive/v3/files/1R3cxSEFSlboRKRB1ToiEEn6rEt6XA71G?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 group-title="LAGU LAGU" tvg-logo="https://drive.google.com/uc?export=download&id=140l0WK901Z1gnIitwF-Vq_gEtKnRo8r6",LAGU SANTAI 8
+https://www.googleapis.com/drive/v3/files/1izEwaZLtbuvrbIdv-lP7iOANXAB5mwCZ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/audex85.JPG" group-title="LAGU LAGU",AUDEX 85
-https://www.googleapis.com/drive/v3/files/10i48d-XJT66wgZixr_LuO8T07m0WIwZE?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/audex86.JPG" group-title="LAGU LAGU",AUDEX 86
-https://www.googleapis.com/drive/v3/files/1Ky77S-bp8zT6Lx0wmn0RiKVoAxGwQG6A?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
 #======================AL QURAN==========================
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/PmCKC.png" group-title="AL QUR'AN",Juz 01
