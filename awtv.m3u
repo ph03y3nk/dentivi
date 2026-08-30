@@ -2257,27 +2257,6 @@ https://www.googleapis.com/drive/v3/files/17CyaUMqD-7ItNLTBPob2xQDbv6-DNw7X?alt=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ######################################################################################## ZOMBIE KR #################################################################################
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Gangnam-Zombie.jpg/250px-Gangnam-Zombie.jpg" group-title="ZOMBIE KR", Gangnam Zombie (2023)
@@ -2455,3 +2434,854 @@ https://www.googleapis.com/drive/v3/files/1EQFkUGtPQc4s3SJW1THHie_cWI3i8JbN?alt=
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Squid_Game_season_3_poster.png" group-title="SQUID GAME", S3 EP6 (2025)
 https://www.googleapis.com/drive/v3/files/1wFAzOiVFZQkgJNqgs8laGtrGqUTiKBgd?alt=media&key=AIzaSyCFefPNutnds5OGxLC14499qndUqTmnR6w
+
+
+
+
+
+######################################################################################## BIOSKOP ONLINE ##############################################################################
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2020/06/The-Raid-2_all-templateThumbnail.jpg" group-title="Bioskop Online",THE RAID 2 (BERANDAL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtheRaid2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="Bioskop Online",SADALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsadali.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-musuh-dalam-selimut-2026_600_880.webp" group-title="Bioskop Online",MUSUH DALAM SELIMUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmusuhDalam-Selimut1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3zP_qB1uNqQ/hq720.jpg" group-title="Bioskop Online",UANG PASSOLO - AMPLOP KONDANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDuang-Passolo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://wartabuana.com/wp-content/uploads/2025/12/TIMUR_POSTER_925X527_300ppi-scaled.jpg" group-title="Bioskop Online",TIMUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtimur01.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/12/06/32923-poster-film-wasiat-warisan-instagramcomfilm-wasiatwarisan.jpg" group-title="Bioskop Online",WASIAT WARISAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwasiat-Warisan.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XO4l2zUeL84/maxresdefault.jpg" group-title="Bioskop Online",MERTUA NGERI KALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmertuaNgeri-Kali.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0fchlmZwc4o5RO7B0fvaagCXGw0=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/12124/jadi-tuh-barang-fb3960.jpg" group-title="Bioskop Online",JADI TUH BARANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjadiTuh-Barang01.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.tvonenews.com/thumbnail/2025/11/30/692b4ade4e8fc-kisah-david-ozora-diangkat-jadi-film-ozora-tuding-ketidakadilan-hukum-dengan-cara-paling-menohok_1265_711.jpg" group-title="Bioskop Online",OZORA - PENGANIAYAAN BRUTAL PENGUASA JAKSEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDozora.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/12/04/1366079666.jpg" group-title="Bioskop Online",NIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDnia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rNE8IHQHh3s/hq720.jpg" group-title="Bioskop Online",JANGAN PANGGIL MAMA KAFIR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjanganPanggil-MamaKafir.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.inibalikpapan.com/wp-content/uploads/2025/10/54899-film-air-mata-mualaf-instagram.webp" group-title="Bioskop Online",AIR MATA MUALAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDairMata-Mualaf.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-sampai-titik-terakhirmu-2025_890_490.webp" group-title="Bioskop Online",SAMPAI TITIK TERAKHIRMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsampaiTitik-Terakhirmu.m3u8
+
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/2026/03/31/film-the-verdict.jpg" group-title="Bioskop Online",THE VERDICT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDthe-Verdict.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/11/30/24386-foto-teaser-film-legenda-kelam-malin-kundang.jpg" group-title="Bioskop Online",MALIN KUNDANG (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmalin-Kundang.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/12/2976601761.jpg" group-title="Bioskop Online",SI PALING AKTOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsiPaling-Aktor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YZ95gKwbeAc/maxresdefault.jpg" group-title="Bioskop Online",GAK NYANGKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDgak-Nyangka.m3u8
+
+#EXTINF:-1 tvg-logo="https://genz.id/wp-content/uploads/2025/09/Film-Tukar-Takdir-1.jpeg" group-title="Bioskop Online",TUKAR TAKDIR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtukar-Takdir.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FBd1zpjXQ3Q/maxresdefault.jpg" group-title="Bioskop Online",HARTA, TAHTA, BORU NI RAJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDhartaTahtaBoruNi-Raja.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CKe7QKewwpY/maxresdefault.jpg" group-title="Bioskop Online",JENDELA SERIBU SUNGAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjendelaSeribu-Sungai.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RRq2ZE8C7KQ/hq720.jpg" group-title="Bioskop Online",SEPEDA PRESIDENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsepeda-President.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/01/28/2344693464.jpg" group-title="Bioskop Online",SURAT UNTUK MASA MUDAKU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsuratUntuk-MasaMudaku.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZBfAWdV_m-M/maxresdefault.jpg" group-title="Bioskop Online",LOSMEN BU BROTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlosmen-BuBroto.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lZOjybcuDi8/hq720.jpg" group-title="Bioskop Online",SIAPA DIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsiapa-Dia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tHO7uDPXAXE/maxresdefault.jpg" group-title="Bioskop Online",SEMUSIM SETELAH KEMARAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsemusimSetelah-Kemarau.m3u8
+
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/2020/03/12/poster-mariposa_ratio-16x9.jpg" group-title="Bioskop Online",MARIPOSA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariposa.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/JDF_5McwoI3pjxje60kkpnjV_KU=/500x281/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4549218/original/095734800_1692791495-Selesai._-_Alt_B_-_Poster_Landscape.jpg" group-title="Bioskop Online",SELESAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDselesai.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/09/17/3618033056.jpg" group-title="Bioskop Online",YAKIN NIKAH (Wed or Wait)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyakin-Nikah.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2025/07/04/686726c786111-film-pengin-hijrah_665_374.jpg" group-title="Bioskop Online",PENGIN HIJRAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpengin-Hijrah.m3u8
+
+#EXTINF:-1 tvg-logo="https://cinemaylo.id/wp-content/uploads/2025/10/The-Period-of-her-Cover.jpg" group-title="Bioskop Online",THE PERIOD OF HER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDThePeriod-OfHer.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e1TEZc8cN8s/maxresdefault.jpg" group-title="Bioskop Online",KELUARGA BESAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkeluarga-Besar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tuUSrwrP1yk/maxresdefault.jpg" group-title="Bioskop Online",KARTU POS WINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkartuPos-Wini.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LXRnwwpXz6s/maxresdefault.jpg" group-title="Bioskop Online",KAKA BOSS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkaka-Bos.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/48b12d297087ee9d94504ac7007f042d9b5b0654b1e3913ac5cfe73ff42cc221.png" group-title="Bioskop Online",YOWIS BEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyowis-Ben2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-cocote-tonggo-2025_890_490.webp" group-title="Bioskop Online",COCOTE TONGGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer="https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvemdkLUk5bi1xU3ItS25nL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VhWZK7kD-t5NDffiKzLhG8DzQC8=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/50708/0f3377.jpg" group-title="Bioskop Online",GJLS: IBUKU IBU IBU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDGjls-ibuku-IbuIbu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m52r8kXdfBs/maxresdefault.jpg" group-title="Bioskop Online",CINTA TAK SEINDAH DRAMA KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121759
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E5Jdw9alAKM/mqdefault.jpg" group-title="Bioskop Online",SURGA DI TELAPAK KAKI BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121473
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/soqYtgjfzFk/maxresdefault.jpg" group-title="Bioskop Online",HIDUP INI TERLALU BANYAK KAMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121409
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qa1YwXc9K8d2i6yww8vP3js9vpU=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/11721/angel-pol-837a40.png" group-title="Bioskop Online",ANGEL POOLLL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=129411
+
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-tak-ingin-usai-di-sini-2025_600_880.webp" group-title="Bioskop Online",TAK INGIN USAI DI SINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126285
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u7SRMGoJ9b9TsVtKm5WRvVz-bjo=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8865733/mendadak-dangdut_upload-979150.jpg" group-title="Bioskop Online",MENDADAK DANGDUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadak-Dangdut.m3u8
+
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/api/wm/2023/09/25/poster-film-imam-tanpa-makmum_169.jpeg?w=1200" group-title="Bioskop Online",IMAM TANPA MAKMUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=106724
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrSiTa_Kiwg/maxresdefault.jpg" group-title="Bioskop Online",SAH: KATA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=124261
+
+#EXTINF:-1 tvg-logo="https://img.merahputih.com/media/cc/ae/a6/ccaea608cb6507fa0d6af372d8c65073.jpg" group-title="Bioskop Online",SERIBU BAYANG PURNAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=135434
+
+#EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20230621/3c21862b-f56f-4bc2-8c72-63500a47cc8d-6669300796f7d476974db5e6358dc174.jpeg" group-title="Bioskop Online",GANJIL GENAP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=104239
+
+#EXTINF:-1 tvg-logo="https://gayatekno.id/wp-content/uploads/2024/06/images-4-1.jpeg" group-title="Bioskop Online",SEKAWAN LIMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PEb0yhsmfxc/maxresdefault.jpg" group-title="Bioskop Online",SUJUD TERAKHIR BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://www.googleapis.com/drive/v3/files/1FL9ztUfAK0_zL-G8TVPwtkzb9uyCMlsL?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s6Kz_94zdHQ/maxresdefault.jpg" group-title="Bioskop Online",KUN ANA WA ANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=113967
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01jxv9vw5dx1dze9bz55pkggcc.jpg" group-title="Bioskop Online",JODOH 3 BUJANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126981
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5DbFY0Fq-Vs/maxresdefault.jpg" group-title="Bioskop Online",LEBIH DARI SELAMA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=127488
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nLjzzjfwwvg/hq720.jpg" group-title="Bioskop Online",PANGGIL AKU AYAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=128955
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h282_face/u6B4OIoT4lnWqIxy3lEEVcnleY4.jpg", group-title="Bioskop Online",5 CM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/s/m64grw66otbicfw/5cm.%282012%29.mp4
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xlvSRI6t_PU/maxresdefault.jpg" group-title="Bioskop Online",SEBELUM DIJEMPUT NENEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsebelum-DijemputNenek.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2024/08/01/1604763664.jpg" group-title="Bioskop Online",SAKARATUL MAUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsakaratul-Maut.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/43/2025/06/27/mitos-malam-satu-suro-466849331.jpg" group-title="Bioskop Online",SATU SURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="Bioskop Online",MARIABAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariaban.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/22/52437-film-kuncen.jpg" group-title="Bioskop Online",KUNCEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkun-Cen01.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/26/3231857517.jpg" group-title="Bioskop Online",PESUGIHAN SATE GAGAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpesugihan-SateGagak01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x800/webp/photo/p1/134/2025/07/28/ChatGPT-Image-28-Jul-2025-151517-829203663.png" group-title="Bioskop Online",DIA BUKAN IBU (A Woman Called Mother)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDdiaBukan-Ibu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P54SMI7YBEc/maxresdefault.jpg" group-title="Bioskop Online",KROMOLEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkromo-leo.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/132/2025/04/01/Lampor-Keranda-Terbang-2019-movievaganza-trans7-932156416.jpg", group-title="Bioskop Online",LAMPOR - KERANDA TERBANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlamporKerandaTerbang.m3u8
+
+
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://stro.tv/uploads/img/6870f7a1a8e2a.jpg", SUMIATI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsumiati.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/2025/07/26/film-pamali-tumbal_ratio-16x9.jpg", group-title="Bioskop Online",PAMALI
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/ilp61.m3u8
+
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/720x0/2023/02/02/jailangkung-sandekala_ratio-16x9.jpg", group-title="Bioskop Online",JAELANGKUNG SANDEKALA
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/i93rZt4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2022/05/12/IMG_20220512_135230_013.jpg", group-title="Bioskop Online",KKN DI DESA PENARI
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/i9rZt4.m3u8
+
+#EXTINF:-1 tvg-logo="https://hypeabis.id/assets/content/20230201163929000000tb.jpg", group-title="Bioskop Online",TASBIH KOSONG
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/KcZm3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/poster-kajiman-iblis-terkejam-penagih-j-269df3.jpg", group-title="Bioskop Online",KAJIMAN - IBLIS TERKEJAM PENAGIH JANJI
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/78qs1t.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_oAGruYMsCA/maxresdefault.jpg", group-title="Bioskop Online",KHANZAB
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/86Z2tt.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/09/10/2913219691.jpg", group-title="Bioskop Online",AIR TERJUN PENGANTIN
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/6yfll.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tangerangnews.com/assets/uploaded/photo/2023/02/03/a566382f7d4ad10d8e4ead1728ef2a32.jpg", group-title="Bioskop Online",SUZANA - MALAM JUMAT KLIWON
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/k4idF.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/946/2024/08/23/InShot_20240823_172355716-3319974653.jpg", group-title="Bioskop Online",KANG MAK (PEE MAK)
+https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
+
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2024/08/11/IMG_20240811_201204-3867138655.jpg", BANDARAWUHI DI DESA PENARI
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=www.dropbox.com
+https://www.dropbox.com/scl/fi/hco4t21ahuvljui4qqj4a/Dancing-Village-The-Curse-Begins-2024.mp4?rlkey=rkwgld4gwv7s2u6tienjkeu4y&st=1uajkzq7&dl=1
+
+
+
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8zBWKhKF-859A0efX50FNWF_VWykM5nfUA&s",Kisah Tanah Jawa: Pocong Gundul
+https://pixeldrain.com/api/file/xTZuUgAW?download
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://imgx.parapuan.co/crop/0x135:1080x817/260x140/filters:format(webp)/photo/2023/08/21/sinopsis-series-losmen-melatijp-20230821122246.jpg",Losmen Melati
+https://pixeldrain.com/api/file/zBP5ULUD?download
+
+
+
+
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/tNyCo3WtmzY/maxresdefault.jpg", Pemukiman Setan
+https://pixeldrain.com/api/file/gjPCoSJZ?download
+
+
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.imgur.com/NTeDnbd.jpeg",Siksa Neraka
+https://pixeldrain.com/api/file/Ya2YKE7h?download
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi_webp/F0yPzEwP7dg/sddefault.webp",Kereta Berdarah
+https://pixeldrain.com/api/file/tVDXN7EM?download
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/kuyang-the-movie-hadirkan-teror-mengeri-dd901d.jpg",Kuyang
+https://pixeldrain.com/api/file/BPrv72bw?download
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://assets.radartasik.id/main/2025/02/Pulung-Gantung-FotoJet-1200x675.webp" group-title="Bioskop Online",PULUNG GANTUNG (FHD)
+https://fs22.1cloudfile.com/4aPby/Pulung.Gantung.2024.1080p.WEB-DL.AAC5.1.H.264-PandaFlix.mkv?download_token=2997747b5175c46fc70f191bd50a62bdcb4d3e50d610168cd211d28600cecd90
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://i.ytimg.com/vi/3SPDmv9J6a0/maxresdefault.jpg", SEHIDUP SEMATI
+https://pixeldrain.com/api/file/zSNxqv5q?download
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://thumbor.prod.vidiocdn.com/ETjcVDUjvHRzNqFJh1WBLxye92g=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8084625/sinopsis-jagat-alam-gaib-sinden-gaib-2024-rekomendasi-film-horor-indonesia-4b2bcb.jpg",Sinden Gaib
+https://pixeldrain.com/api/file/ci2qdnsA?download
+
+#EXTINF:-1 group-title="Bioskop Online"tvg-logo="https://thumbor.prod.vidiocdn.com/q8EGRNte7XGed1vedTqTcWabjkg=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8011821/trinil-48a2f1.jpg",Trinil - kembalikan tubuhku
+https://pixeldrain.com/api/file/gu6tTkv4?download
+
+#EXTINF:-1 tvg-id="qodrat" tvg-name="" tvg-logo="https://i.imgur.com/QtfsQAX.jpeg" group-title="Bioskop Online",QODRAT (FHD)
+https://drive.usercontent.google.com/download?id=1V6SLExwnj7olzDuYh-1HcvsUdMrmA13y&export=download&authuser=0&confirm=t&uuid=a3773f99-0657-4898-ba57-06d17331d940&at=APcmpow_ZTsr7leOFtFfwF87vDO3:1744613025075
+
+#EXTINF:-1 tvg-id="painting" tvg-name="" tvg-logo="https://i.imgur.com/pK1XQeM.jpeg" group-title="Bioskop Online",KETINDIHAN (FHD)
+https://pixeldrain.com/api/file/SrAUa3s9
+
+#EXTINF:-1 type="movie" group-title="Bioskop Online"tvg-logo="https://asset-2.tribunnews.com/medan/foto/bank/images/MD-Pictures-kembali-memproduksi-film-horor-terbaru-berjudul-Sewu-Dino.jpg",SEWU DINO (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Sewu.Dino.2023.1080p.AMZN.WEB-DL.DDP5.1.H.265-KQRM.mkv
+
+#EXTINF:-1 type="movie" group-title="Bioskop Online"tvg-logo="https://cdns.klimg.com/resized/800x400/p/headline/sinopsis-dan-konsep-cerita-film-perjanj-5fa94a.jpg",PERJANJIAN GHAIB (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Perjanjian.Gaib.2023.mkv
+
+#EXTINF:-1 type="movie" group-title="Bioskop Online"tvg-logo="https://assets.pikiran-rakyat.com/crop/3x0:1279x645/720x0/webp/photo/2022/09/18/2587098442.jpg",HIDAYAH (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Hidayah%202023.mp4
+
+#EXTINF:-1 type="movie" group-title="Bioskop Online"tvg-logo="https://awsimages.detik.net.id/community/media/visual/2023/01/20/para-betina-pengikut-iblis_169.jpeg?w=1200",PARA BETINA PENGIKUT IBLIS (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.ytimg.com/vi/iGtP3qJGsGI/hq720.jpg" group-title="Bioskop Online",KHANSAB (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Khanzab.2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.suara.com/pictures/653x366/2023/03/30/55649-poster-film-teman-tidur-instagramtemantidurthemovie.jpg" group-title="Bioskop Online",TEMAN TIDUR (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Teman.Tidur.2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.teater.co/imgs/article-tasbih-kosong-2023-1_890_490.webp" group-title="Bioskop Online",TASBIH KOSONG (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4
+
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/palu/foto/bank/images/Film-horor-Indonesia-berjudul-Thaghut.jpg" group-title="Bioskop Online",THAGHUT (FHD) 
+https://drive.usercontent.google.com/download?id=1wQui7I9Ucl9Sa1MU9ZbmIrleFbe_VEqf&export=download&authuser=0&confirm=t&uuid=ec6a583e-7b8a-44ba-9dd7-a93c9dd7a543&at=APvzH3oECIWDBprkqofOSf9Jz82S%3A1735813166311
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x2GHfi-1gs4/maxresdefault.jpg" group-title="Bioskop Online",DOSEN GHAIB - SUDAH MALAM ATAU SUDAH TAHU (FHD) 
+https://drive.usercontent.google.com/download?id=1YslB3-jUVIsLr9EDSjaukX6dpwKZxX9R&export=download&authuser=0&confirm=t&uuid=357c1cc9-c82d-4901-b5a6-18db10f9902c&at=APvzH3rIBYS4a9CILesu8yIh3WCf%3A1735754447312
+
+
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://imgx.parapuan.co/crop/0x0:0x0/x/photo/2024/09/30/sinopsis-film-sumala-vira-di-tik-20240930084405.jpg" group-title="Bioskop Online",SUMALA
+https://drive.usercontent.google.com/download?id=19wSa5iuLrVn8_uQ_R0uLX04PdE0QCV7t&export=download&authuser=1&confirm=t&uuid=0b07f81b-6d19-4a29-8fea-ee7ec791949b&at=APcmpoxKGEwsS-2Fpa_r34SLyEOe:1745250661194
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://mmc.tirto.id/image/2024/12/11/film-hutang-nyawa_ratio-16x9.jpg" group-title="Bioskop Online",Hutang Nyawa
+https://drive.usercontent.google.com/download?id=1A8Jh5ZS_GqDNaX1aHVyMqxoI5SSC-ivE&export=download&authuser=1&confirm=t&uuid=2143a717-e836-4c2d-adc9-9af67f59b997&at=APcmpowm3hrltEFCLHTmrRj1GHwQ:1745280398123
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/12/09/poster-film-racun-sangga_169.jpeg?w=1200" group-title="Bioskop Online",Racun Sangga
+https://drive.usercontent.google.com/download?id=1AEE0hVoIgqK3QG2Chl1DixPT6FKgib9N&export=download&authuser=1&confirm=t&uuid=6ba4cbdc-29e7-49d5-9f4b-bba3cf695cbf&at=APcmpox5oh3RmWHC3tJHeUpuTiD3:1745281393740
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01j2frpnsd591dr1m8fse0g4sx.jpg" group-title="Bioskop Online",KANG MAK (FHD) 
+https://drive.usercontent.google.com/download?id=1HLI1OZ6sJnN_6aVuJeVbq1CX6MN3os75&export=download&authuser=0&confirm=t&uuid=c2e93085-57d1-4be1-bdc3-00807a43582e&at=APvzH3rgln-RebiQU_tpIjD7DDzO%3A1735695013023
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pic2.iqiyipic.com/image/20191106/34/b7/v_140637347_m_601_m6_480_270.jpg" group-title="Bioskop Online",THE MAD MONK LEGEND OF SHADOW FRIEND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheMadMonkLegend-OfShadowFriend.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yLLxGR73LKx9XW-i6Pal5HIDaJ1D-IWPrIthKK1WFABSDT3-d1nSzgpq&s=10" group-title="Bioskop Online",GOLDEN KAMUY 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Golden-Kamuy3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e_pmny9ASLU/hq720.jpg" group-title="Bioskop Online",THE OUTER THREAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheOuter-Threat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X9Iq1M-XMFE/maxresdefault.jpg" group-title="Bioskop Online",THE HOODOOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/The-Hoodoos.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20260311/e5/c6/v_194953449_m_601_m2_720_405.jpg" group-title="Bioskop Online",ARHAT ROCK OF WAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ArhatRock-OfWar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_wBX1GGS0Ok/hq720.jpg" group-title="Bioskop Online",RAPTOR ATTACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Raptor-Attack.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NenzQrmPeg8/maxresdefault.jpg" group-title="Bioskop Online",MALYSH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Malysh.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rJ1Zp9jQEgs/maxresdefault.jpg" group-title="Bioskop Online",GREENLAND 2 - MIGRATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Greenland2-Migration.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TyfEgqSuxgU/maxresdefault.jpg" group-title="Bioskop Online",THE FURIOUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/The-Furious.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/y709vgSK8eU/maxresdefault.jpg" group-title="Bioskop Online",MAN OF WAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ManOf-War.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x8NlG5Acwto/maxresdefault.jpg" group-title="Bioskop Online",PEE NAK 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Pee-Nak5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SSZMoywrYZM/hq720.jpg" group-title="Bioskop Online",THE DEATH OF ROBIN HOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheDeathOf-RobinHood.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260702/0f/60/v_198442229_m_601_en_m1_1080_608.jpg" group-title="Bioskop Online",WINGS OF DREAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/WingsOf-Dread.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcxrbAn.jpeg" group-title="Bioskop Online",SATLUJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Satluj.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20260226/upload_1f130a8af02cfa170e86466d33be9216_0175f44f-02fe-4543-9187-89d9f1889623.png" group-title="Bioskop Online",MORTAL COMBAT II
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Mortal-Combat2.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic8.iqiyipic.com/image/20260429/2d/e1/v_195740038_m_601_en_m1_1080_608.jpg" group-title="Bioskop Online",THE JIANGLONG OF LONGKUO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheJianglong-OfLongkuo.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20260609/fd/5d/v_200256278_m_601_en_1080_608.jpg" group-title="Bioskop Online",DETECTIVE CHEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/DetectiveChen2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hLRTZFYTido/hq720.jpg" group-title="Bioskop Online",BLAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Blast.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlEwETQ3SvDGztB9fbkVCQaUb10VHuv0D-UqgFbiYCXOyNHlcA" group-title="Bioskop Online",IP MAN - KUNGFU LEGEND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/IpMan-KungFuLegend.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260626/cb/fc/v_201634348_m_601_en_m1_480_270.jpg" group-title="Bioskop Online",SREANGE TALES OF HUANGQUAN VILLAGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/StrangeTalesOf-HuangquanVillage.m3u8
+
+#EXTINF:-1 tvg-logo="https://focus.courrierinternational.com/2026/04/29/0/0/1200/628/1280/0/60/0/c8674c4_upload-1-b37lokbznpzx-1200h628-49.jpg" group-title="Bioskop Online",KILLHOUSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Kill-House.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1G-N32D9uuI/maxresdefault.jpg" group-title="Bioskop Online",CHUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Chum.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic3.iqiyipic.com/image/20260623/7f/49/v_199987986_m_601_en_1080_608.jpg" group-title="Bioskop Online",BACK IN THE GAME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Back-InTheGame.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZkkhCm0s7g/hq720.jpg" group-title="Bioskop Online",PATRIOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Patriot.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6114aef7c488c89f291d58e95795e4c01dd0992bd929ddf182c1d4a412f2531e.jpg" group-title="Bioskop Online",SPACE RANGER NEW WORLDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SpaceRanger-NewWorlds.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-130671990,width-1280,height-720,imgsize-443536,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" group-title="Bioskop Online",RAJA SHIVAJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Raja-Shivaji.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lqHeUVBGmg8hRNJz4KgZ6af8UOhLp-bi7XQ-bFZHV4Dtp-rJJmuP2jQ&s=10" group-title="Bioskop Online",HUNGRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Hungry.m3u8
+
+#EXTINF:-1 tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/3/image/1800x/71252117777b696995f01934522c402d/6/4/640x396-kingkaew.jpg" group-title="Bioskop Online",KING KAEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/King-Kaew.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pgIWUXtxauU/hq720.jpg" group-title="Bioskop Online",BLADES OF THE GUARDIANS - WIND RISES IN THE DESERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BladesOfThe-Guardians.m3u8
+
+#EXTINF:-1 tvg-logo="https://horrorbrains.com/wp-content/uploads/2025/12/Iron-Lung-2026-Horror-Movvie-Image-2.jpg" group-title="Bioskop Online",IRON LUNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Iron-Lung.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZItarm43sDA/hq720.jpg" group-title="Bioskop Online",SEVEN SNIPERS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Seven-Snipers.m3u8
+
+#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*MnS18lC2aHzpKpbQDR60Jw.jpeg" group-title="Bioskop Online",IKKIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Ikkis.m3u8
+
+#EXTINF:-1 tvg-logo="https://venkatarangan.com/wp-content/uploads/2026/05/Karuppu-2026-cover.jpg" group-title="Bioskop Online",KARUPPU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Karuppu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PP0zFlpPcg8/hq720.jpg" group-title="Bioskop Online",DESERT WARRIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Desert-Warrior.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s45y39H4iIA/hq720.jpg" group-title="Bioskop Online",MASTER OF THE UNIVERSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/MastersOfThe-Universe.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5jyq3BGUwf_mBI7KINERjgjxV6AqybKrOSw&s" group-title="Bioskop Online",MERMAID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Mermaid.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/b6ljQ1g3hoh5FJ_m5/x720" group-title="Bioskop Online",OMUKADE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Omukade.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-cdn3.welcomesoftware.com/assets/jack+ryan+ghost+war.jpg/Zz1iMzM0NTZjODU0NzAxMWYxODQxM2UyMzBjZmM5ZjQ5YQ==?width=800&height=448" group-title="Bioskop Online",TOM CLANCY'S JACK RYAN - GHOST WAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TomClancysJackRyan-GhostWar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H963gik_z5c/hq720.jpg" group-title="Bioskop Online",THE PLASTIC MEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ThePlastic-Men.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/53ij2bDnztE/maxresdefault.jpg" group-title="Bioskop Online",PANOR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Panor-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/a6xcBkeePQs/hq720.jpg" group-title="Bioskop Online",PANOR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Panor-2.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/taBR9SDAMrY/hq720.jpg" group-title="Bioskop Online",KILL CODE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Kill-Code.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.zoomnews.com/thumb/msid-153513807,width-1280,height-720,resizemode-75/153513807.jpg" group-title="Bioskop Online",BORDER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Border-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic3.iqiyipic.com/image/20260428/7b/dd/v_196476597_m_601_en_m1_1080_608.jpg" group-title="Bioskop Online",LEGEND OF THE CHANGBAI MOUNTAIN HUNTER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/LegendOfTheChangbaiMountain-Hunter2.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20260324/3f/34/v_194639428_m_601_en_1080_608.jpg" group-title="Bioskop Online",MULAN - LIGHT A FIRE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/MulanLight-Afire.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4cb7e8f44311ec64d5552a08371b2c6615dca0108a523665441c27f85a5f201a.jpg" group-title="Bioskop Online",RISE OF THE CONQUEROR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Rise-OfTheConqueror.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ts5tG-4I9DE/maxresdefault.jpg" group-title="Bioskop Online",BAD MAN MUST BLEED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Bad-MenMustBleed.m3u8
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/04/29/apex-1777443903821_169.png?w=650&q=90" group-title="Bioskop Online",APEX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Apex.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.mtvuutiset.fi/graphql/caas/v1/media/9282252/data/f05d5f26df80a1e4300e12b5d9e92638/kullervon-tarina-kuva.jpg" group-title="Bioskop Online",SON OF REVENGE - THE STORY OF KALEVALA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Son-OfRevengeTheStoryOfKalevala.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indigofilm.it/wp-content/uploads/2025/10/primavera.jpg" group-title="Bioskop Online",PRIMAVERA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Immortal-Combat.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20250305/91/bf/v_180043359_m_601_en_1013_569.jpg" group-title="Bioskop Online",TIGER SQUAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TigerSquad.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d1bf33383cc8a1e467214b3e80d1d6154633bbb1bca1e59aa236196783ada187._SX1080_FMjpg_.jpg" group-title="Bioskop Online",THE VOLUNTEERS - PEACE AT LAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheVolunteers-PeaceAtLast.m3u8
+
+#EXTINF:-1 tvg-logo="https://whentostream.com/wp-content/uploads/2026/04/Brothers-Under-Fire-Horizontal.jpeg" group-title="Bioskop Online",BROTHER UNDER FIRE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BrothersUnder-Fire.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic4.iqiyipic.com/image/20260407/51/60/v_194818561_m_601_en_m1_720_405.jpg" group-title="Bioskop Online",BLADE WARRIOR OF BLADE ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/BladeWarriorOfBlade-Action.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bxvgiEFR774/hq720.jpg" group-title="Bioskop Online",BALLISTIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Ballistic.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uSXacEXAaDEFMT0e07vfr4l4OJd.jpg" group-title="Bioskop Online",LEGENDARY DIVINE KUNG FU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/LegendaryDivine-KungFu.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic9.iqiyipic.com/image/20230616/8d/7b/v_172887693_m_601_es-MX_720_405.jpg" group-title="Bioskop Online",THE YIN YANG - CROSSOVER MAN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheYinYang-CrossoverMan2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-AKL03pmnqA/hq720.jpg" group-title="Bioskop Online",PROTECTOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Protector.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nj6p2abJnQI/hq720.jpg" group-title="Bioskop Online",VENGEANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Vengeance.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260407/7a/e9/v_196145470_m_601_en_1013_569.jpg" group-title="Bioskop Online",A KNIFE OF THE WEAPON GLEAMS WITH BLOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AknifeOfTheWeapon-GleamsWithBlood.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mXjGJQuHfwg/hq720.jpg" group-title="Bioskop Online",DOCTOR PLAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Doctor-Plague.m3u8
+
+#EXTINF:-1 tvg-logo="https://material.asset.catchplay.com/SNY-ID-006-A1012/artworks/posters/SNY-ID-006-A1012-P448.webp" group-title="Bioskop Online",SNIPER - NO NATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SniperNo-Nation.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gVWp4mPMsVo/maxresdefault.jpg" group-title="Bioskop Online",FUZE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Fuze.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/1e/b5/7a/1eb57a7c-6687-74de-7733-fde04741f705/Uncorked_BloodTotem_Itunes_Landscape_V1_16x9_3840x2160.png/1200x675.jpg" group-title="Bioskop Online",BLOOD TOTEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Blood-Totem.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2NAk9ATyIhY/hq720.jpg" group-title="Bioskop Online",SKATE TO HELL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SkateTo-Hell.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic8.iqiyipic.com/image/20260330/6f/cf/v_196015943_m_601_zh-CN_m2_720_405.jpg" group-title="Bioskop Online",CELESTIAL QUEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Celestial-Quest.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/et00481597-qusclaslmu-landscape.jpg" group-title="Bioskop Online",SEND HELP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SendHelp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7tlybWsZjqs/hq720.jpg" group-title="Bioskop Online",REFUGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Refuge.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/a91JhBuP674/hq720.jpg" group-title="Bioskop Online",INSIDIOS TALES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Insidious-Tales.m3u8
+
+#EXTINF:-1 tvg-logo="https://filmonizirani.net/wp-content/uploads/2026/02/Tenement.webp" group-title="Bioskop Online",TENEMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Tenement.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fc%2Fgracenote%2Fc83ab0fa1f52178b473134cf37c78693.jpg" group-title="Bioskop Online",A GANGSTERS LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AGangsters-Life.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fadaatmedia.com/sites/default/files/styles/news_image_full_view_880x495/public/2025-08/TIFF%20Image_6%404x.png" group-title="Bioskop Online",PALESTINE 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Palestine36.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/et00424340-bnewxutpyx-landscape.jpg" group-title="Bioskop Online",MARDAANI 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Mardaani3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v3DrXwp9sOQ/maxresdefault.jpg" group-title="Bioskop Online",DO NOT ENTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/DoNot-Enter.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cuttothetake.com/wp-content/uploads/2026/03/Title-3.jpg?fit=1200%2C675&ssl=1" group-title="Bioskop Online",RED RIDING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Red-Riding.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.femaledaily.com/2020/09/mulan-20201.png" group-title="Bioskop Online",MULAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmulan.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260327/22/6f/v_194295331_m_601_en_720_405.jpg" group-title="Bioskop Online",SOUL GUIDING LANTERN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SoulGuiding-Lantern2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EUWPY2Rjgys/hq720.jpg" group-title="Bioskop Online",HEART OF THE FUTURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/HeartOf-theFuture.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.laughingplace.com/uploads/media/2026/02/Ready-or-Not-2.png" group-title="Bioskop Online",READY OR NOT - HERE I COME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ReadyOrNot-HereICome.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/dFzCGGhcMycxeE4s4r9KSzGfqjU.jpg" group-title="Bioskop Online",SWORDS OF LEGENDS - HEART OF THE SWORD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/SwordsOfLegends-HeartOfTheSword.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic4.iqiyipic.com/image/20260318/6b/ae/v_194303191_m_601_en_m2_1013_569.jpg" group-title="Bioskop Online",MISSION AGAINST DRUGS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/MissionAgainst-Drugs.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3lxudebZT3Ed5YslEuwqsfM7KxB.jpg" group-title="Bioskop Online",FIGHT AGAINST EVIL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/FightAgainst-Evil3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.grid.id/crop/0x0:0x0/filters:format(webp):quality(100)/photo/2026/01/08/we-bury-the-dead-headline-01png-20260108122854.png" group-title="Bioskop Online",WE BURY THE DEAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/WeBuryThe-Dead.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic4.iqiyipic.com/image/20260219/f7/4b/v_192979554_m_601_en_1080_608.jpg" group-title="Bioskop Online",SPIDER FAIRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Spider-Fairy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OT-sFvPcRPc/maxresdefault.jpg" group-title="Bioskop Online",ANACONDA - BLOOD COIL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Anaconda-BloodCoil.m3u8
+
+#EXTINF:-1 tvg-logo="https://overseasidol.com/wp-content/uploads/2026/01/Film-The-Butchers-Blade-akan-Tayang-Januari-Ini-di-iQiyi.webp" group-title="Bioskop Online",THE BUTCHERS BLADE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheButchers-Blade.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20260302/53/a7/v_193692082_m_601_en_m1_720_405.jpg" group-title="Bioskop Online",THE DUAL HEROES STRIKE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheDual-HeroesStrike.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic4.iqiyipic.com/image/20260310/3c/af/v_194303089_m_601_en_1080_608.jpg" group-title="Bioskop Online",THE GHOST MARRIAGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheGhost-Marriage.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4NgF8aP5Myc/maxresdefault.jpg" group-title="Bioskop Online",MEXICALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Mexicali.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1m82OCKy37Q/hq720.jpg" group-title="Bioskop Online",SNAKE 5 - MONSTER CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Snake5-MonsterCity.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SNmYzpvXdK4/maxresdefault.jpg" group-title="Bioskop Online",JURASSIC REBORN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Jurassic-Reborn.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Tzl0TD1kU3rQn1gjLfwUNA/1200x675.jpg" group-title="Bioskop Online",NINE RING GOLDEN DAGGER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/NineRingGolden-Dagger.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260205/b6/4f/v_192655384_m_601_en_1013_569.jpg" group-title="Bioskop Online",ANECDOTES OF APE MONTAIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/AnecdotesOfApe-Mountain.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UzJgLc4jzoQ/hq720.jpg" group-title="Bioskop Online",MY BOO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/My-Boo2.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f3/ef/ff/f3efff46-9f37-cd54-217a-a3309e7dfd5e/TDS_APPLE_16X9_3840X2160_POSTER.png/1200x675.jpg" group-title="Bioskop Online",THE DRESDEN SUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/The-Dresden-Sun.m3u8
+
+#EXTINF:-1 tvg-logo="https://ihram.co.id/wp-content/uploads/2026/01/Reuni-Matt-Damon-dan-Ben-Affleck-di-The-Rip-Harusnya-Tayang-di-Bioskop-Bukan-Netflix.webp" group-title="Bioskop Online",THE RIP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/The-Rip.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pbg8ks0rAuE/hq720.jpg" group-title="Bioskop Online",SHELTER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Shelter-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/streamingmovienight.com/wp-content/uploads/2026/03/Untitled-design-1-1.jpg?resize=863%2C485&ssl=1" group-title="Bioskop Online",WAR MACHINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/War-Machine.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/57_2uWxd_kc/maxresdefault.jpg" group-title="Bioskop Online",PUSHED OFF A PLANE AND SURVIVED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/PushedOff-A-PlaneAndSurvived.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3Dyd0KrFcaw/maxresdefault.jpg" group-title="Bioskop Online",LAZARUS - THE AWAKENING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/LazarusThe-Awakening.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic6.iqiyipic.com/image/20260123/b8/a1/v_191622481_m_600_en_m1_480_270.webp" group-title="Bioskop Online",THE REAL MONKEY KING (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/TheRealMonkey-King.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic9.iqiyipic.com/image/20260212/b6/19/v_192634854_m_601_en_1080_608.jpg" group-title="Bioskop Online",FURY IN THE SHADOWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Fury-inTheShadows.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0ba911f38db4d6fd1f6eb7bbcc9f9a949ee55802cadf85a3a61bceac256aa585.jpg" group-title="Bioskop Online",BLACKOUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Blackout.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uXRFha7MLTM/maxresdefault.jpg" group-title="Bioskop Online",THE INTERNSHIP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/The-Internship.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic4.iqiyipic.com/image/20260320/49/4a/v_195002095_m_601_en_720_405.jpg" group-title="Bioskop Online",CRUSH THE WICKED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Crush-The-Wicked.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c7/45/bf/c745bfc2-fe45-585e-8f78-ea3aea2781b0/BLXW452_artwork_CoverArt_en-US.png/1200x675.jpg" group-title="Bioskop Online",OSCAR SHAW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Oscar-Shaw.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0094920244a8673146cb15e2eae6a8207a50ac03e0d92784dcc1b3cf52c1db03.jpg" group-title="Bioskop Online",PEAKY BLINDERS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Peaky-blinders.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/85/6a/8d856ab8-6873-f4da-816d-0663336aa0d0/relentless_poster_3840_coverart.png/1200x675.jpg" group-title="Bioskop Online",RELENTLESS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Relentless.m3u8
+
+
