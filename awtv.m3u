@@ -2758,6 +2758,10 @@ https://www.dropbox.com/scl/fi/hdszebh10p03lvgc5emws/D21.FUN-Godzilla-vs.-Kong-2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Kong_Skull_Island_poster.jpg" group-title="GODZILLA",Kong: Skull Island (2017)
 https://www.googleapis.com/drive/v3/files/1qqmArigImCSyIy9fm9lRLXKq5E-RIhuJ?alt=media&key=AIzaSyCxG2tTcEmx692LGZ7jaasJ3mflZz78hCQ
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q_8-2W-0th8/maxresdefault.jpg" group-title="INDO ACTION", 🔴 NOBAR G30S/PKI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://getshared.com/dashboard/api/files/a2fd5f29-bc19-11f1-ba9f-ac1f6b763f30/stream?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjUzMzkwLCJlbWFpbCI6ImRhbmdkdXRrb3BsbzExODRAZ21haWwuY29tIiwidHYiOjAsImlhdCI6MTc5MDY3OTg0MywiZXhwIjoxNzkzMjcxODQzfQ.Saqm2dx80NAMffJw13SUE5GP--JxjNVQH776wkkZl-0&t=1790728394420
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2020/06/The-Raid-2_all-templateThumbnail.jpg" group-title="INDO ACTION",THE RAID 2 (BERANDAL)
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtheRaid2.m3u8
@@ -3413,10 +3417,8 @@ https://www.googleapis.com/drive/v3/files/1c9ky-etkDeext5iibOQIzrjpKR74cwvd?alt=
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q_8-2W-0th8/maxresdefault.jpg" group-title="🔴 NOBAR", PENGKHIANATAN - G30S/PKI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://getshared.com/dashboard/api/files/a2fd5f29-bc19-11f1-ba9f-ac1f6b763f30/stream?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjUzMzkwLCJlbWFpbCI6ImRhbmdkdXRrb3BsbzExODRAZ21haWwuY29tIiwidHYiOjAsImlhdCI6MTc5MDY3OTg0MywiZXhwIjoxNzkzMjcxODQzfQ.Saqm2dx80NAMffJw13SUE5GP--JxjNVQH776wkkZl-0&t=1790728394420
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q_8-2W-0th8/maxresdefault.jpg" group-title="🔴 NOBAR", PILEM
 https://raw.githubusercontent.com/Gawir01/Master/refs/heads/main/index.m3u8
 https://raw.githubusercontent.com/Gawir01/Master1/refs/heads/main/index.m3u8
 https://raw.githubusercontent.com/Gawir01/Master2/refs/heads/main/index.m3u8
