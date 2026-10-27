@@ -700,6 +700,10 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/master.mpd
 
 
 
+
+
+
+
 #############################################################################################################
 ##########################################   National TV   ##################################################
 #############################################################################################################
@@ -713,7 +717,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI 3
@@ -721,7 +725,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/UkNUSS1DaGFubmVs/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/UkNUSS1DaGFubmVs/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -732,7 +736,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=2
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV 3
@@ -740,7 +744,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/TU5DVFY/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TU5DVFY/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -751,7 +755,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=3
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV 3
@@ -759,7 +763,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/R1RWLUNIQU5ORUw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/R1RWLUNIQU5ORUw/manifest.mpd
 
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -770,13 +774,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=4
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine 
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=6
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV 2
@@ -784,13 +788,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VHJhbnNUVg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VHJhbnNUVg/manifest.mpd
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV 3
+http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGaZQL0MY_PoKmGfKrbTKieo
+#http://013tv.com:8080/F33848/cbd9779b/162503
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine 
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=7
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 2
@@ -798,13 +806,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VFJBTlM3LW15/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VFJBTlM3LW15/manifest.mpd
+
+#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 3
+http://hometv.biz.id/play/DAtxb2AEuVjKed2cfeCDGToW4dSjXMlQlVWoX0deN6w
+#http://013tv.com:8080/F33848/cbd9779b/162502
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=8
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV 2
@@ -812,7 +824,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/U0NUVi1teQ/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/U0NUVi1teQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -822,7 +834,7 @@ https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=9
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar 2
@@ -830,7 +842,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/SW5kb3NpYXI/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SW5kb3NpYXI/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png",Indosiar 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -840,7 +852,7 @@ https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV 2
@@ -848,13 +860,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/QU5UVg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/QU5UVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=11
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=11&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV 2
@@ -862,7 +874,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/cnR2IENobmw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/cnR2IENobmw/manifest.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -872,7 +884,7 @@ http://202.150.161.212:5000/live/channel23/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=12
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=12&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne 2
@@ -880,13 +892,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VFZPTkU/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VFZPTkU/manifest.mpd
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=13
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=13&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV 2
@@ -894,13 +906,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/S29tcGFzIFRW/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/S29tcGFzIFRW/manifest.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=14
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=14&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV 2
@@ -908,13 +920,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/TWV0cm9UVg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TWV0cm9UVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=15
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=15&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI Nasional
@@ -922,13 +934,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VFZSSQ/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VFZSSQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png",Da Ai TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=18
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=18&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/index.mpd
 
 #EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png",Da Ai TV 2
@@ -936,13 +948,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/REFBSSBUVg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/REFBSSBUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="Moji.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=19
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=19&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
 #EXTINF:-1 tvg-id="Moji.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji 2
@@ -957,7 +969,7 @@ http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=23
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=23&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-id="MDTV.id@HD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV 2
@@ -965,17 +977,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/TURUVg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TURUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="MDTV.id@HD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
+https://bosstv.asia/yabostv/875.mpd
 
 #EXTINF:-1 tvg-id="JTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png",JTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=24
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=24&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #EXTINF:-1 tvg-id="JTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png",JTV 2
@@ -983,13 +995,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/anR2LUNoYW5uZWw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/anR2LUNoYW5uZWw/manifest.mpd
 
 #EXTINF:-1 tvg-id="JakTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png",Jak TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=25
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=25&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
 
 #EXTINF:-1 tvg-id="JakTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png",Jak TV 2
@@ -997,20 +1009,20 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd
 
 #EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=26
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=26&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 tvg-id="BandungTV.id@SD" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=27
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=27&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nusantara_TV_Symbol.svg/330px-Nusantara_TV_Symbol.svg.png",Nusantara TV
@@ -1022,7 +1034,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/R2FydWRhIFRW/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/R2FydWRhIFRW/manifest.mpd
 
 
 
@@ -1035,69 +1047,69 @@ https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/SEJPLW15/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPLW15/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@SD" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/SEJPIEhpdHM/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPIEhpdHM/manifest.mpd
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="Movies" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2luZW1heA/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2luZW1heA/manifest.mpd
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us@SD" group-title="Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/V2FybmVyIFRW/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/V2FybmVyIFRW/manifest.mpd
 
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=54
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=54&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1 tvg-id="Galaxy.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png",Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=49
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png",Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=48
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTINF:-1 tvg-id="IMC.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png",IMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=50
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=50&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id@SD" group-title="Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png",Bioskop Indonesia
@@ -1105,83 +1117,83 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
 
 #EXTINF:-1 tvg-id="CinemaWorld.my@SD" group-title="Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/aa0b92a1-60c1-4a7f-83ee-432c7323c97a.jpg",Cinema World
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2luZW1hIFdvcmxk/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2luZW1hIFdvcmxk/manifest.mpd
 
 #EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png",Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=93
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=93&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTINF:-1 tvg-id="Cinemachi.uk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=36
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=36&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #EXTINF:-1 tvg-id="CinemachiKids.uk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=37
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=37&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 tvg-id="CinemachiXtra.uk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Uniques
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=38
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=38&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #EXTINF:-1 tvg-id="CinemachiMax.uk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=39
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=39&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #EXTINF:-1 tvg-id="CinemachiAction.uk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",Cineedge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=40
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=40&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=41
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=41&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=45
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=45&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 #EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png",Zee Bioskop 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=47
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=47&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png",Zee Bioskop 2
@@ -1189,13 +1201,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/WmVlIEJpb3Nrb3A/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/WmVlIEJpb3Nrb3A/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png",tvN Movies 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=46
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png",tvN Movies 2
@@ -1203,81 +1215,83 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VFZOIE1vdmllcw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VFZOIE1vdmllcw/manifest.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies.sg@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-m.png",HITS Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=42
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTINF:-1 tvg-id="00000000000000000204" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",Drama World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=204
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=204&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
+
 
 
 #############################################################################################################
 ##########################################       Kids      ##################################################
 #############################################################################################################
 
-#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/670/493670-LOGO-m.png",CBeebies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=58
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 tvg-id="NickJrAsia.sg@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=60
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=60&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/670/493670-LOGO-m.png",CBeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=58&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=64
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png",Dreamworks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=67
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
 #EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=56
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=56&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",Zoo Moo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=63
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=63&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 #EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=57
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=57&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-m.png",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=20
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 tvg-id="DuniaAnak.id@SD" group-title="Kids" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/76e39ba2-62b9-4f96-90ae-3de803edb400.png",Dunia Anak
@@ -1285,42 +1299,42 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/RHVuaWEgQW5haw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/RHVuaWEgQW5haw/manifest.mpd
 
 #EXTINF:-1 tvg-id="248" group-title="Kids" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg",Cartoon TV Premium
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
 
 #EXTINF:-1 tvg-id="249" group-title="Kids" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg",Cartoon TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2FydG9vbiBUVg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbiBUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="250" group-title="Kids" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg",Cartoon TV Classic
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
 
 #EXTINF:-1 tvg-id="__" group-title="Kids" tvg-logo="https://images.indihometv.com/assets/1705331415_CARTOONITO-88-HD-BW.png",Cartoonito
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2FydG9vbml0bw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbml0bw/manifest.mpd
 
 #EXTINF:-1 tvg-id="__" group-title="Kids" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/cartoon-network.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2FydG9vbiBOZXR3b3Jr/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbiBOZXR3b3Jr/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/288/X0_663193ade633f_2000.png" group-title="Kids",ABC Cartoons
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1396,6 +1410,56 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junio
 
 
 
+
+#############################################################################################################
+##########################################    Knowledge    ##################################################
+#############################################################################################################
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=76&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png",Crime + Investigation Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=95&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=102&type=drm
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=104&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+
+#EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/651/651-LOGO-m.png",Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=105&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=155&type=drm
+https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
+
+
+
+
 #############################################################################################################
 ##########################################     Sports     ###################################################
 #############################################################################################################
@@ -1403,139 +1467,139 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junio
 #EXTINF:-1 tvg-id="Sportstars.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars2.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars3.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:0 tvg-id="Sportstars4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports",Sportstar 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=205&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=120&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=122&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
 
 #EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=123
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=123&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
 
 #EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=124
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=124&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports4.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=125
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=125&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports5.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=126
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=126&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-id="FightSports" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png",Fight Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=121
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=121&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png",V+ LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1002
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1002&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png",V+ LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1010
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1010&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png",V+ Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1011
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1011&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-l.png",V+ LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1012
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1012&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-l.png",V+ LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1013
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1013&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png",V+ LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1014
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1014&type=drm
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1015
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1015&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1016
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1016&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/943ac2b78bfa4e8eab531c3880aa337a/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1017
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1017&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ LIVE 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1018
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1018&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/index.mpd
 
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e14b89e-d803-454f-a35a-752163f30803.png" group-title="Sports", TVRI Sport
@@ -1543,7 +1607,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VFZSSSBTcG9ydA/manifest.mpd?signature=NmNkMGM1NmE5NWZjNDRhNjNiMjViNGFjNzZjZGNjZWY=&time=15256410363&device_id=Z6mqrW9Z7OFrjmg6FeMoZPQbpo03iZdAAuY8TNuSpJMKaLEBrg33gFHr8g
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VFZSSSBTcG9ydA/manifest.mpd?signature=NmNkMGM1NmE5NWZjNDRhNjNiMjViNGFjNzZjZGNjZWY=&time=15256410363&device_id=Z6mqrW9Z7OFrjmg6FeMoZPQbpo03iZdAAuY8TNuSpJMKaLEBrg33gFHr8g
 
 
 
@@ -1555,42 +1619,42 @@ https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=65
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=65&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTINF:-1 tvg-id="FTV.tw@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png",Formosa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=69
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=69&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
 
 #EXTINF:-1 tvg-id="SETTaiwan.tw@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/548/604548-LOGO-m.png",Sanlih
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=70
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=70&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
 
 #EXTINF:-1 tvg-id="OKTV.id@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=71
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=71&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 #EXTINF:-1 tvg-id="Entertainment.id@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png",Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=72
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=72&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png",TVN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=73
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png",TVN 2
@@ -1598,27 +1662,27 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/dHZOQ2hhbm5lbA/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/dHZOQ2hhbm5lbA/manifest.mpd
 
 #EXTINF:-1 tvg-id="KIX.hk@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=75
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=75&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 tvg-id="HITS.sg@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-m.png",Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=77
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=77&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png",AXN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=79
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=79&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png",AXN 2
@@ -1626,27 +1690,27 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/QVhOLW15/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/QVhOLW15/manifest.mpd
 
 #EXTINF:-1 tvg-id="LifetimeAsia.us@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=80
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=80&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
 #EXTINF:-1 tvg-id="VisionPrime.id@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png",Vision Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=87
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=87&type=drm
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=92
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=92&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
 #EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="Entertainment" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4f477c14-5ec0-47d2-9665-925fe0056c64.png",Dunia Lain
@@ -1654,7 +1718,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/RHVuaWEgTGFpbg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/RHVuaWEgTGFpbg/manifest.mpd
 
 #EXTINF:-1 tvg-id="nsert.id@SD" group-title="Entertainment" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/b2b24ee2-1a34-4fb2-af2f-2a00a28d15c9.png",Insert
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -1668,76 +1732,76 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/33
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/RWF0IE4gR28/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/RWF0IE4gR28/manifest.mpd
 
 #EXTINF:-1 tvg-id="185" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8c6fb1a8-44f6-4d20-9093-fb4bb93bc5cd.jpg" group-title="Entertainment", Movies News
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/TW92aWVzIE5ld3M/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TW92aWVzIE5ld3M/manifest.mpd
 
 #EXTINF:-1 tvg-id="274" group-title="Entertainment" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9a3142d7-c566-476f-b6f8-d0d7350b2733.jpg",Travel TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VHJhdmVsIFRW/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/VHJhdmVsIFRW/manifest.mpd
 
 #EXTINF:-1 tvg-id="AnhuiTV.cn@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=157
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=157&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
 
 #EXTINF:-1 tvg-id="DragonTV.cn@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png",Dragon TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=159
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=159&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
 
 #EXTINF:-1 tvg-id="HunanTV.cn@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=160
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=160&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
 
 #EXTINF:-1 tvg-id="JiangsuTV.cn@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png",Jiangsu TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=161
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=161&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=162
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=162&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/311/580311-LOGO-m.png",TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=163
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=163&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
 
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png",Arirang World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=164
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=164&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
 
 #EXTINF:-1 tvg-id="ABCAustralia.au@SD" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=165
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=165&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
 
 
@@ -1750,111 +1814,111 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/QmVyaXRhIFNhdHU/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/QmVyaXRhIFNhdHU/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",Sindo News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=15
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=15&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/672/493672-LOGO-m.png",BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=130
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=130&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/382/600382-LOGO-m.png",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=131
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=131&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png",Fox News Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=132
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=132&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-m.png",Bloomberg TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=133
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=133&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png",IDX Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=134
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134&type=drm
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png",DW English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=146
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=146&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-m.png",France 24 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=147
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=147&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png",TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=148
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=148&type=drm
 https://dv6fza91pwlw3.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-m.png",Al Jazeera English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=149
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=149&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png",RT English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=150
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=150&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png",EuroNews English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=151
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=151&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-m.png",CNA International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=152
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=152&type=drm
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=156
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=156&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ea2f3817-add8-44b7-b222-664cacd221ca.jpg",CNBC
@@ -1862,69 +1926,22 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg",CNN INDONESIA
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q05OaS1teQ/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q05OaS1teQ/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/77f2e664-6692-4c6b-a5c7-a483fda8dca7.png" group-title="News", CNN International
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q05OIEludGVybmF0aW9uYWw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q05OIEludGVybmF0aW9uYWw/manifest.mpd
 
-
-
-#############################################################################################################
-##########################################    Knowledge    ##################################################
-#############################################################################################################
-
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png",NHK World Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=76
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
-
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png",Crime + Investigation Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=95
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
-
-#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=102
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
-
-#EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=104
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
-
-#EXTINF:-1 tvg-id="LoveNature.ca@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/651/651-LOGO-m.png",Love Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=105
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
-
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png",CGTN Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=155
-https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 
 
 
@@ -1937,28 +1954,28 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=88
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=88&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 #EXTINF:-1 tvg-id="00000000000000000089" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=89
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89&type=drm
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us@SD" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=101
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=101&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
 #EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=103
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=103&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
 #EXTINF:-1 tvg-id="ChannelJowo.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/64efefa1-5f19-47e4-ac3d-7a871b590a23.jpg" group-title="Lifestyle",Channel Jowo
@@ -1966,14 +1983,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2hhbm5lbCBKb3dv/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2hhbm5lbCBKb3dv/manifest.mpd
 
 #EXTINF:-1 group-id="276" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ded16232-f41b-418d-a666-c0c2a502e348.jpg" group-title="Lifestyle",Cooking TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q29va2luZyBUVg/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q29va2luZyBUVg/manifest.mpd
 
 
 
@@ -1985,7 +2002,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=142
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=142&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTINF:-1 tvg-id="MusikIndonesia.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5532f74e-07ee-4a70-b7d4-b5233778381d.png" group-title="Music",Musik Indonesia
@@ -1993,7 +2010,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd
 
 #EXTINF:-1 tvg-id="281" tvg-logo="___" group-title="Music",Song TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2015,14 +2032,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png"group-title="Religi",RODJA TV
 https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
+https://rodjatv.com/rodjatv/live/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="auto.rodja.tv" group-title="Religi" tvg-logo="https://mimipipi22.github.io/logo/religion/rodjatv.jpg",RODJA TV
-https://cdnbal1.indihometv.com/atm/DASH/rodjatv/master.mpd
-https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV9Nusantara.id@SD" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png",TV9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
