@@ -2026,42 +2026,42 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=153
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=153&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png"group-title="Religi",RODJA TV
 https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
-https://rodjatv.com/rodjatv/live/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TV9Nusantara.id@SD" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png",TV9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=28
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=28&type=drm
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
 
 #EXTINF:-1 tvg-id="DMITV.id@SD" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/839/437839-LOGO-m.png",DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=29
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=29&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
 
 #EXTINF:-1 tvg-id="TVMu.id@SD" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-m.png",TV Mu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=30
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=30&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 #EXTINF:-1 tvg-id="MuslimTV.id@SD" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=137
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=137&type=drm
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+
 
 
 
